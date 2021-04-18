@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Statements>
+    <Statement>
+        <Name>ПРЕДСТАВИТЕЛЬСТВО ООО "SUN PHARMACEUTICAL INDUSTRIES LTD." (РЕСПУБЛИКА ИНДИЯ) В РЕСПУБЛИКЕ БЕЛАРУСЬ</Name>
+        <AccountNumber>BY86BPSB30211816590139330000</AccountNumber>
+        <CurrCode>933</CurrCode>
+        <CurrCodeISO>BYN</CurrCodeISO>
+        <BIC>BPSBBY2X</BIC>
+        <UNP>102332897</UNP>
+        <StatementDate>2019-06-03</StatementDate>
+        <DataActuality>2019-08-08T07:48:52</DataActuality>
+        <DatePrevious>2019-05-31</DatePrevious>
+        <OpeningBalance>7686.9</OpeningBalance>
+        <OpeningBalanceNat>7686.9</OpeningBalanceNat>
+        <ClosingBalance>9933.1</ClosingBalance>
+        <ClosingBalanceNat>9933.1</ClosingBalanceNat>
+        <Rate>1</Rate>
+        <RateDate>2019-06-03</RateDate>
+        <RateScale>1</RateScale>
+        <DebetDocuments>
+            <DocumentsCount>3</DocumentsCount>
+            <Turnover>8199.8</Turnover>
+            <TurnoverNat>8199.8</TurnoverNat>
+            <Document>
+                <DocumentNumber>54932</DocumentNumber>
+                <DocumentDate>2019-06-03</DocumentDate>
+                <DocumentType>6</DocumentType>
+                <DateExecution>2019-06-01T15:29:55</DateExecution>
+                <Amount>198</Amount>
+                <AmountNat>198</AmountNat>
+                <CurrCode>933</CurrCode>
+                <PaymentSequence>22</PaymentSequence>
+                <StatePay></StatePay>
+                <ForWhomUNP></ForWhomUNP>
+                <ContractNumber></ContractNumber>
+                <ContractDate></ContractDate>
+                <Beneficiar>
+                    <Name>ОАО "БПС-СБЕРБАНК"</Name>
+                    <UNP>100219673</UNP>
+                    <Account>BY19BPSB64331816590159330000</Account>
+                    <BIC>BPSBBY2X</BIC>
+                    <BankName>ОАО "БПС-СБЕРБАНК", г Минск</BankName>
+                </Beneficiar>
+                <Correspondent>
+                    <Account></Account>
+                    <BIC></BIC>
+                    <BankName></BankName>
+                </Correspondent>
+                <Ground>Оплата услуг по тарифному плану "Профи" за период с 01/07/2019 по 31/07/2019 со счета BY86BPSB30211816590139330000, согласно договору 777/181659/Т/933/01 от 30.06.2017. Без НДС согласно п. 1.37.2. ст.94 Особенной части Налогового Кодекса".</Ground>
+            </Document>
+            <Document>
+                <DocumentNumber>377</DocumentNumber>
+                <DocumentDate>2019-06-03</DocumentDate>
+                <DocumentType>1</DocumentType>
+                <DateExecution>2019-06-03T09:35:31</DateExecution>
+                <Amount>2500</Amount>
+                <AmountNat>2500</AmountNat>
+                <CurrCode>933</CurrCode>
+                <PaymentSequence>22</PaymentSequence>
+                <StatePay></StatePay>
+                <ForWhomUNP></ForWhomUNP>
+                <ContractNumber></ContractNumber>
+                <ContractDate></ContractDate>
+                <Beneficiar>
+                    <Name>НПО "БЕРЛИО"</Name>
+                    <UNP>100429079</UNP>
+                    <Account>BY34OLMP31190000001710000933</Account>
+                    <BIC>OLMPBY2X</BIC>
+                    <BankName>ОАО 'БЕЛГАЗПРОМБАНК'</BankName>
+                </Beneficiar>
+                <Correspondent>
+                    <Account></Account>
+                    <BIC></BIC>
+                    <BankName></BankName>
+                </Correspondent>
+                <Ground>ОПЛАТА ПОКУПКИ ЭЛЕКТРОННЫХ ДЕНЕГ "БЕРЛИО" СОГЛ ДОГ 24052 ОТ 05/03/2008 БЕЗ НДС</Ground>
+            </Document>
+            <Document>
+                <DocumentNumber>378</DocumentNumber>
+                <DocumentDate>2019-06-03</DocumentDate>
+                <DocumentType>1</DocumentType>
+                <DateExecution>2019-06-03T14:13:28</DateExecution>
+                <Amount>5501.8</Amount>
+                <AmountNat>5501.8</AmountNat>
+                <CurrCode>933</CurrCode>
+                <PaymentSequence>22</PaymentSequence>
+                <StatePay></StatePay>
+                <ForWhomUNP></ForWhomUNP>
+                <ContractNumber></ContractNumber>
+                <ContractDate></ContractDate>
+                <Beneficiar>
+                    <Name>ООО "ИНВЕСТИЦИОННАЯ КОМПАНИЯ "СОКОЛ", РБ</Name>
+                    <UNP>191613723</UNP>
+                    <Account>BY25MTBK30120001093300081683</Account>
+                    <BIC>MTBKBY22</BIC>
+                    <BankName>ЗАО 'МТБАНК'</BankName>
+                </Beneficiar>
+                <Correspondent>
+                    <Account></Account>
+                    <BIC></BIC>
+                    <BankName></BankName>
+                </Correspondent>
+                <Ground>ПЛАТА ЗА ОРГАНИЗАЦИЮ ПИТАНИЯ. СУММА СОГЛ СЧ-ПР Y-002096 ОТ 03.06.2019. СУММА НДС 916,97=.</Ground>
+            </Document>
+        </DebetDocuments>
+        <CreditDocuments>
+            <DocumentsCount>1</DocumentsCount>
+            <Turnover>10446</Turnover>
+            <TurnoverNat>10446</TurnoverNat>
+            <Document>
+                <DocumentNumber>145</DocumentNumber>
+                <DocumentDate>2019-06-03</DocumentDate>
+                <DocumentType>6</DocumentType>
+                <DateExecution>2019-06-03T13:53:30</DateExecution>
+                <Amount>10446</Amount>
+                <AmountNat>10446</AmountNat>
+                <CurrCode>933</CurrCode>
+                <PaymentSequence>22</PaymentSequence>
+                <StatePay></StatePay>
+                <ForWhomUNP></ForWhomUNP>
+                <ContractNumber></ContractNumber>
+                <ContractDate></ContractDate>
+                <Payer>
+                    <Name>ОАО "БПС-СБЕРБАНК"</Name>
+                    <UNP>100219673</UNP>
+                    <Account>BY88BPSB69118170000149330000</Account>
+                    <BIC>BPSBBY2X</BIC>
+                    <BankName>ОАО "БПС-СБЕРБАНК", г Минск</BankName>
+                </Payer>
+                <Correspondent>
+                    <Account></Account>
+                    <BIC></BIC>
+                    <BankName></BankName>
+                </Correspondent>
+                <Ground>Перевод с продажей ПП 145  от 03.06.19 Представительство ООО "Sun Pharmaceutical Industries LTD." (Республика Индия) в Республике Беларусь. Курс  2.0892 за 1 ед. валюты. СВОБОДНАЯ ПРОДАЖА ИНОСТРАННОЙ ВАЛЮТЫ.</Ground>
+            </Document>
+        </CreditDocuments>
+    </Statement>
+</Statements>

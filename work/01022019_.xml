@@ -1,0 +1,771 @@
+<Statements>
+	<Statement>
+        <AccountNumber>BY54BPSB30241816590108400000</AccountNumber>
+        <CurrCode>840</CurrCode>
+        <CurrCodeISO>USD</CurrCodeISO>
+        <DebetDocuments>
+			<Document>
+                <DocumentNumber>65290</DocumentNumber> 
+                <DocumentDate>2019-02-01</DocumentDate>
+                <Amount>10.75</Amount>
+                <Beneficiar>
+                    <Name>ОАО "БПС-СБЕРБАНК"</Name>
+                    <UNP>100219673</UNP>
+                    <Account>BY84BPSB69018000050108400000</Account>
+                    <BIC>BPSBBY2X</BIC>
+                </Beneficiar>
+                <Ground>Вознаграждение Банка за исполнение банковского перевода по п/п № 29 от 01/02/2019 согласно Сборника вознаграждений (платы) за операции, осуществляемые ОАО "БПС-Сбербанк", от 20.12.2016 №01/01-07/606. Без НДС согласно п. 1.37.2. ст.94 Особенной части Налогового Кодекса".</Ground>
+            </Document>
+			<Document>
+                <DocumentNumber>29</DocumentNumber> 
+                <DocumentDate>2019-02-01</DocumentDate>
+                <Amount>1883.29</Amount>
+                <Beneficiar>
+                    <Name>РУП "ЦЕНТР ЭКСПЕРТИЗ И ИСПЫТАНИЙ В ЗДРАВООХРАНЕНИИ", РБ</Name>
+                    <UNP>101375883</UNP>
+                    <Account>BY42AKBB30120000041305200000</Account>
+                    <BIC>AKBBBY21511</BIC>
+                </Beneficiar>
+                <Ground>ПЛАТА ЗА ПРОВЕДЕНИЕ СПЕЦИАЛИЗИРОВАННОЙ ЭКСПЕРТИЗЫ ДОКУМЕНТОВ СОГЛ СЧ-Ф 158-ЛС ОТ 30.01.19, СУММА НДС (20%) 146,00 ДОЛЛ США</Ground>
+            </Document>
+			</DebetDocuments>
+		<CreditDocuments>
+ 			</CreditDocuments>
+    	</Statement>
+	<Statement>
+        <AccountNumber>BY54BPSB30241816590108400000</AccountNumber>
+        <CurrCode>840</CurrCode>
+        <CurrCodeISO>USD</CurrCodeISO>
+        None
+    	</Statement>
+	<Statement>
+        <AccountNumber>BY54BPSB30241816590108400000</AccountNumber>
+        <CurrCode>840</CurrCode>
+        <CurrCodeISO>USD</CurrCodeISO>
+        None
+    	</Statement>
+	<Statement>
+        <AccountNumber>BY54BPSB30241816590108400000</AccountNumber>
+        <CurrCode>840</CurrCode>
+        <CurrCodeISO>USD</CurrCodeISO>
+        <DebetDocuments>
+			<Document>
+                <DocumentNumber>11956</DocumentNumber> 
+                <DocumentDate>2019-02-06</DocumentDate>
+                <Amount>10.79</Amount>
+                <Beneficiar>
+                    <Name>ОАО "БПС-СБЕРБАНК"</Name>
+                    <UNP>100219673</UNP>
+                    <Account>BY84BPSB69018000050108400000</Account>
+                    <BIC>BPSBBY2X</BIC>
+                </Beneficiar>
+                <Ground>Вознаграждение Банка за исполнение банковского перевода по п/п № 30 от 06/02/2019 согласно Сборника вознаграждений (платы) за операции, осуществляемые ОАО "БПС-Сбербанк", от 20.12.2016 №01/01-07/606. Без НДС согласно п. 1.37.2. ст.94 Особенной части Налогового Кодекса".</Ground>
+            </Document>
+			<Document>
+                <DocumentNumber>30</DocumentNumber> 
+                <DocumentDate>2019-02-06</DocumentDate>
+                <Amount>1040.11</Amount>
+                <Beneficiar>
+                    <Name>ЗАО "БЕЛРОССТРАХ"</Name>
+                    <UNP>100782388</UNP>
+                    <Account>BY62MTBK30110001084000000245</Account>
+                    <BIC>MTBKBY22</BIC>
+                </Beneficiar>
+                <Ground>ОПЛАТА СТРАХОВЫХ ВЗНОСОВ СОГЛАСНО СЧ-Ф 9290074 ОТ 01.02.19, В СООТВЕТСТВИИ С ТАРИФОМ, УТВЕРЖДЕННЫМ МИНИСТЕРСТВОМ ФИНАНСОВ РБ ОТ 18.03.2004. БЕЗ НДС ПО ПОДПУНКТУ 1.39 СТ.94 НАЛОГОВОГО КОДЕКСА РБ.</Ground>
+            </Document>
+			</DebetDocuments>
+		<CreditDocuments>
+ 			</CreditDocuments>
+    	</Statement>
+	<Statement>
+        <AccountNumber>BY54BPSB30241816590108400000</AccountNumber>
+        <CurrCode>840</CurrCode>
+        <CurrCodeISO>USD</CurrCodeISO>
+        <DebetDocuments>
+			<Document>
+                <DocumentNumber>31</DocumentNumber> 
+                <DocumentDate>2019-02-07</DocumentDate>
+                <Amount>21604.00</Amount>
+                <Beneficiar>
+                    <Name>ОАО "БПС-СБЕРБАНК"</Name>
+                    <UNP>100219673</UNP>
+                    <Account>BY73BPSB69018600450498400000</Account>
+                    <BIC>BPSBBY2X</BIC>
+                </Beneficiar>
+                <Ground>Перевод с продажей ПП 31  от 07.02.19. Курс  2.1556 за 1 ед. валюты    СВОБОДНАЯ ПРОДАЖА ИНОСТРАННОЙ ВАЛЮТЫ</Ground>
+            </Document>
+			</DebetDocuments>
+		<CreditDocuments>
+ 			</CreditDocuments>
+    	</Statement>
+	<Statement>
+        <AccountNumber>BY54BPSB30241816590108400000</AccountNumber>
+        <CurrCode>840</CurrCode>
+        <CurrCodeISO>USD</CurrCodeISO>
+        <DebetDocuments>
+			<Document>
+                <DocumentNumber>9530</DocumentNumber> 
+                <DocumentDate>2019-02-08</DocumentDate>
+                <Amount>10.83</Amount>
+                <Beneficiar>
+                    <Name>ОАО "БПС-СБЕРБАНК"</Name>
+                    <UNP>100219673</UNP>
+                    <Account>BY84BPSB69018000050108400000</Account>
+                    <BIC>BPSBBY2X</BIC>
+                </Beneficiar>
+                <Ground>Вознаграждение Банка за исполнение банковского перевода по п/п № 34 от 08/02/2019 согласно Сборника вознаграждений (платы) за операции, осуществляемые ОАО "БПС-Сбербанк", от 20.12.2016 №01/01-07/606. Без НДС согласно п. 1.37.2. ст.94 Особенной части Налогового Кодекса".</Ground>
+            </Document>
+			<Document>
+                <DocumentNumber>6673</DocumentNumber> 
+                <DocumentDate>2019-02-08</DocumentDate>
+                <Amount>10.83</Amount>
+                <Beneficiar>
+                    <Name>ОАО "БПС-СБЕРБАНК"</Name>
+                    <UNP>100219673</UNP>
+                    <Account>BY84BPSB69018000050108400000</Account>
+                    <BIC>BPSBBY2X</BIC>
+                </Beneficiar>
+                <Ground>Вознаграждение Банка за исполнение банковского перевода по п/п № 36 от 08/02/2019 согласно Сборника вознаграждений (платы) за операции, осуществляемые ОАО "БПС-Сбербанк", от 20.12.2016 №01/01-07/606. Без НДС согласно п. 1.37.2. ст.94 Особенной части Налогового Кодекса".</Ground>
+            </Document>
+			<Document>
+                <DocumentNumber>6671</DocumentNumber> 
+                <DocumentDate>2019-02-08</DocumentDate>
+                <Amount>10.83</Amount>
+                <Beneficiar>
+                    <Name>ОАО "БПС-СБЕРБАНК"</Name>
+                    <UNP>100219673</UNP>
+                    <Account>BY84BPSB69018000050108400000</Account>
+                    <BIC>BPSBBY2X</BIC>
+                </Beneficiar>
+                <Ground>Вознаграждение Банка за исполнение банковского перевода по п/п № 33 от 08/02/2019 согласно Сборника вознаграждений (платы) за операции, осуществляемые ОАО "БПС-Сбербанк", от 20.12.2016 №01/01-07/606. Без НДС согласно п. 1.37.2. ст.94 Особенной части Налогового Кодекса".</Ground>
+            </Document>
+			<Document>
+                <DocumentNumber>6668</DocumentNumber> 
+                <DocumentDate>2019-02-08</DocumentDate>
+                <Amount>10.83</Amount>
+                <Beneficiar>
+                    <Name>ОАО "БПС-СБЕРБАНК"</Name>
+                    <UNP>100219673</UNP>
+                    <Account>BY84BPSB69018000050108400000</Account>
+                    <BIC>BPSBBY2X</BIC>
+                </Beneficiar>
+                <Ground>Вознаграждение Банка за исполнение банковского перевода по п/п № 32 от 08/02/2019 согласно Сборника вознаграждений (платы) за операции, осуществляемые ОАО "БПС-Сбербанк", от 20.12.2016 №01/01-07/606. Без НДС согласно п. 1.37.2. ст.94 Особенной части Налогового Кодекса".</Ground>
+            </Document>
+			<Document>
+                <DocumentNumber>34</DocumentNumber> 
+                <DocumentDate>2019-02-08</DocumentDate>
+                <Amount>154.76</Amount>
+                <Beneficiar>
+                    <Name>УЗ "НАЦИОНАЛЬНАЯ АНТИДОПИНГОВАЯ ЛАБОРАТОРИЯ" РБ</Name>
+                    <UNP>690422245</UNP>
+                    <Account>BY36AKBB36329000036270000000</Account>
+                    <BIC>AKBBBY2X</BIC>
+                </Beneficiar>
+                <Ground>ЗА ПРОВЕДЕНИЕ ИССЛЕДОВАНИЯ ЛЕК.СР. ЭКЗОМЕПРАЗОЛ СОГЛ СЧ-Ф 2 ОТ 17.01.19. СУММА - 71,44 ДОЛ.США, В ТОМ ЧИСЛЕ НДС - 11,91 ДОЛ.США</Ground>
+            </Document>
+			<Document>
+                <DocumentNumber>32</DocumentNumber> 
+                <DocumentDate>2019-02-08</DocumentDate>
+                <Amount>197.57</Amount>
+                <Beneficiar>
+                    <Name>МОГИЛЕВСКОЕ РУП "ФАРМАЦИЯ"</Name>
+                    <UNP>700014653</UNP>
+                    <Account>BY90BAPB30122002050160000000</Account>
+                    <BIC>BAPBBY2X</BIC>
+                </Beneficiar>
+                <Ground>ОПЛАТА ЗА МАРКЕТИНГОВЫЕ УСЛУГИ ЗА ЯНВАРЬ 2019 СОГЛ СЧ-Ф 87 ОТ 31.01.19. СУММА 91,2 ДОЛЛ.США В ТЧ НДС (20%) 15,20 ДОЛЛ.США</Ground>
+            </Document>
+			<Document>
+                <DocumentNumber>33</DocumentNumber> 
+                <DocumentDate>2019-02-08</DocumentDate>
+                <Amount>491.32</Amount>
+                <Beneficiar>
+                    <Name>БРЕСТСКОЕ РУП "ФАРМАЦИЯ"</Name>
+                    <UNP>200276523</UNP>
+                    <Account>BY65BLBB30120200276523001004</Account>
+                    <BIC>BLBBBY2X</BIC>
+                </Beneficiar>
+                <Ground>ПЛАТА ЗА МАРКЕТИНГОВЫЕ УСЛУГИ, ОКАЗАННЫЕ 5 ФЕВРАЛЯ. СУММА СОГЛ СЧ-Ф 78 ОТ 05.02.19. В Т.Ч. НДС (20%) 37,80 ДОЛЛ.США</Ground>
+            </Document>
+			<Document>
+                <DocumentNumber>36</DocumentNumber> 
+                <DocumentDate>2019-02-08</DocumentDate>
+                <Amount>3363.83</Amount>
+                <Beneficiar>
+                    <Name>РУП "ЦЕНТР ЭКСПЕРТИЗ И ИСПЫТАНИЙ В ЗДРАВООХРАНЕНИИ", РБ</Name>
+                    <UNP>101375883</UNP>
+                    <Account>BY42AKBB30120000041305200000</Account>
+                    <BIC>AKBBBY21511</BIC>
+                </Beneficiar>
+                <Ground>ПЛАТА ЗА ПРОВЕДЕНИЕ СПЕЦИАЛИЗИРОВАННОЙ ЭКСПЕРТИЗЫ ДОКУМЕНТОВ ЛЕК СР АЛЕВАЛ СОГЛ СЧ-Ф 172-ЛС, 173-ЛС ОТ 01.02.19, СУММА НДС (20%) 258,80 ДОЛЛ США</Ground>
+            </Document>
+			<Document>
+                <DocumentNumber>35</DocumentNumber> 
+                <DocumentDate>2019-02-08</DocumentDate>
+                <Amount>162472.50</Amount>
+                <Beneficiar>
+                    <Name>ОАО "БПС-СБЕРБАНК"</Name>
+                    <UNP>100219673</UNP>
+                    <Account>BY73BPSB69018600450498400000</Account>
+                    <BIC>BPSBBY2X</BIC>
+                </Beneficiar>
+                <Ground>Перевод с продажей ПП 35  от 08.02.19. Курс  2.1601 за 1 ед. валюты    СВОБОДНАЯ ПРОДАЖА ИНОСТРАННОЙ ВАЛЮТЫ</Ground>
+            </Document>
+			</DebetDocuments>
+		<CreditDocuments>
+ 			</CreditDocuments>
+    	</Statement>
+	<Statement>
+        <AccountNumber>BY54BPSB30241816590108400000</AccountNumber>
+        <CurrCode>840</CurrCode>
+        <CurrCodeISO>USD</CurrCodeISO>
+        <DebetDocuments>
+			<Document>
+                <DocumentNumber>16478</DocumentNumber> 
+                <DocumentDate>2019-02-11</DocumentDate>
+                <Amount>10.83</Amount>
+                <Beneficiar>
+                    <Name>ОАО "БПС-СБЕРБАНК"</Name>
+                    <UNP>100219673</UNP>
+                    <Account>BY84BPSB69018000050108400000</Account>
+                    <BIC>BPSBBY2X</BIC>
+                </Beneficiar>
+                <Ground>Вознаграждение Банка за исполнение банковского перевода по п/п № 37 от 11/02/2019 согласно Сборника вознаграждений (платы) за операции, осуществляемые ОАО "БПС-Сбербанк", от 20.12.2016 №01/01-07/606. Без НДС согласно п. 1.37.2. ст.94 Особенной части Налогового Кодекса".</Ground>
+            </Document>
+			<Document>
+                <DocumentNumber>37</DocumentNumber> 
+                <DocumentDate>2019-02-11</DocumentDate>
+                <Amount>2911.64</Amount>
+                <Beneficiar>
+                    <Name>РУП "ЦЕНТР ЭКСПЕРТИЗ И ИСПЫТАНИЙ В ЗДРАВООХРАНЕНИИ", РБ</Name>
+                    <UNP>101375883</UNP>
+                    <Account>BY42AKBB30120000041305200000</Account>
+                    <BIC>AKBBBY21511</BIC>
+                </Beneficiar>
+                <Ground>ПЛАТА ЗА ПРОВЕДЕНИЕ ПЕРВИЧНОЙ ЭКСПЕРТИЗЫ СОГЛ СЧ-Ф 469/470/471/472/473/474/475/476/477/478-ЭКСП-ЛС ОТ 05.02.19, СУММА НДС (20%) 224,00 ДОЛЛ США</Ground>
+            </Document>
+			</DebetDocuments>
+		<CreditDocuments>
+ 			</CreditDocuments>
+    	</Statement>
+	<Statement>
+        <AccountNumber>BY54BPSB30241816590108400000</AccountNumber>
+        <CurrCode>840</CurrCode>
+        <CurrCodeISO>USD</CurrCodeISO>
+        None
+    	</Statement>
+	<Statement>
+        <AccountNumber>BY54BPSB30241816590108400000</AccountNumber>
+        <CurrCode>840</CurrCode>
+        <CurrCodeISO>USD</CurrCodeISO>
+        None
+    	</Statement>
+	<Statement>
+        <AccountNumber>BY54BPSB30241816590108400000</AccountNumber>
+        <CurrCode>840</CurrCode>
+        <CurrCodeISO>USD</CurrCodeISO>
+        None
+    	</Statement>
+	<Statement>
+        <AccountNumber>BY54BPSB30241816590108400000</AccountNumber>
+        <CurrCode>840</CurrCode>
+        <CurrCodeISO>USD</CurrCodeISO>
+        <DebetDocuments>
+			<Document>
+                <DocumentNumber>16026</DocumentNumber> 
+                <DocumentDate>2019-02-15</DocumentDate>
+                <Amount>10.84</Amount>
+                <Beneficiar>
+                    <Name>ОАО "БПС-СБЕРБАНК"</Name>
+                    <UNP>100219673</UNP>
+                    <Account>BY84BPSB69018000050108400000</Account>
+                    <BIC>BPSBBY2X</BIC>
+                </Beneficiar>
+                <Ground>Вознаграждение Банка за исполнение банковского перевода по п/п № 47 от 15/02/2019 согласно Сборника вознаграждений (платы) за операции, осуществляемые ОАО "БПС-Сбербанк", от 20.12.2016 №01/01-07/606. Без НДС согласно п. 1.37.2. ст.94 Особенной части Налогового Кодекса".</Ground>
+            </Document>
+			<Document>
+                <DocumentNumber>14101</DocumentNumber> 
+                <DocumentDate>2019-02-15</DocumentDate>
+                <Amount>10.84</Amount>
+                <Beneficiar>
+                    <Name>ОАО "БПС-СБЕРБАНК"</Name>
+                    <UNP>100219673</UNP>
+                    <Account>BY84BPSB69018000050108400000</Account>
+                    <BIC>BPSBBY2X</BIC>
+                </Beneficiar>
+                <Ground>Вознаграждение Банка за исполнение банковского перевода по п/п № 44 от 15/02/2019 согласно Сборника вознаграждений (платы) за операции, осуществляемые ОАО "БПС-Сбербанк", от 20.12.2016 №01/01-07/606. Без НДС согласно п. 1.37.2. ст.94 Особенной части Налогового Кодекса".</Ground>
+            </Document>
+			<Document>
+                <DocumentNumber>14000</DocumentNumber> 
+                <DocumentDate>2019-02-15</DocumentDate>
+                <Amount>10.84</Amount>
+                <Beneficiar>
+                    <Name>ОАО "БПС-СБЕРБАНК"</Name>
+                    <UNP>100219673</UNP>
+                    <Account>BY84BPSB69018000050108400000</Account>
+                    <BIC>BPSBBY2X</BIC>
+                </Beneficiar>
+                <Ground>Вознаграждение Банка за исполнение банковского перевода по п/п № 46 от 15/02/2019 согласно Сборника вознаграждений (платы) за операции, осуществляемые ОАО "БПС-Сбербанк", от 20.12.2016 №01/01-07/606. Без НДС согласно п. 1.37.2. ст.94 Особенной части Налогового Кодекса".</Ground>
+            </Document>
+			<Document>
+                <DocumentNumber>13998</DocumentNumber> 
+                <DocumentDate>2019-02-15</DocumentDate>
+                <Amount>10.84</Amount>
+                <Beneficiar>
+                    <Name>ОАО "БПС-СБЕРБАНК"</Name>
+                    <UNP>100219673</UNP>
+                    <Account>BY84BPSB69018000050108400000</Account>
+                    <BIC>BPSBBY2X</BIC>
+                </Beneficiar>
+                <Ground>Вознаграждение Банка за исполнение банковского перевода по п/п № 43 от 15/02/2019 согласно Сборника вознаграждений (платы) за операции, осуществляемые ОАО "БПС-Сбербанк", от 20.12.2016 №01/01-07/606. Без НДС согласно п. 1.37.2. ст.94 Особенной части Налогового Кодекса".</Ground>
+            </Document>
+			<Document>
+                <DocumentNumber>13493</DocumentNumber> 
+                <DocumentDate>2019-02-15</DocumentDate>
+                <Amount>10.84</Amount>
+                <Beneficiar>
+                    <Name>ОАО "БПС-СБЕРБАНК"</Name>
+                    <UNP>100219673</UNP>
+                    <Account>BY84BPSB69018000050108400000</Account>
+                    <BIC>BPSBBY2X</BIC>
+                </Beneficiar>
+                <Ground>Вознаграждение Банка за исполнение банковского перевода по п/п № 39 от 15/02/2019 согласно Сборника вознаграждений (платы) за операции, осуществляемые ОАО "БПС-Сбербанк", от 20.12.2016 №01/01-07/606. Без НДС согласно п. 1.37.2. ст.94 Особенной части Налогового Кодекса".</Ground>
+            </Document>
+			<Document>
+                <DocumentNumber>13491</DocumentNumber> 
+                <DocumentDate>2019-02-15</DocumentDate>
+                <Amount>10.84</Amount>
+                <Beneficiar>
+                    <Name>ОАО "БПС-СБЕРБАНК"</Name>
+                    <UNP>100219673</UNP>
+                    <Account>BY84BPSB69018000050108400000</Account>
+                    <BIC>BPSBBY2X</BIC>
+                </Beneficiar>
+                <Ground>Вознаграждение Банка за исполнение банковского перевода по п/п № 40 от 15/02/2019 согласно Сборника вознаграждений (платы) за операции, осуществляемые ОАО "БПС-Сбербанк", от 20.12.2016 №01/01-07/606. Без НДС согласно п. 1.37.2. ст.94 Особенной части Налогового Кодекса".</Ground>
+            </Document>
+			<Document>
+                <DocumentNumber>13455</DocumentNumber> 
+                <DocumentDate>2019-02-15</DocumentDate>
+                <Amount>10.84</Amount>
+                <Beneficiar>
+                    <Name>ОАО "БПС-СБЕРБАНК"</Name>
+                    <UNP>100219673</UNP>
+                    <Account>BY84BPSB69018000050108400000</Account>
+                    <BIC>BPSBBY2X</BIC>
+                </Beneficiar>
+                <Ground>Вознаграждение Банка за исполнение банковского перевода по п/п № 38 от 15/02/2019 согласно Сборника вознаграждений (платы) за операции, осуществляемые ОАО "БПС-Сбербанк", от 20.12.2016 №01/01-07/606. Без НДС согласно п. 1.37.2. ст.94 Особенной части Налогового Кодекса".</Ground>
+            </Document>
+			<Document>
+                <DocumentNumber>13450</DocumentNumber> 
+                <DocumentDate>2019-02-15</DocumentDate>
+                <Amount>10.84</Amount>
+                <Beneficiar>
+                    <Name>ОАО "БПС-СБЕРБАНК"</Name>
+                    <UNP>100219673</UNP>
+                    <Account>BY84BPSB69018000050108400000</Account>
+                    <BIC>BPSBBY2X</BIC>
+                </Beneficiar>
+                <Ground>Вознаграждение Банка за исполнение банковского перевода по п/п № 42 от 15/02/2019 согласно Сборника вознаграждений (платы) за операции, осуществляемые ОАО "БПС-Сбербанк", от 20.12.2016 №01/01-07/606. Без НДС согласно п. 1.37.2. ст.94 Особенной части Налогового Кодекса".</Ground>
+            </Document>
+			<Document>
+                <DocumentNumber>13448</DocumentNumber> 
+                <DocumentDate>2019-02-15</DocumentDate>
+                <Amount>10.84</Amount>
+                <Beneficiar>
+                    <Name>ОАО "БПС-СБЕРБАНК"</Name>
+                    <UNP>100219673</UNP>
+                    <Account>BY84BPSB69018000050108400000</Account>
+                    <BIC>BPSBBY2X</BIC>
+                </Beneficiar>
+                <Ground>Вознаграждение Банка за исполнение банковского перевода по п/п № 41 от 15/02/2019 согласно Сборника вознаграждений (платы) за операции, осуществляемые ОАО "БПС-Сбербанк", от 20.12.2016 №01/01-07/606. Без НДС согласно п. 1.37.2. ст.94 Особенной части Налогового Кодекса".</Ground>
+            </Document>
+			<Document>
+                <DocumentNumber>41</DocumentNumber> 
+                <DocumentDate>2019-02-15</DocumentDate>
+                <Amount>362.91</Amount>
+                <Beneficiar>
+                    <Name>РУП "БЕЛФАРМАЦИЯ"</Name>
+                    <UNP>100364237</UNP>
+                    <Account>BY29BLBB30120100364237001003</Account>
+                    <BIC>BLBBBY2X</BIC>
+                </Beneficiar>
+                <Ground>ОПЛАТА ЗА МАРКЕТИНГОВЫЕ УСЛУГИ ЗА ФЕВРАЛЬ СОГЛ СЧ-Ф 57/И ОТ 08.02.19. СУММА 167,40 ДОЛЛ.США В ТЧ НДС (20%) 27,90 ДОЛЛ.США</Ground>
+            </Document>
+			<Document>
+                <DocumentNumber>44</DocumentNumber> 
+                <DocumentDate>2019-02-15</DocumentDate>
+                <Amount>386.32</Amount>
+                <Beneficiar>
+                    <Name>РУП "МИНСКАЯ ФАРМАЦИЯ"</Name>
+                    <UNP>600013211</UNP>
+                    <Account>BY21BLBB30120600013211001005</Account>
+                    <BIC>BLBBBY2X</BIC>
+                </Beneficiar>
+                <Ground>ПРЕДОПЛАТА ЗА МАРКЕТИНГОВЫЕ УСЛУГИ ЗА ФЕВРАЛЬ 2019 СОГЛ СЧ 4346 ОТ 28.02.19. СУММА 178,20 ДОЛЛ.США В ТЧ НДС (20%) 29,70 ДОЛЛ.США</Ground>
+            </Document>
+			<Document>
+                <DocumentNumber>39</DocumentNumber> 
+                <DocumentDate>2019-02-15</DocumentDate>
+                <Amount>386.32</Amount>
+                <Beneficiar>
+                    <Name>РУП "МИНСКАЯ ФАРМАЦИЯ"</Name>
+                    <UNP>600013211</UNP>
+                    <Account>BY21BLBB30120600013211001005</Account>
+                    <BIC>BLBBBY2X</BIC>
+                </Beneficiar>
+                <Ground>ПРЕДОПЛАТА ЗА МАРКЕТИНГОВЫЕ УСЛУГИ ЗА ФЕВРАЛЬ 2019 СОГЛ СЧ 4346 ОТ 04.02.19. СУММА 178,20 ДОЛЛ.США В ТЧ НДС (20%) 29,7 ДОЛЛ.США</Ground>
+            </Document>
+			<Document>
+                <DocumentNumber>46</DocumentNumber> 
+                <DocumentDate>2019-02-15</DocumentDate>
+                <Amount>449.51</Amount>
+                <Beneficiar>
+                    <Name>ВИТЕБСКОЕ УП "ФАРМАЦИЯ"</Name>
+                    <UNP>300149691</UNP>
+                    <Account>BY23BLBB30120300149691001004</Account>
+                    <BIC>BLBBBY2X</BIC>
+                </Beneficiar>
+                <Ground>ПЛАТА ЗА МАРКЕТИНГОВЫЕ УСЛУГИ ЗА ЯНВАРЬ 2019 СОГЛ СЧ 27 ОТ 01.02.19. СУММА 207,35 ДОЛЛ.США В ТЧ НДС (20%) 34,56 ДОЛЛ.США</Ground>
+            </Document>
+			<Document>
+                <DocumentNumber>42</DocumentNumber> 
+                <DocumentDate>2019-02-15</DocumentDate>
+                <Amount>463.71</Amount>
+                <Beneficiar>
+                    <Name>ГОМЕЛЬСКОЕ УП "ФАРМАЦИЯ"</Name>
+                    <UNP>400022972</UNP>
+                    <Account>BY11BLBB30120400022972001002</Account>
+                    <BIC>BLBBBY2X</BIC>
+                </Beneficiar>
+                <Ground>ОПЛАТА ЗА МАРКЕТИНГОВЫЕ УСЛУГИ С 28.01-28.02.2019 СОГЛ СЧ-Ф 227 ОТ 06.02.19, В ТЧ НДС (20%) 35,65 ДОЛЛ.США</Ground>
+            </Document>
+			<Document>
+                <DocumentNumber>40</DocumentNumber> 
+                <DocumentDate>2019-02-15</DocumentDate>
+                <Amount>487.78</Amount>
+                <Beneficiar>
+                    <Name>ГРОДНЕНСКОЕ ТПРУП "ФАРМАЦИЯ"</Name>
+                    <UNP>500059690</UNP>
+                    <Account>BY27BLBB30120500059690001003</Account>
+                    <BIC>BLBBBY2X</BIC>
+                </Beneficiar>
+                <Ground>ПРЕДОПЛАТА МАРКЕТИНГОВЫХ УСЛУГ ЗА МАРТ 2019 СОГЛ СЧ-Ф 132 ОТ 04.02.19. СУММА 225 ДОЛЛ.США В ТЧ НДС (20%) 37,5 ДОЛЛ.США</Ground>
+            </Document>
+			<Document>
+                <DocumentNumber>38</DocumentNumber> 
+                <DocumentDate>2019-02-15</DocumentDate>
+                <Amount>657.26</Amount>
+                <Beneficiar>
+                    <Name>ГОМЕЛЬСКОЕ УП "ФАРМАЦИЯ"</Name>
+                    <UNP>400022972</UNP>
+                    <Account>BY11BLBB30120400022972001002</Account>
+                    <BIC>BLBBBY2X</BIC>
+                </Beneficiar>
+                <Ground>ОПЛАТА ЗА МАРКЕТИНГОВЫЕ УСЛУГИ ЗА ЯНВАРЬ-ФЕВРАЛЬ 2019 СОГЛ СЧ-Ф 160 ОТ 28.01.19, СЧ-Ф 210 ОТ 04.02.19 В ТЧ НДС (20%) 50,53 ДОЛЛ.США</Ground>
+            </Document>
+			<Document>
+                <DocumentNumber>43</DocumentNumber> 
+                <DocumentDate>2019-02-15</DocumentDate>
+                <Amount>4335.80</Amount>
+                <Beneficiar>
+                    <Name>ООО "ИНТЕЛЛИКС-М"</Name>
+                    <UNP>191299063</UNP>
+                    <Account>BY81PJCB30120243531020000840</Account>
+                    <BIC>PJCBBY2X</BIC>
+                </Beneficiar>
+                <Ground>ОПЛАТА ЗА ИНФОРМАЦИОННЫЕ УСЛУГИ ЗА ЯНВАРЬ-ФЕВРАЛЬ 2019 СОГЛ СЧ 25 ОТ 05.02.2019</Ground>
+            </Document>
+			<Document>
+                <DocumentNumber>47</DocumentNumber> 
+                <DocumentDate>2019-02-15</DocumentDate>
+                <Amount>15487.52</Amount>
+                <Beneficiar>
+                    <Name>УЗ "МОГИЛЕВСКАЯ ОБЛАСТНАЯ БОЛЬНИЦА" РБ</Name>
+                    <UNP>700190752</UNP>
+                    <Account>BY67BLBB36320700190752001005</Account>
+                    <BIC>BLBBBY2X</BIC>
+                </Beneficiar>
+                <Ground>ЗА ПРОВЕДЕНИЕ КЛИНИЧЕСКОГО ИССЛЕДОВАНИЯ СОГЛ ДОГ 6 ОТ 31.01.19. СУММА 7144,02 ДОЛ.США, В ТОМ ЧИСЛЕ НДС 1171,80 ДОЛ.США</Ground>
+            </Document>
+			<Document>
+                <DocumentNumber>45</DocumentNumber> 
+                <DocumentDate>2019-02-15</DocumentDate>
+                <Amount>32518.50</Amount>
+                <Beneficiar>
+                    <Name>ОАО "БПС-СБЕРБАНК"</Name>
+                    <UNP>100219673</UNP>
+                    <Account>BY73BPSB69018600450498400000</Account>
+                    <BIC>BPSBBY2X</BIC>
+                </Beneficiar>
+                <Ground>Перевод с продажей ПП 45  от 15.02.19. Курс  2.1566 за 1 ед. валюты    СВОБОДНАЯ ПРОДАЖА ИНОСТРАННОЙ ВАЛЮТЫ</Ground>
+            </Document>
+			</DebetDocuments>
+		<CreditDocuments>
+ 			<Document>
+                <DocumentNumber>29301</DocumentNumber> 
+                <DocumentDate>2019-02-15</DocumentDate>
+                <Amount>334940.55</Amount>
+                <Payer>
+                    <Name>1/SUN PHARMACEUTICAL INDUSTRIES LTD2/SUN HOUSE, PLOT NO.201 B-1, 2/WESTERN EXPRESS HIGHWAY, 3/IN/GOREGAON</Name>
+                    <UNP>None</UNP>
+                    <Account>01213001315</Account>
+                    <BIC>NOSCINBB</BIC>
+                </Payer>
+                <Ground>PAYMENT TOWARDS MAINTENANCE        OF OFFICE ABROAD /ACC/FFC TO 6 MULIAVIN BLVD        //MINSK 220005 BELARUS</Ground>
+            </Document>
+			</CreditDocuments>
+    	</Statement>
+	<Statement>
+        <AccountNumber>BY54BPSB30241816590108400000</AccountNumber>
+        <CurrCode>840</CurrCode>
+        <CurrCodeISO>USD</CurrCodeISO>
+        None
+    	</Statement>
+	<Statement>
+        <AccountNumber>BY54BPSB30241816590108400000</AccountNumber>
+        <CurrCode>840</CurrCode>
+        <CurrCodeISO>USD</CurrCodeISO>
+        <DebetDocuments>
+			<Document>
+                <DocumentNumber>20424</DocumentNumber> 
+                <DocumentDate>2019-02-19</DocumentDate>
+                <Amount>10.79</Amount>
+                <Beneficiar>
+                    <Name>ОАО "БПС-СБЕРБАНК"</Name>
+                    <UNP>100219673</UNP>
+                    <Account>BY84BPSB69018000050108400000</Account>
+                    <BIC>BPSBBY2X</BIC>
+                </Beneficiar>
+                <Ground>Вознаграждение Банка за исполнение банковского перевода по п/п № 49 от 19/02/2019 согласно Сборника вознаграждений (платы) за операции, осуществляемые ОАО "БПС-Сбербанк", от 20.12.2016 №01/01-07/606. Без НДС согласно п. 1.37.2. ст.94 Особенной части Налогового Кодекса".</Ground>
+            </Document>
+			<Document>
+                <DocumentNumber>49</DocumentNumber> 
+                <DocumentDate>2019-02-19</DocumentDate>
+                <Amount>19.42</Amount>
+                <Beneficiar>
+                    <Name>ОАО "БЕЛОРУССКАЯ УНИВЕРСАЛЬНАЯ ТОВАРНАЯ БИРЖА"</Name>
+                    <UNP>190542056</UNP>
+                    <Account>BY09AKBB30120000066780000000</Account>
+                    <BIC>AKBBBY2X</BIC>
+                </Beneficiar>
+                <Ground>УЧАСТНИК РЕГ МЕМ20140210014260. ПЛАТА ЗА УСЛУГУ ОПЕРАТОРА ЭТП ПО ОРГАНИЗАЦИИ И ПРОВЕДЕНИЮ ЭЛЕКТРОННОГО АУКЦИОНА СУММА С НДС 9,00 ДОЛЛ. США</Ground>
+            </Document>
+			<Document>
+                <DocumentNumber>48</DocumentNumber> 
+                <DocumentDate>2019-02-19</DocumentDate>
+                <Amount>21574.00</Amount>
+                <Beneficiar>
+                    <Name>ОАО "БПС-СБЕРБАНК"</Name>
+                    <UNP>100219673</UNP>
+                    <Account>BY73BPSB69018600450498400000</Account>
+                    <BIC>BPSBBY2X</BIC>
+                </Beneficiar>
+                <Ground>Перевод с продажей ПП 48  от 19.02.19. Курс  2.1486 за 1 ед. валюты    СВОБОДНАЯ ПРОДАЖА ИНОСТРАННОЙ ВАЛЮТЫ</Ground>
+            </Document>
+			</DebetDocuments>
+		<CreditDocuments>
+ 			</CreditDocuments>
+    	</Statement>
+	<Statement>
+        <AccountNumber>BY54BPSB30241816590108400000</AccountNumber>
+        <CurrCode>840</CurrCode>
+        <CurrCodeISO>USD</CurrCodeISO>
+        <DebetDocuments>
+			<Document>
+                <DocumentNumber>23497</DocumentNumber> 
+                <DocumentDate>2019-02-20</DocumentDate>
+                <Amount>10.78</Amount>
+                <Beneficiar>
+                    <Name>ОАО "БПС-СБЕРБАНК"</Name>
+                    <UNP>100219673</UNP>
+                    <Account>BY84BPSB69018000050108400000</Account>
+                    <BIC>BPSBBY2X</BIC>
+                </Beneficiar>
+                <Ground>Вознаграждение Банка за исполнение банковского перевода по п/п № 50 от 20/02/2019 согласно Сборника вознаграждений (платы) за операции, осуществляемые ОАО "БПС-Сбербанк", от 20.12.2016 №01/01-07/606. Без НДС согласно п. 1.37.2. ст.94 Особенной части Налогового Кодекса".</Ground>
+            </Document>
+			<Document>
+                <DocumentNumber>50</DocumentNumber> 
+                <DocumentDate>2019-02-20</DocumentDate>
+                <Amount>307.07</Amount>
+                <Beneficiar>
+                    <Name>РУП "ЦЕНТР ЭКСПЕРТИЗ И ИСПЫТАНИЙ В ЗДРАВООХРАНЕНИИ", РБ</Name>
+                    <UNP>101375883</UNP>
+                    <Account>BY42AKBB30120000041305200000</Account>
+                    <BIC>AKBBBY21511</BIC>
+                </Beneficiar>
+                <Ground>ПЛАТА ЗА ПРОВЕДЕНИЕ ЭКСПЕРТИЗЫ ДОКУМЕНТАЦИИ О ВОЗМОЖНОСТИ ПОЛУЧЕНИЯ РАЗРЕШЕНИЙ НА ВВОЗ ЛЕК.СР. СОГЛ ДОГ-ЗАКАЗУ 2/141 ЛС ОТ 19.02.19, СУММА НДС (20%) 23,69 ДОЛЛ США</Ground>
+            </Document>
+			</DebetDocuments>
+		<CreditDocuments>
+ 			</CreditDocuments>
+    	</Statement>
+	<Statement>
+        <AccountNumber>BY54BPSB30241816590108400000</AccountNumber>
+        <CurrCode>840</CurrCode>
+        <CurrCodeISO>USD</CurrCodeISO>
+        None
+    	</Statement>
+	<Statement>
+        <AccountNumber>BY54BPSB30241816590108400000</AccountNumber>
+        <CurrCode>840</CurrCode>
+        <CurrCodeISO>USD</CurrCodeISO>
+        <DebetDocuments>
+			<Document>
+                <DocumentNumber>13085</DocumentNumber> 
+                <DocumentDate>2019-02-22</DocumentDate>
+                <Amount>8866.77</Amount>
+                <Beneficiar>
+                    <Name>ОАО "БПС-СБЕРБАНК"</Name>
+                    <UNP>100219673</UNP>
+                    <Account>BY73BPSB69018600450498400000</Account>
+                    <BIC>BPSBBY2X</BIC>
+                </Beneficiar>
+                <Ground>Перев с конверс ПП 52 от 22.02.19, в сумме 3616.79  EUR.Курс сделки 1.1450 .  ОПЛАТА ЗА ОКАЗАНИЕ УСЛУГ ПО ВЫПОЛНЕНИЮ ПОДГОТОВИТЕЛЬНОГО ЭТАПА КЛИН ИСПЫТАНИЙ ПРЕПАРАТА ОКСЕТОЛ ЛС СОГЛ СЧ 1 ОТ 21.02.2019 БЕЗ НДС.  'ООО "АЛЬФАЛЕК"'</Ground>
+            </Document>
+			<Document>
+                <DocumentNumber>51</DocumentNumber> 
+                <DocumentDate>2019-02-22</DocumentDate>
+                <Amount>64233.00</Amount>
+                <Beneficiar>
+                    <Name>ОАО "БПС-СБЕРБАНК"</Name>
+                    <UNP>100219673</UNP>
+                    <Account>BY73BPSB69018600450498400000</Account>
+                    <BIC>BPSBBY2X</BIC>
+                </Beneficiar>
+                <Ground>Перевод с продажей ПП 51  от 22.02.19. Курс  2.1331 за 1 ед. валюты    СВОБОДНАЯ ПРОДАЖА ИНОСТРАННОЙ ВАЛЮТЫ</Ground>
+            </Document>
+			</DebetDocuments>
+		<CreditDocuments>
+ 			</CreditDocuments>
+    	</Statement>
+	<Statement>
+        <AccountNumber>BY54BPSB30241816590108400000</AccountNumber>
+        <CurrCode>840</CurrCode>
+        <CurrCodeISO>USD</CurrCodeISO>
+        None
+    	</Statement>
+	<Statement>
+        <AccountNumber>BY54BPSB30241816590108400000</AccountNumber>
+        <CurrCode>840</CurrCode>
+        <CurrCodeISO>USD</CurrCodeISO>
+        <DebetDocuments>
+			<Document>
+                <DocumentNumber>13553</DocumentNumber> 
+                <DocumentDate>2019-02-26</DocumentDate>
+                <Amount>10.68</Amount>
+                <Beneficiar>
+                    <Name>ОАО "БПС-СБЕРБАНК"</Name>
+                    <UNP>100219673</UNP>
+                    <Account>BY84BPSB69018000050108400000</Account>
+                    <BIC>BPSBBY2X</BIC>
+                </Beneficiar>
+                <Ground>Вознаграждение Банка за исполнение банковского перевода по п/п № 54 от 26/02/2019 согласно Сборника вознаграждений (платы) за операции, осуществляемые ОАО "БПС-Сбербанк", от 20.12.2016 №01/01-07/606. Без НДС согласно п. 1.37.2. ст.94 Особенной части Налогового Кодекса".</Ground>
+            </Document>
+			<Document>
+                <DocumentNumber>13363</DocumentNumber> 
+                <DocumentDate>2019-02-26</DocumentDate>
+                <Amount>10.68</Amount>
+                <Beneficiar>
+                    <Name>ОАО "БПС-СБЕРБАНК"</Name>
+                    <UNP>100219673</UNP>
+                    <Account>BY84BPSB69018000050108400000</Account>
+                    <BIC>BPSBBY2X</BIC>
+                </Beneficiar>
+                <Ground>Вознаграждение Банка за исполнение банковского перевода по п/п № 55 от 26/02/2019 согласно Сборника вознаграждений (платы) за операции, осуществляемые ОАО "БПС-Сбербанк", от 20.12.2016 №01/01-07/606. Без НДС согласно п. 1.37.2. ст.94 Особенной части Налогового Кодекса".</Ground>
+            </Document>
+			<Document>
+                <DocumentNumber>55</DocumentNumber> 
+                <DocumentDate>2019-02-26</DocumentDate>
+                <Amount>1045.70</Amount>
+                <Beneficiar>
+                    <Name>РУП "ЦЕНТР ЭКСПЕРТИЗ И ИСПЫТАНИЙ В ЗДРАВООХРАНЕНИИ", РБ</Name>
+                    <UNP>101375883</UNP>
+                    <Account>BY42AKBB30120000041305200000</Account>
+                    <BIC>AKBBBY21511</BIC>
+                </Beneficiar>
+                <Ground>ПЛАТА ЗА ПРОВЕДЕНИЕ ИСПЫТАНИЙ ЛЕК.СР. СОГЛ ДОГ 103 ОТ 22.02.19, СУММА НДС (20%) 81,57 ДОЛЛ США</Ground>
+            </Document>
+			<Document>
+                <DocumentNumber>54</DocumentNumber> 
+                <DocumentDate>2019-02-26</DocumentDate>
+                <Amount>3853.75</Amount>
+                <Beneficiar>
+                    <Name>РУП "ЦЕНТР ЭКСПЕРТИЗ И ИСПЫТАНИЙ В ЗДРАВООХРАНЕНИИ", РБ</Name>
+                    <UNP>101375883</UNP>
+                    <Account>BY42AKBB30120000041305200000</Account>
+                    <BIC>AKBBBY21511</BIC>
+                </Beneficiar>
+                <Ground>ПЛАТА ЗА ПРОВЕДЕНИЕ СПЕЦИАЛИЗИРОВАННОЙ ЭКСПЕРТИЗЫ ДОКУМЕНТОВ ЛЕК СР СЕНОРМ СОГЛ СЧ-Ф 337-ЛС, 338-ЛС ОТ 18.02.19, СУММА НДС (20%) 300,6 ДОЛЛ США</Ground>
+            </Document>
+			<Document>
+                <DocumentNumber>53</DocumentNumber> 
+                <DocumentDate>2019-02-26</DocumentDate>
+                <Amount>21367.00</Amount>
+                <Beneficiar>
+                    <Name>ОАО "БПС-СБЕРБАНК"</Name>
+                    <UNP>100219673</UNP>
+                    <Account>BY73BPSB69018600450498400000</Account>
+                    <BIC>BPSBBY2X</BIC>
+                </Beneficiar>
+                <Ground>Перевод с продажей ПП 53  от 26.02.19. Курс  2.1301 за 1 ед. валюты    СВОБОДНАЯ ПРОДАЖА ИНОСТРАННОЙ ВАЛЮТЫ</Ground>
+            </Document>
+			</DebetDocuments>
+		<CreditDocuments>
+ 			<Document>
+                <DocumentNumber>51367</DocumentNumber> 
+                <DocumentDate>2019-02-26</DocumentDate>
+                <Amount>15264.63</Amount>
+                <Payer>
+                    <Name>+B00119021502194</Name>
+                    <UNP>100219673</UNP>
+                    <Account>1501507395011/840</Account>
+                    <BIC>153001369</BIC>
+                </Payer>
+                <Ground>/BNF/VOZVRAT SREDSTV PO PP         //7144,02'USD' OT 150219           //REF.+'B00119021502194'           //V SVaZI S OQIBOcNYM ZAcISLENIEM</Ground>
+            </Document>
+			</CreditDocuments>
+    	</Statement>
+	<Statement>
+        <AccountNumber>BY54BPSB30241816590108400000</AccountNumber>
+        <CurrCode>840</CurrCode>
+        <CurrCodeISO>USD</CurrCodeISO>
+        <DebetDocuments>
+			<Document>
+                <DocumentNumber>56</DocumentNumber> 
+                <DocumentDate>2019-02-27</DocumentDate>
+                <Amount>9.94</Amount>
+                <Beneficiar>
+                    <Name>УПРАВЛЕНИЕ ГОСУДАРСТВЕННОГО КАЗНАЧЕЙСТВА ГЛАВНОГО УПРАВЛЕНИЯ МИНИСТЕРСТВА ФИНАНСОВ РБ ПО Г.МИНСКУ</Name>
+                    <UNP>100061550</UNP>
+                    <Account>BY23AKBB36029010100270000000</Account>
+                    <BIC>AKBBBY2X</BIC>
+                </Beneficiar>
+                <Ground>ЗА РЕГИСТРАЦИЮ (ПЕРЕРЕГИСТРАЦИЮ) ЛЕК. СР. ЭМТАЗ СОГЛ ДОГОВОРУ 1880-ЛС ОТ 04.06.2018. СУММА СОГЛ СЧ-Ф 34-ЛС ОТ 15.01.2019</Ground>
+            </Document>
+			</DebetDocuments>
+		<CreditDocuments>
+ 			</CreditDocuments>
+    	</Statement>
+	<Statement>
+        <AccountNumber>BY54BPSB30241816590108400000</AccountNumber>
+        <CurrCode>840</CurrCode>
+        <CurrCodeISO>USD</CurrCodeISO>
+        <DebetDocuments>
+			</DebetDocuments>
+		<CreditDocuments>
+ 			<Document>
+                <DocumentNumber>15330</DocumentNumber> 
+                <DocumentDate>2019-02-28</DocumentDate>
+                <Amount>1.30</Amount>
+                <Payer>
+                    <Name>ОАО "БПС-СБЕРБАНК"</Name>
+                    <UNP>100219673</UNP>
+                    <Account>BY84BPSB69018000050108400000</Account>
+                    <BIC>BPSBBY2X</BIC>
+                </Payer>
+                <Ground>Выплата процентов по счетам клиентов за период с 31/01/2019 по 27/02/2019 по договору от 30.06.2017 № 777/181659/Т/840/02. Налог на доходы 10% в сумме 0.15 бел. руб.</Ground>
+            </Document>
+			</CreditDocuments>
+    	</Statement>
+	
+	</Statements>

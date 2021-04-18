@@ -1,0 +1,34 @@
+<?xml version = "1.0" encoding="CP866"?>
+<?xml-stylesheet type="text/xsl"?>
+<Statements>
+<Date>03.01.2019</Date>
+<Time>6:07:15</Time>
+<Type>ВЫПИСКА</Type>
+<Account>BY82BPSB67001816590129330000</Account>
+<UNN>102332897</UNN>
+<Statement>
+<Account>BY82BPSB67001816590129330000</Account>
+<Name></Name>
+<BIC>BPSBBY2X</BIC>
+<CurrCode>933</CurrCode>
+<CurrCodeISO>BYN</CurrCodeISO>
+<OpeningBalance>0,00</OpeningBalance>
+<OpeningBalanceNat>0</OpeningBalanceNat>
+<KursRazn>0.00</KursRazn>
+<DatePrevious>30.06.2017</DatePrevious>
+<ClosingBalance>0,00</ClosingBalance>
+<ClosingBalanceNat>0,00</ClosingBalanceNat>
+<DateClosing>02.01.2019</DateClosing>
+<DebetDocuments>
+<DocumentsNet>0</DocumentsNet>
+<Turnover>0,00</Turnover>
+<DebetTurnoverNat>0,00</DebetTurnoverNat>
+</DebetDocuments> 
+<CreditDocuments>
+<DocumentsNet>0</DocumentsNet>
+<Turnover>0,00</Turnover>
+<CreditTurnoverNat>0,00</CreditTurnoverNat>
+</CreditDocuments>
+
+</Statement>
+</Statements>

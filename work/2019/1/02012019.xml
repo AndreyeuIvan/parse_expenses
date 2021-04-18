@@ -1,0 +1,40 @@
+
+<?xml version="1.0" encoding="cp866"?>
+<TURN>
+  <ACCOUNTINFO>
+    <ACCOUNT>BY82BPSB67001816590129330000</ACCOUNT>
+    <CURRENCY Iso="BYN" Code="933" Rate="1"> </CURRENCY>
+    <NAME>ПРЕДСТАВИТЕЛЬСТВО ООО "SUN PHARMACEUTICAL INDUSTRIES LTD." (РЕСПУБЛИКА ИНДИЯ) В РЕСПУБЛИКЕ БЕЛАРУСЬ</NAME>
+    <TYPETURN>ОКОНЧАТЕЛЬНАЯ</TYPETURN>
+    <PERIOD>за 02.01.2019</PERIOD>
+    <INREST nominal="0.00" equivalent="0"> </INREST>
+    <OUTREST nominal="0.00" equivalent="0.00"> </OUTREST>
+    <TURNDEB nominal="0.00" equivalent="0.00"> </TURNDEB>
+    <TURNKRE nominal="0.00" equivalent="0.00"> </TURNKRE>
+    <CARDRESTS card1="" card2=""> </CARDRESTS>
+    <LASTOPER>30.06.2017</LASTOPER>
+    <TIMETURN date="03.01.2019" time="6:07:15"> </TIMETURN>
+    <TIMEMAKE date="13.11.2020" time="16:38:48"> </TIMEMAKE>
+    <OPERINFO>
+    </OPERINFO>
+  </ACCOUNTINFO>
+</TURN><?xml version="1.0" encoding="cp866"?>
+<TURN>
+  <ACCOUNTINFO>
+    <ACCOUNT>BY82BPSB67001816590129330000</ACCOUNT>
+    <CURRENCY Iso="BYN" Code="933" Rate="1"> </CURRENCY>
+    <NAME>ПРЕДСТАВИТЕЛЬСТВО ООО "SUN PHARMACEUTICAL INDUSTRIES LTD." (РЕСПУБЛИКА ИНДИЯ) В РЕСПУБЛИКЕ БЕЛАРУСЬ</NAME>
+    <TYPETURN>ОКОНЧАТЕЛЬНАЯ</TYPETURN>
+    <PERIOD>за 03.01.2019</PERIOD>
+    <INREST nominal="0.00" equivalent="0"> </INREST>
+    <OUTREST nominal="0.00" equivalent="0.00"> </OUTREST>
+    <TURNDEB nominal="0.00" equivalent="0.00"> </TURNDEB>
+    <TURNKRE nominal="0.00" equivalent="0.00"> </TURNKRE>
+    <CARDRESTS card1="" card2=""> </CARDRESTS>
+    <LASTOPER>30.06.2017</LASTOPER>
+    <TIMETURN date="04.01.2019" time="3:40:54"> </TIMETURN>
+    <TIMEMAKE date="13.11.2020" time="16:38:48"> </TIMEMAKE>
+    <OPERINFO>
+    </OPERINFO>
+  </ACCOUNTINFO>
+</TURN>

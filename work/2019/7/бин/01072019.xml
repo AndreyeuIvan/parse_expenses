@@ -1,0 +1,2071 @@
+<?xml version="1.0" encoding="cp866"?>
+<TURN>
+  <ACCOUNTINFO>
+    <ACCOUNT>BY86BPSB30211816590139330000</ACCOUNT>
+    <CURRENCY Iso="BYN" Code="933" Rate="1"> </CURRENCY>
+    <NAME>ПРЕДСТАВИТЕЛЬСТВО ООО "SUN PHARMACEUTICAL INDUSTRIES LTD." (РЕСПУБЛИКА ИНДИЯ) В РЕСПУБЛИКЕ БЕЛАРУСЬ</NAME>
+    <TYPETURN>ОКОНЧАТЕЛЬНАЯ</TYPETURN>
+    <PERIOD>за 01.07.2019</PERIOD>
+    <INREST nominal="9803.29" equivalent="9803.29"> </INREST>
+    <OUTREST nominal="7605.29" equivalent="7605.29"> </OUTREST>
+    <TURNDEB nominal="2198.00" equivalent="2198.00"> </TURNDEB>
+    <TURNKRE nominal="0.00" equivalent="0.00"> </TURNKRE>
+    <CARDRESTS card1="" card2=""> </CARDRESTS>
+    <LASTOPER>28.06.2019</LASTOPER>
+    <TIMETURN date="01.07.2019" time="23:26:59"> </TIMETURN>
+    <TIMEMAKE date="01.12.2020" time="15:08:34"> </TIMEMAKE>
+    <OPERINFO>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>55499</DOCN>
+        <MFOKORR>BPSBBY2X</MFOKORR>
+        <ACCKORR>BY19BPSB64331816590159330000</ACCKORR>
+        <NAMEKORR>ОАО "БПС-СБЕРБАНК"</NAMEKORR>
+        <UNPKORR>100219673</UNPKORR>
+        <SUMOPER nd="198.00" nk="" ed="198.00" ek=""> </SUMOPER>
+        <DETPAY>Оплата услуг по тарифному плану "Профи" за период с 01/08/2019 по 31/08/2019 со счета BY86BPSB30211816590139330000, согласно договору 777/181659/Т/933/01 от 30.06.2017. Без НДС согласно п. 1.37.2. ст.118 Особенной части Налогового Кодекса". </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>06</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>461</DOCN>
+        <MFOKORR>OLMPBY2X</MFOKORR>
+        <ACCKORR>BY34OLMP31190000001710000933</ACCKORR>
+        <NAMEKORR>НПО "БЕРЛИО"</NAMEKORR>
+        <UNPKORR>100429079</UNPKORR>
+        <SUMOPER nd="2000.00" nk="" ed="2000.00" ek=""> </SUMOPER>
+        <DETPAY>ОПЛАТА ПОКУПКИ ЭЛЕКТРОННЫХ ДЕНЕГ "БЕРЛИО" СОГЛ ДОГ 24052 ОТ 05/03/2008 БЕЗ НДС </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+    </OPERINFO>
+  </ACCOUNTINFO>
+</TURN><?xml version="1.0" encoding="cp866"?>
+<TURN>
+  <ACCOUNTINFO>
+    <ACCOUNT>BY86BPSB30211816590139330000</ACCOUNT>
+    <CURRENCY Iso="BYN" Code="933" Rate="1"> </CURRENCY>
+    <NAME>ПРЕДСТАВИТЕЛЬСТВО ООО "SUN PHARMACEUTICAL INDUSTRIES LTD." (РЕСПУБЛИКА ИНДИЯ) В РЕСПУБЛИКЕ БЕЛАРУСЬ</NAME>
+    <TYPETURN>ОКОНЧАТЕЛЬНАЯ</TYPETURN>
+    <PERIOD>за 02.07.2019</PERIOD>
+    <INREST nominal="7605.29" equivalent="7605.29"> </INREST>
+    <OUTREST nominal="1920.81" equivalent="1920.81"> </OUTREST>
+    <TURNDEB nominal="11796.98" equivalent="11796.98"> </TURNDEB>
+    <TURNKRE nominal="6112.50" equivalent="6112.50"> </TURNKRE>
+    <CARDRESTS card1="" card2=""> </CARDRESTS>
+    <LASTOPER>01.07.2019</LASTOPER>
+    <TIMETURN date="02.07.2019" time="23:10:02"> </TIMETURN>
+    <TIMEMAKE date="01.12.2020" time="15:08:34"> </TIMEMAKE>
+    <OPERINFO>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>11724</DOCN>
+        <MFOKORR>BPSBBY2X</MFOKORR>
+        <ACCKORR>BY63BPSB81010000053159330000</ACCKORR>
+        <NAMEKORR>ОАО "БПС-СБЕРБАНК"</NAMEKORR>
+        <UNPKORR>100219673</UNPKORR>
+        <SUMOPER nd="13.20" nk="" ed="13.20" ek=""> </SUMOPER>
+        <DETPAY>Вознагр. за зачисление денежных средств на счета физ.лиц, по п/п №96 от 02.07.2019 согл. Договору 348-2017 от 07.07.2017г. Без НДС согласно п. 1.37.2. ст.118 Особенной части Налогового Кодекса </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>06</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>12016</DOCN>
+        <MFOKORR>BPSBBY2X</MFOKORR>
+        <ACCKORR>BY63BPSB81010000053159330000</ACCKORR>
+        <NAMEKORR>ОАО "БПС-СБЕРБАНК"</NAMEKORR>
+        <UNPKORR>100219673</UNPKORR>
+        <SUMOPER nd="19.09" nk="" ed="19.09" ek=""> </SUMOPER>
+        <DETPAY>Вознагр. за зачисление денежных средств на счета физ.лиц, по п/п №97 от 02.07.2019 согл. Договору 348-2017 от 07.07.2017г. Без НДС согласно п. 1.37.2. ст.118 Особенной части Налогового Кодекса </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>06</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>462</DOCN>
+        <MFOKORR>AKBBBY2X</MFOKORR>
+        <ACCKORR>BY43AKBB36021010005210000000</ACCKORR>
+        <NAMEKORR>ГЛАВНОЕ УПРАВЛЕНИЕ МИНИСТЕРСТВА ФИНАНСОВ РБ ПО Г.МИНСКУ</NAMEKORR>
+        <UNPKORR>101530339</UNPKORR>
+        <SUMOPER nd="1000.00" nk="" ed="1000.00" ek=""> </SUMOPER>
+        <DETPAY>УПЛАТА ПОДОХОДНОГО НАЛОГА ИЗ З/П ЗА ИЮНЬ 2019 Г. НАЛОГ УДЕРЖАН ИЗ З/П И ПЕРЕЧИСЛЕН В БЮДЖЕТ. СРОК ПЛАТЕЖА 02/07/2019. </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX>00101</TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>96</DOCN>
+        <MFOKORR>BPSBBY2X</MFOKORR>
+        <ACCKORR>BY13BPSB38198000000709330000</ACCKORR>
+        <NAMEKORR>ОАО БПС-СБЕРБАНК</NAMEKORR>
+        <UNPKORR>100219673</UNPKORR>
+        <SUMOPER nd="4400.00" nk="" ed="4400.00" ek=""> </SUMOPER>
+        <DETPAY>ЗАРАБОТНАЯ ПЛАТА ЗА ИЮНЬ. ДОГОВОР N 348-2017 ОТ 07.07.2017.  СПИСОК НА ВЫПЛАТУ N 96 ОТ 02.07.2019. </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>97</DOCN>
+        <MFOKORR>BPSBBY2X</MFOKORR>
+        <ACCKORR>BY13BPSB38198000000709330000</ACCKORR>
+        <NAMEKORR>ОАО БПС-СБЕРБАНК</NAMEKORR>
+        <UNPKORR>100219673</UNPKORR>
+        <SUMOPER nd="6364.69" nk="" ed="6364.69" ek=""> </SUMOPER>
+        <DETPAY>ЗАРАБОТНАЯ ПЛАТА ЗА ИЮНЬ. ДОГОВОР N 348-2017 ОТ 07.07.2017.  СПИСОК НА ВЫПЛАТУ N 97 ОТ 02.07.2019. </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>174</DOCN>
+        <MFOKORR>BPSBBY2X</MFOKORR>
+        <ACCKORR>BY88BPSB69118170000149330000</ACCKORR>
+        <NAMEKORR>ОАО "БПС-СБЕРБАНК"</NAMEKORR>
+        <UNPKORR>100219673</UNPKORR>
+        <SUMOPER nd="" nk="6112.50" ed="" ek="6112.50"> </SUMOPER>
+        <DETPAY>Перевод с продажей ПП 174  от 02.07.19 Представительство ООО "Sun Pharmaceutical Industries LTD." (Республика Индия) в Республике Беларусь. Курс  2.0375 за 1 ед. валюты. СВОБОДНАЯ ПРОДАЖА ИНОСТРАННОЙ ВАЛЮТЫ. </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>06</VO>
+        <UNP3></UNP3>
+      </OPER>
+    </OPERINFO>
+  </ACCOUNTINFO>
+</TURN><?xml version="1.0" encoding="cp866"?>
+<TURN>
+  <ACCOUNTINFO>
+    <ACCOUNT>BY86BPSB30211816590139330000</ACCOUNT>
+    <CURRENCY Iso="BYN" Code="933" Rate="1"> </CURRENCY>
+    <NAME>ПРЕДСТАВИТЕЛЬСТВО ООО "SUN PHARMACEUTICAL INDUSTRIES LTD." (РЕСПУБЛИКА ИНДИЯ) В РЕСПУБЛИКЕ БЕЛАРУСЬ</NAME>
+    <TYPETURN>ОКОНЧАТЕЛЬНАЯ</TYPETURN>
+    <PERIOD>за 04.07.2019</PERIOD>
+    <INREST nominal="1920.81" equivalent="1920.81"> </INREST>
+    <OUTREST nominal="8946.01" equivalent="8946.01"> </OUTREST>
+    <TURNDEB nominal="3157.30" equivalent="3157.30"> </TURNDEB>
+    <TURNKRE nominal="10182.50" equivalent="10182.50"> </TURNKRE>
+    <CARDRESTS card1="" card2=""> </CARDRESTS>
+    <LASTOPER>02.07.2019</LASTOPER>
+    <TIMETURN date="04.07.2019" time="23:09:41"> </TIMETURN>
+    <TIMEMAKE date="01.12.2020" time="15:08:34"> </TIMEMAKE>
+    <OPERINFO>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>13871</DOCN>
+        <MFOKORR>BPSBBY2X</MFOKORR>
+        <ACCKORR>BY63BPSB81010000053159330000</ACCKORR>
+        <NAMEKORR>ОАО "БПС-СБЕРБАНК"</NAMEKORR>
+        <UNPKORR>100219673</UNPKORR>
+        <SUMOPER nd="0.30" nk="" ed="0.30" ek=""> </SUMOPER>
+        <DETPAY>Вознагр. за зачисление денежных средств на счета физ.лиц, по п/п №99 от 04.07.2019 согл. Договору 348-2017 от 07.07.2017г. Без НДС согласно п. 1.37.2. ст.118 Особенной части Налогового Кодекса </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>06</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>10908</DOCN>
+        <MFOKORR>BPSBBY2X</MFOKORR>
+        <ACCKORR>BY63BPSB81010000053159330000</ACCKORR>
+        <NAMEKORR>ОАО "БПС-СБЕРБАНК"</NAMEKORR>
+        <UNPKORR>100219673</UNPKORR>
+        <SUMOPER nd="3.00" nk="" ed="3.00" ek=""> </SUMOPER>
+        <DETPAY>Вознагр. за зачисление денежных средств на счета физ.лиц, по п/п №98 от 04.07.2019 согл. Договору 348-2017 от 07.07.2017г. Без НДС согласно п. 1.37.2. ст.118 Особенной части Налогового Кодекса </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>06</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>464</DOCN>
+        <MFOKORR>ALFABY2X</MFOKORR>
+        <ACCKORR>BY02ALFA30122126930040270000</ACCKORR>
+        <NAMEKORR>ООО "ДАТАБОКС АРХИВНЫЕ СИСТЕМЫ"</NAMEKORR>
+        <UNPKORR>191302560</UNPKORR>
+        <SUMOPER nd="54.00" nk="" ed="54.00" ek=""> </SUMOPER>
+        <DETPAY>ОПЛАТА ЗА ХРАНЕНИЕ ДОКУМЕНТОВ СОГЛ АКТУ УФ-111367 ОТ 30.06.19, СУММА НДС 9,00 </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>99</DOCN>
+        <MFOKORR>BPSBBY2X</MFOKORR>
+        <ACCKORR>BY13BPSB38198000000709330000</ACCKORR>
+        <NAMEKORR>ОАО БПС-СБЕРБАНК</NAMEKORR>
+        <UNPKORR>100219673</UNPKORR>
+        <SUMOPER nd="100.00" nk="" ed="100.00" ek=""> </SUMOPER>
+        <DETPAY>ЗАРАБОТНАЯ ПЛАТА ЗА ИЮНЬ. ДОГОВОР N 348-2017 ОТ 07.07.2017.  СПИСОК НА ВЫПЛАТУ N 99 ОТ 04.07.2019. </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>98</DOCN>
+        <MFOKORR>BPSBBY2X</MFOKORR>
+        <ACCKORR>BY13BPSB38198000000709330000</ACCKORR>
+        <NAMEKORR>ОАО БПС-СБЕРБАНК</NAMEKORR>
+        <UNPKORR>100219673</UNPKORR>
+        <SUMOPER nd="1000.00" nk="" ed="1000.00" ek=""> </SUMOPER>
+        <DETPAY>ЗАРАБОТНАЯ ПЛАТА ЗА ИЮНЬ. ДОГОВОР N 348-2017 ОТ 07.07.2017.  СПИСОК НА ВЫПЛАТУ N 98 ОТ 04.07.2019. </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>463</DOCN>
+        <MFOKORR>BAPBBY2X</MFOKORR>
+        <ACCKORR>BY52BAPB30122499600110000000</ACCKORR>
+        <NAMEKORR>УП "САНТА РЕСТ"</NAMEKORR>
+        <UNPKORR>291261699</UNPKORR>
+        <SUMOPER nd="2000.00" nk="" ed="2000.00" ek=""> </SUMOPER>
+        <DETPAY>ПРЕДОПЛАТА ЗА ПИТАНИЕ СОГЛ СЧ-Ф Б/Н ОТ 01/07/19. СУММА 2000,00, В Т. Ч. НДС 249,43=. </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>175</DOCN>
+        <MFOKORR>BPSBBY2X</MFOKORR>
+        <ACCKORR>BY88BPSB69118170000149330000</ACCKORR>
+        <NAMEKORR>ОАО "БПС-СБЕРБАНК"</NAMEKORR>
+        <UNPKORR>100219673</UNPKORR>
+        <SUMOPER nd="" nk="10182.50" ed="" ek="10182.50"> </SUMOPER>
+        <DETPAY>Перевод с продажей ПП 175  от 04.07.19 Представительство ООО "Sun Pharmaceutical Industries LTD." (Республика Индия) в Республике Беларусь. Курс  2.0365 за 1 ед. валюты. СВОБОДНАЯ ПРОДАЖА ИНОСТРАННОЙ ВАЛЮТЫ. </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>06</VO>
+        <UNP3></UNP3>
+      </OPER>
+    </OPERINFO>
+  </ACCOUNTINFO>
+</TURN><?xml version="1.0" encoding="cp866"?>
+<TURN>
+  <ACCOUNTINFO>
+    <ACCOUNT>BY86BPSB30211816590139330000</ACCOUNT>
+    <CURRENCY Iso="BYN" Code="933" Rate="1"> </CURRENCY>
+    <NAME>ПРЕДСТАВИТЕЛЬСТВО ООО "SUN PHARMACEUTICAL INDUSTRIES LTD." (РЕСПУБЛИКА ИНДИЯ) В РЕСПУБЛИКЕ БЕЛАРУСЬ</NAME>
+    <TYPETURN>ОКОНЧАТЕЛЬНАЯ</TYPETURN>
+    <PERIOD>за 05.07.2019</PERIOD>
+    <INREST nominal="8946.01" equivalent="8946.01"> </INREST>
+    <OUTREST nominal="18958.15" equivalent="18958.15"> </OUTREST>
+    <TURNDEB nominal="41050.36" equivalent="41050.36"> </TURNDEB>
+    <TURNKRE nominal="51062.50" equivalent="51062.50"> </TURNKRE>
+    <CARDRESTS card1="" card2=""> </CARDRESTS>
+    <LASTOPER>04.07.2019</LASTOPER>
+    <TIMETURN date="05.07.2019" time="23:08:54"> </TIMETURN>
+    <TIMEMAKE date="01.12.2020" time="15:08:35"> </TIMEMAKE>
+    <OPERINFO>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>9540</DOCN>
+        <MFOKORR>BPSBBY2X</MFOKORR>
+        <ACCKORR>BY63BPSB81010000053159330000</ACCKORR>
+        <NAMEKORR>ОАО "БПС-СБЕРБАНК"</NAMEKORR>
+        <UNPKORR>100219673</UNPKORR>
+        <SUMOPER nd="73.60" nk="" ed="73.60" ek=""> </SUMOPER>
+        <DETPAY>Вознагр. за зачисление денежных средств на счета физ.лиц, по п/п №100 от 05.07.2019 согл. Договору 348-2017 от 07.07.2017г. Без НДС согласно п. 1.37.2. ст.118 Особенной части Налогового Кодекса </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>06</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>467</DOCN>
+        <MFOKORR>BPSBBY2X</MFOKORR>
+        <ACCKORR>BY87BPSB30133011650189330000</ACCKORR>
+        <NAMEKORR>ИП ГУЛЯКЕВИЧ ОКСАНА АНАТОЛЬЕВНА</NAMEKORR>
+        <UNPKORR>100375618</UNPKORR>
+        <SUMOPER nd="115.57" nk="" ed="115.57" ek=""> </SUMOPER>
+        <DETPAY>ПЛАТА ЗА АРЕНДУ ПОМЕЩЕНИЯ ЗА ИЮЛЬ СОГЛ ДОГ БН ОТ 28.12.2015. СУММА 115,57 БЕЗ НДС </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>469</DOCN>
+        <MFOKORR>OLMPBY2X</MFOKORR>
+        <ACCKORR>BY34OLMP31190000001710000933</ACCKORR>
+        <NAMEKORR>НПО "БЕРЛИО"</NAMEKORR>
+        <UNPKORR>100429079</UNPKORR>
+        <SUMOPER nd="1000.00" nk="" ed="1000.00" ek=""> </SUMOPER>
+        <DETPAY>ОПЛАТА ПОКУПКИ ЭЛЕКТРОННЫХ ДЕНЕГ "БЕРЛИО" СОГЛ ДОГ 24052 ОТ 05/03/2008 БЕЗ НДС </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>468</DOCN>
+        <MFOKORR>MTBKBY22</MFOKORR>
+        <ACCKORR>BY66MTBK30120001093300062321</ACCKORR>
+        <NAMEKORR>ЗАО "СИТБЕЛ"</NAMEKORR>
+        <UNPKORR>100608743</UNPKORR>
+        <SUMOPER nd="2133.52" nk="" ed="2133.52" ek=""> </SUMOPER>
+        <DETPAY>ОПЛАТА ЗА ТО АВТОМОБИЛЕЙ СОГЛ СЧ-ПР 25459 ОТ 04.07.19, В Т. Ч. НДС (20%). </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>466</DOCN>
+        <MFOKORR>BLBBBY2X</MFOKORR>
+        <ACCKORR>BY89BLBB30120100138514001001</ACCKORR>
+        <NAMEKORR>УП "СТРОЙНАУКА"</NAMEKORR>
+        <UNPKORR>100138514</UNPKORR>
+        <SUMOPER nd="3723.67" nk="" ed="3723.67" ek=""> </SUMOPER>
+        <DETPAY>ОПЛАТА АРЕНДЫ ОФИСА ЗА ИЮЛЬ 2019 Г. СУММА СОГЛ ДОГ 15-АР/16 ОТ 31.12.2015 </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>465</DOCN>
+        <MFOKORR>SLANBY22</MFOKORR>
+        <ACCKORR>BY17SLAN30121279000130000000</ACCKORR>
+        <NAMEKORR>ООО "МЕДИАГРАД"</NAMEKORR>
+        <UNPKORR>191667544</UNPKORR>
+        <SUMOPER nd="9472.00" nk="" ed="9472.00" ek=""> </SUMOPER>
+        <DETPAY>ПЛАТА ЗА ОКАЗАНИЕ УСЛУГ ПО РАЗМЕЩЕНИЮ РЕКЛАМЫ СОГЛ ПРОТОКОЛАМ ОТ 16.05.19, ОТ 10.06.19.  СУММА С НДС (20%) - 9472=. </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>100</DOCN>
+        <MFOKORR>BPSBBY2X</MFOKORR>
+        <ACCKORR>BY13BPSB38198000000709330000</ACCKORR>
+        <NAMEKORR>ОАО БПС-СБЕРБАНК</NAMEKORR>
+        <UNPKORR>100219673</UNPKORR>
+        <SUMOPER nd="24532.00" nk="" ed="24532.00" ek=""> </SUMOPER>
+        <DETPAY>ЗАРАБОТНАЯ ПЛАТА ЗА ИЮНЬ. ДОГОВОР N 348-2017 ОТ 07.07.2017.  СПИСОК НА ВЫПЛАТУ N 100 ОТ 05.07.2019. </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>176</DOCN>
+        <MFOKORR>BPSBBY2X</MFOKORR>
+        <ACCKORR>BY88BPSB69118170000149330000</ACCKORR>
+        <NAMEKORR>ОАО "БПС-СБЕРБАНК"</NAMEKORR>
+        <UNPKORR>100219673</UNPKORR>
+        <SUMOPER nd="" nk="51062.50" ed="" ek="51062.50"> </SUMOPER>
+        <DETPAY>Перевод с продажей ПП 176  от 05.07.19 Представительство ООО "Sun Pharmaceutical Industries LTD." (Республика Индия) в Республике Беларусь. Курс  2.0425 за 1 ед. валюты. СВОБОДНАЯ ПРОДАЖА ИНОСТРАННОЙ ВАЛЮТЫ. </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>06</VO>
+        <UNP3></UNP3>
+      </OPER>
+    </OPERINFO>
+  </ACCOUNTINFO>
+</TURN><?xml version="1.0" encoding="cp866"?>
+<TURN>
+  <ACCOUNTINFO>
+    <ACCOUNT>BY86BPSB30211816590139330000</ACCOUNT>
+    <CURRENCY Iso="BYN" Code="933" Rate="1"> </CURRENCY>
+    <NAME>ПРЕДСТАВИТЕЛЬСТВО ООО "SUN PHARMACEUTICAL INDUSTRIES LTD." (РЕСПУБЛИКА ИНДИЯ) В РЕСПУБЛИКЕ БЕЛАРУСЬ</NAME>
+    <TYPETURN>ОКОНЧАТЕЛЬНАЯ</TYPETURN>
+    <PERIOD>за 08.07.2019</PERIOD>
+    <INREST nominal="18958.15" equivalent="18958.15"> </INREST>
+    <OUTREST nominal="17072.96" equivalent="17072.96"> </OUTREST>
+    <TURNDEB nominal="1885.19" equivalent="1885.19"> </TURNDEB>
+    <TURNKRE nominal="0.00" equivalent="0.00"> </TURNKRE>
+    <CARDRESTS card1="" card2=""> </CARDRESTS>
+    <LASTOPER>05.07.2019</LASTOPER>
+    <TIMETURN date="08.07.2019" time="23:10:53"> </TIMETURN>
+    <TIMEMAKE date="01.12.2020" time="15:08:35"> </TIMEMAKE>
+    <OPERINFO>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>472</DOCN>
+        <MFOKORR>IRJSBY22</MFOKORR>
+        <ACCKORR>BY05IRJS30120015901000000933</ACCKORR>
+        <NAMEKORR>ЗАО "ИНТЕРНЕТ-МАГАЗИН ЕВРООПТ"</NAMEKORR>
+        <UNPKORR>691536217</UNPKORR>
+        <SUMOPER nd="243.19" nk="" ed="243.19" ek=""> </SUMOPER>
+        <DETPAY>ОПЛАТА ПРОДОВОЛЬСТВЕННЫХ ТОВАРОВ СОГЛ СЧ 22586148 ОТ 08.07.2019. СУММА С НДС-243.19=. </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>470</DOCN>
+        <MFOKORR>PJCBBY2X</MFOKORR>
+        <ACCKORR>BY44PJCB30125030431000000933</ACCKORR>
+        <NAMEKORR>ООО "ИНВЕСТ-М"</NAMEKORR>
+        <UNPKORR>290472994</UNPKORR>
+        <SUMOPER nd="300.00" nk="" ed="300.00" ek=""> </SUMOPER>
+        <DETPAY>ДОПЛАТА ЗА ОРГАНИЗАЦИЮ ПИТАНИЯ СОГЛ ТН 1034442 ОТ 16.05.2019. СУММА С НДС-300=. </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>471</DOCN>
+        <MFOKORR>BLBBBY2X</MFOKORR>
+        <ACCKORR>BY51BLBB30120100626611001001</ACCKORR>
+        <NAMEKORR>УП "СКАРБНИЦА"</NAMEKORR>
+        <UNPKORR>100626611</UNPKORR>
+        <SUMOPER nd="342.00" nk="" ed="342.00" ek=""> </SUMOPER>
+        <DETPAY>ОПЛАТА ЗА ПРЕДОСТАВЛЕНИЕ ТОВАРА СОГЛ СЧ-Ф 1 К ДОГ 12-06/19 ОТ 14.06.2019. СУММА С НДС (20%) 342,00=. </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>473</DOCN>
+        <MFOKORR>OLMPBY2X</MFOKORR>
+        <ACCKORR>BY34OLMP31190000001710000933</ACCKORR>
+        <NAMEKORR>НПО "БЕРЛИО"</NAMEKORR>
+        <UNPKORR>100429079</UNPKORR>
+        <SUMOPER nd="1000.00" nk="" ed="1000.00" ek=""> </SUMOPER>
+        <DETPAY>ОПЛАТА ПОКУПКИ ЭЛЕКТРОННЫХ ДЕНЕГ "БЕРЛИО" СОГЛ ДОГ 24052 ОТ 05/03/2008 БЕЗ НДС </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+    </OPERINFO>
+  </ACCOUNTINFO>
+</TURN><?xml version="1.0" encoding="cp866"?>
+<TURN>
+  <ACCOUNTINFO>
+    <ACCOUNT>BY86BPSB30211816590139330000</ACCOUNT>
+    <CURRENCY Iso="BYN" Code="933" Rate="1"> </CURRENCY>
+    <NAME>ПРЕДСТАВИТЕЛЬСТВО ООО "SUN PHARMACEUTICAL INDUSTRIES LTD." (РЕСПУБЛИКА ИНДИЯ) В РЕСПУБЛИКЕ БЕЛАРУСЬ</NAME>
+    <TYPETURN>ОКОНЧАТЕЛЬНАЯ</TYPETURN>
+    <PERIOD>за 09.07.2019</PERIOD>
+    <INREST nominal="17072.96" equivalent="17072.96"> </INREST>
+    <OUTREST nominal="17072.96" equivalent="17072.96"> </OUTREST>
+    <TURNDEB nominal="0.00" equivalent="0.00"> </TURNDEB>
+    <TURNKRE nominal="0.00" equivalent="0.00"> </TURNKRE>
+    <CARDRESTS card1="" card2=""> </CARDRESTS>
+    <LASTOPER>08.07.2019</LASTOPER>
+    <TIMETURN date="09.07.2019" time="23:11:13"> </TIMETURN>
+    <TIMEMAKE date="01.12.2020" time="15:08:35"> </TIMEMAKE>
+    <OPERINFO>
+    </OPERINFO>
+  </ACCOUNTINFO>
+</TURN><?xml version="1.0" encoding="cp866"?>
+<TURN>
+  <ACCOUNTINFO>
+    <ACCOUNT>BY86BPSB30211816590139330000</ACCOUNT>
+    <CURRENCY Iso="BYN" Code="933" Rate="1"> </CURRENCY>
+    <NAME>ПРЕДСТАВИТЕЛЬСТВО ООО "SUN PHARMACEUTICAL INDUSTRIES LTD." (РЕСПУБЛИКА ИНДИЯ) В РЕСПУБЛИКЕ БЕЛАРУСЬ</NAME>
+    <TYPETURN>ОКОНЧАТЕЛЬНАЯ</TYPETURN>
+    <PERIOD>за 10.07.2019</PERIOD>
+    <INREST nominal="17072.96" equivalent="17072.96"> </INREST>
+    <OUTREST nominal="7747.43" equivalent="7747.43"> </OUTREST>
+    <TURNDEB nominal="111115.53" equivalent="111115.53"> </TURNDEB>
+    <TURNKRE nominal="101790.00" equivalent="101790.00"> </TURNKRE>
+    <CARDRESTS card1="" card2=""> </CARDRESTS>
+    <LASTOPER>08.07.2019</LASTOPER>
+    <TIMETURN date="10.07.2019" time="23:11:17"> </TIMETURN>
+    <TIMEMAKE date="01.12.2020" time="15:08:35"> </TIMEMAKE>
+    <OPERINFO>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>15865</DOCN>
+        <MFOKORR>BPSBBY2X</MFOKORR>
+        <ACCKORR>BY63BPSB81010000053159330000</ACCKORR>
+        <NAMEKORR>ОАО "БПС-СБЕРБАНК"</NAMEKORR>
+        <UNPKORR>100219673</UNPKORR>
+        <SUMOPER nd="178.88" nk="" ed="178.88" ek=""> </SUMOPER>
+        <DETPAY>Вознагр. за зачисление денежных средств на счета физ.лиц, по п/п №101 от 10.07.2019 согл. Договору 348-2017 от 07.07.2017г. Без НДС согласно п. 1.37.2. ст.118 Особенной части Налогового Кодекса </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>06</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>475</DOCN>
+        <MFOKORR>AKBBBY2X</MFOKORR>
+        <ACCKORR>BY30AKBB30115240001480000000</ACCKORR>
+        <NAMEKORR>ФИЛИАЛ БРУСП БЕЛГОССТРАХА ПО Г. МИНСКУ</NAMEKORR>
+        <UNPKORR>100122726</UNPKORR>
+        <SUMOPER nd="640.00" nk="" ed="640.00" ek=""> </SUMOPER>
+        <DETPAY>ОПЛАТА ОТЧ. ПО ОБЯЗАТ СТРАХ-НИЮ ОТ НЕСЧ СЛУЧАЕВ 0,6% ЗА ИЮНЬ 2019 Г. СРОК ПЛАТЕЖА 10/07/2019 РЕГ. 500026206. СОГЛ. ДЕКРЕТУ ПРЕЗИДЕНТА РБ 18 ОТ 30/07/2003 </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>476</DOCN>
+        <MFOKORR>AKBBBY2X</MFOKORR>
+        <ACCKORR>BY43AKBB36021010005210000000</ACCKORR>
+        <NAMEKORR>ГЛАВНОЕ УПРАВЛЕНИЕ МИНИСТЕРСТВА ФИНАНСОВ РБ ПО Г.МИНСКУ</NAMEKORR>
+        <UNPKORR>101530339</UNPKORR>
+        <SUMOPER nd="15170.00" nk="" ed="15170.00" ek=""> </SUMOPER>
+        <DETPAY>УПЛАТА ПОДОХОДНОГО НАЛОГА ИЗ З/П ЗА ИЮНЬ 2019 Г. НАЛОГ УДЕРЖАН ИЗ З/П И ПЕРЕЧИСЛЕН В БЮДЖЕТ. СРОК ПЛАТЕЖА 10/07/2019. </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX>00101</TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>474</DOCN>
+        <MFOKORR>AKBBBY2X</MFOKORR>
+        <ACCKORR>BY30AKBB36029450100090000000</ACCKORR>
+        <NAMEKORR>ГУ МФ РБ ПО Г.МИНСКУ</NAMEKORR>
+        <UNPKORR>104521003</UNPKORR>
+        <SUMOPER nd="35500.00" nk="" ed="35500.00" ek=""> </SUMOPER>
+        <DETPAY>ОПЛАТА ОТЧИСЛЕНИЙ В ФСЗН ЗА ИЮНЬ 2019 Г. СРОК ПЛАТЕЖА - 10/07/2019 РЕГ.521051245 </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX>03511</TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>101</DOCN>
+        <MFOKORR>BPSBBY2X</MFOKORR>
+        <ACCKORR>BY13BPSB38198000000709330000</ACCKORR>
+        <NAMEKORR>ОАО БПС-СБЕРБАНК</NAMEKORR>
+        <UNPKORR>100219673</UNPKORR>
+        <SUMOPER nd="59626.65" nk="" ed="59626.65" ek=""> </SUMOPER>
+        <DETPAY>ЗАРАБОТНАЯ ПЛАТА ЗА ИЮНЬ. ДОГОВОР N 348-2017 ОТ 07.07.2017.  СПИСОК НА ВЫПЛАТУ N 101 ОТ 10.07.2019. </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>180</DOCN>
+        <MFOKORR>BPSBBY2X</MFOKORR>
+        <ACCKORR>BY88BPSB69118170000149330000</ACCKORR>
+        <NAMEKORR>ОАО "БПС-СБЕРБАНК"</NAMEKORR>
+        <UNPKORR>100219673</UNPKORR>
+        <SUMOPER nd="" nk="101790.00" ed="" ek="101790.00"> </SUMOPER>
+        <DETPAY>Перевод с продажей ПП 180  от 10.07.19 Представительство ООО "Sun Pharmaceutical Industries LTD." (Республика Индия) в Республике Беларусь. Курс  2.0358 за 1 ед. валюты. СВОБОДНАЯ ПРОДАЖА ИНОСТРАННОЙ ВАЛЮТЫ. </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>06</VO>
+        <UNP3></UNP3>
+      </OPER>
+    </OPERINFO>
+  </ACCOUNTINFO>
+</TURN><?xml version="1.0" encoding="cp866"?>
+<TURN>
+  <ACCOUNTINFO>
+    <ACCOUNT>BY86BPSB30211816590139330000</ACCOUNT>
+    <CURRENCY Iso="BYN" Code="933" Rate="1"> </CURRENCY>
+    <NAME>ПРЕДСТАВИТЕЛЬСТВО ООО "SUN PHARMACEUTICAL INDUSTRIES LTD." (РЕСПУБЛИКА ИНДИЯ) В РЕСПУБЛИКЕ БЕЛАРУСЬ</NAME>
+    <TYPETURN>ОКОНЧАТЕЛЬНАЯ</TYPETURN>
+    <PERIOD>за 11.07.2019</PERIOD>
+    <INREST nominal="7747.43" equivalent="7747.43"> </INREST>
+    <OUTREST nominal="6304.98" equivalent="6304.98"> </OUTREST>
+    <TURNDEB nominal="1442.45" equivalent="1442.45"> </TURNDEB>
+    <TURNKRE nominal="0.00" equivalent="0.00"> </TURNKRE>
+    <CARDRESTS card1="" card2=""> </CARDRESTS>
+    <LASTOPER>10.07.2019</LASTOPER>
+    <TIMETURN date="11.07.2019" time="23:25:24"> </TIMETURN>
+    <TIMEMAKE date="01.12.2020" time="15:08:35"> </TIMEMAKE>
+    <OPERINFO>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>478</DOCN>
+        <MFOKORR>TECNBY22</MFOKORR>
+        <ACCKORR>BY87TECN30127043200160000000</ACCKORR>
+        <NAMEKORR>ОДО "КОЛЕСОПЛЮС"</NAMEKORR>
+        <UNPKORR>101346274</UNPKORR>
+        <SUMOPER nd="42.65" nk="" ed="42.65" ek=""> </SUMOPER>
+        <DETPAY>ПЛАТА ЗА ШИНОМОНТАЖ СОГЛ СЧ-Ф 7093 ОТ 29.06.2019. СУММА С НДС 42,65=. </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>480</DOCN>
+        <MFOKORR>BLNBBY2X</MFOKORR>
+        <ACCKORR>BY88BLNB30120000090802000933</ACCKORR>
+        <NAMEKORR>ООО "МЕНЕДЖМЕНТХАУС"</NAMEKORR>
+        <UNPKORR>192535272</UNPKORR>
+        <SUMOPER nd="51.60" nk="" ed="51.60" ek=""> </SUMOPER>
+        <DETPAY>ПЛАТА ЗА УСЛУГУ ПО ОБСЛУЖИВАНИЮ ПАРКОВОЧНЫХ МЕСТ СОГЛ ДОГ. П-25.09.2019 ОТ 25.06.19. БЕЗ НДС </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>477</DOCN>
+        <MFOKORR>PJCBBY2X</MFOKORR>
+        <ACCKORR>BY87PJCB30120002411010000933</ACCKORR>
+        <NAMEKORR>УП "ВЕЛКОМ"</NAMEKORR>
+        <UNPKORR>101528843</UNPKORR>
+        <SUMOPER nd="91.70" nk="" ed="91.70" ek=""> </SUMOPER>
+        <DETPAY>ОПЛАТА ЗА УСЛУГИ ДОСТУПА В СЕТЬ ИНТЕРНЕТ СОГЛ СЧ-АКТУ 122918714 ОТ 30.06.2019 К ДОГ 3114972 ОТ 03.06.2011. БЕЗ НДС </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>481</DOCN>
+        <MFOKORR>MMBNBY22</MFOKORR>
+        <ACCKORR>BY33MMBN30120031000109330000</ACCKORR>
+        <NAMEKORR>ООО "АЙТИ ДИРЕКТ"</NAMEKORR>
+        <UNPKORR>191230820</UNPKORR>
+        <SUMOPER nd="162.00" nk="" ed="162.00" ek=""> </SUMOPER>
+        <DETPAY>ПЛАТА ЗА ОБСЛУЖИВАНИЕ СЕРВЕРНОГО ОБОРУДОВАНИЯ ЗА ИЮНЬ СОГЛ АКТУ Б/Н ОТ 30.06.2019. </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>479</DOCN>
+        <MFOKORR>BELBBY2X</MFOKORR>
+        <ACCKORR>BY55BELB30120064290050226000</ACCKORR>
+        <NAMEKORR>ООО "ГЕНЕКС"</NAMEKORR>
+        <UNPKORR>100386830</UNPKORR>
+        <SUMOPER nd="226.15" nk="" ed="226.15" ek=""> </SUMOPER>
+        <DETPAY>ОПЛАТА ЗА УСЛУГИ ПО ДЕКЛАРИРОВАНИЮ. СУММА СОГЛ. С/Ф 817 ОТ 04.07.2019. СУММА НДС (20%) = 37,69. </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>482</DOCN>
+        <MFOKORR>UNBSBY2X</MFOKORR>
+        <ACCKORR>BY58UNBS30120386100050010933</ACCKORR>
+        <NAMEKORR>ЧП "КОРПОРАТИВНАЯ СВЯЗЬ"</NAMEKORR>
+        <UNPKORR>191157200</UNPKORR>
+        <SUMOPER nd="868.35" nk="" ed="868.35" ek=""> </SUMOPER>
+        <DETPAY>ОПЛАТА ЗА ПИСЬМЕННЫЙ ПЕРЕВОД И ВОЗМЕЩЕНИЕ ГОСПОШЛИНЫ СОГЛ СЧ-Ф 2974, 2974/1 ОТ 22.05.19, 2975,2975/1 ОТ 23.05.19, 2979,2979/1 ОТ 28.05.19, 2997,2997/1 ОТ 13.06.19, 2998,2998/1 ОТ 17.06.19, 3001,3001/1 ОТ 21.06.19.   СУММА С НДС 868,35=. </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+    </OPERINFO>
+  </ACCOUNTINFO>
+</TURN><?xml version="1.0" encoding="cp866"?>
+<TURN>
+  <ACCOUNTINFO>
+    <ACCOUNT>BY86BPSB30211816590139330000</ACCOUNT>
+    <CURRENCY Iso="BYN" Code="933" Rate="1"> </CURRENCY>
+    <NAME>ПРЕДСТАВИТЕЛЬСТВО ООО "SUN PHARMACEUTICAL INDUSTRIES LTD." (РЕСПУБЛИКА ИНДИЯ) В РЕСПУБЛИКЕ БЕЛАРУСЬ</NAME>
+    <TYPETURN>ОКОНЧАТЕЛЬНАЯ</TYPETURN>
+    <PERIOD>за 12.07.2019</PERIOD>
+    <INREST nominal="6304.98" equivalent="6304.98"> </INREST>
+    <OUTREST nominal="4304.98" equivalent="4304.98"> </OUTREST>
+    <TURNDEB nominal="2000.00" equivalent="2000.00"> </TURNDEB>
+    <TURNKRE nominal="0.00" equivalent="0.00"> </TURNKRE>
+    <CARDRESTS card1="" card2=""> </CARDRESTS>
+    <LASTOPER>11.07.2019</LASTOPER>
+    <TIMETURN date="12.07.2019" time="23:10:27"> </TIMETURN>
+    <TIMEMAKE date="01.12.2020" time="15:08:35"> </TIMEMAKE>
+    <OPERINFO>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>483</DOCN>
+        <MFOKORR>OLMPBY2X</MFOKORR>
+        <ACCKORR>BY34OLMP31190000001710000933</ACCKORR>
+        <NAMEKORR>НПО "БЕРЛИО"</NAMEKORR>
+        <UNPKORR>100429079</UNPKORR>
+        <SUMOPER nd="2000.00" nk="" ed="2000.00" ek=""> </SUMOPER>
+        <DETPAY>ОПЛАТА ПОКУПКИ ЭЛЕКТРОННЫХ ДЕНЕГ "БЕРЛИО" СОГЛ ДОГ 24052 ОТ 05/03/2008 БЕЗ НДС </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+    </OPERINFO>
+  </ACCOUNTINFO>
+</TURN><?xml version="1.0" encoding="cp866"?>
+<TURN>
+  <ACCOUNTINFO>
+    <ACCOUNT>BY86BPSB30211816590139330000</ACCOUNT>
+    <CURRENCY Iso="BYN" Code="933" Rate="1"> </CURRENCY>
+    <NAME>ПРЕДСТАВИТЕЛЬСТВО ООО "SUN PHARMACEUTICAL INDUSTRIES LTD." (РЕСПУБЛИКА ИНДИЯ) В РЕСПУБЛИКЕ БЕЛАРУСЬ</NAME>
+    <TYPETURN>ОКОНЧАТЕЛЬНАЯ</TYPETURN>
+    <PERIOD>за 15.07.2019</PERIOD>
+    <INREST nominal="4304.98" equivalent="4304.98"> </INREST>
+    <OUTREST nominal="7630.65" equivalent="7630.65"> </OUTREST>
+    <TURNDEB nominal="6767.33" equivalent="6767.33"> </TURNDEB>
+    <TURNKRE nominal="10093.00" equivalent="10093.00"> </TURNKRE>
+    <CARDRESTS card1="" card2=""> </CARDRESTS>
+    <LASTOPER>12.07.2019</LASTOPER>
+    <TIMETURN date="15.07.2019" time="23:11:16"> </TIMETURN>
+    <TIMEMAKE date="01.12.2020" time="15:08:35"> </TIMEMAKE>
+    <OPERINFO>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>20951</DOCN>
+        <MFOKORR>BPSBBY2X</MFOKORR>
+        <ACCKORR>BY63BPSB81010000053159330000</ACCKORR>
+        <NAMEKORR>ОАО "БПС-СБЕРБАНК"</NAMEKORR>
+        <UNPKORR>100219673</UNPKORR>
+        <SUMOPER nd="9.08" nk="" ed="9.08" ek=""> </SUMOPER>
+        <DETPAY>Вознагр. за зачисление денежных средств на счета физ.лиц, по п/п №102 от 15.07.2019 согл. Договору 348-2017 от 07.07.2017г. Без НДС согласно п. 1.37.2. ст.118 Особенной части Налогового Кодекса </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>06</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>485</DOCN>
+        <MFOKORR>AKBBBY2X</MFOKORR>
+        <ACCKORR>BY93AKBB30121002701355500000</ACCKORR>
+        <NAMEKORR>РУП "БЕЛТЕЛЕКОМ", РБ</NAMEKORR>
+        <UNPKORR>101007741</UNPKORR>
+        <SUMOPER nd="269.55" nk="" ed="269.55" ek=""> </SUMOPER>
+        <DETPAY>ОПЛАТА УСЛУГ СВЯЗИ ЗА ИЮНЬ И АБОНПЛАТУ В СООТВЕТСВИИ С ДОГ 136471 ОТ 31.05.2007. СУММА СОГЛ. СЧ/Ф 1011917 ОТ 10.07.19 </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>486</DOCN>
+        <MFOKORR>PJCBBY2X</MFOKORR>
+        <ACCKORR>BY57PJCB30124039261000000933</ACCKORR>
+        <NAMEKORR>ООО "ФРАНСЦЕНТР"</NAMEKORR>
+        <UNPKORR>490863036</UNPKORR>
+        <SUMOPER nd="356.00" nk="" ed="356.00" ek=""> </SUMOPER>
+        <DETPAY>ОПЛАТА ЗА ТО И РЕМОНТ АВТОМОБИЛЯ СОГЛ СЧ/Ф 5083 ОТ 04.07.19. БЕЗ НДС </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>487</DOCN>
+        <MFOKORR>AKBBBY21200</MFOKORR>
+        <ACCKORR>BY05AKBB30121227400152000000</ACCKORR>
+        <NAMEKORR>ООО "ВИТЕБСКАВТОСИТИ"</NAMEKORR>
+        <UNPKORR>391362258</UNPKORR>
+        <SUMOPER nd="968.47" nk="" ed="968.47" ek=""> </SUMOPER>
+        <DETPAY>ПЛАТА ЗА ТЕХНИЧЕСКОЕ ОБСЛУЖИВАНИЕ АВТОМОБИЛЯ СОГЛ АКТАМ 58610 ОТ 03.07.19, 57836 ОТ 10.07.19. СУММА С НДС 968,47=. </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>484</DOCN>
+        <MFOKORR>UNBSBY2X</MFOKORR>
+        <ACCKORR>BY58UNBS30120386100050010933</ACCKORR>
+        <NAMEKORR>ЧП "КОРПОРАТИВНАЯ СВЯЗЬ"</NAMEKORR>
+        <UNPKORR>191157200</UNPKORR>
+        <SUMOPER nd="2136.00" nk="" ed="2136.00" ek=""> </SUMOPER>
+        <DETPAY>ОПЛАТА ЗА ПИСЬМЕННЫЙ ПЕРЕВОД ДОКУМЕНТАЦИИ СОГЛ СЧ-Ф 3004 ОТ 24.06.19. СУММА С НДС=2136 БЕЛ.РУБ. </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>102</DOCN>
+        <MFOKORR>BPSBBY2X</MFOKORR>
+        <ACCKORR>BY13BPSB38198000000709330000</ACCKORR>
+        <NAMEKORR>ОАО БПС-СБЕРБАНК</NAMEKORR>
+        <UNPKORR>100219673</UNPKORR>
+        <SUMOPER nd="3028.23" nk="" ed="3028.23" ek=""> </SUMOPER>
+        <DETPAY>ЗАРАБОТНАЯ ПЛАТА ЗА ИЮЛЬ. ДОГОВОР N 348-2017 ОТ 07.07.2017.  СПИСОК НА ВЫПЛАТУ N 102 ОТ 15.07.2019. </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>186</DOCN>
+        <MFOKORR>BPSBBY2X</MFOKORR>
+        <ACCKORR>BY88BPSB69118170000149330000</ACCKORR>
+        <NAMEKORR>ОАО "БПС-СБЕРБАНК"</NAMEKORR>
+        <UNPKORR>100219673</UNPKORR>
+        <SUMOPER nd="" nk="10093.00" ed="" ek="10093.00"> </SUMOPER>
+        <DETPAY>Перевод с продажей ПП 186  от 15.07.19 Представительство ООО "Sun Pharmaceutical Industries LTD." (Республика Индия) в Республике Беларусь. Курс  2.0186 за 1 ед. валюты. СВОБОДНАЯ ПРОДАЖА ИНОСТРАННОЙ ВАЛЮТЫ. </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>06</VO>
+        <UNP3></UNP3>
+      </OPER>
+    </OPERINFO>
+  </ACCOUNTINFO>
+</TURN><?xml version="1.0" encoding="cp866"?>
+<TURN>
+  <ACCOUNTINFO>
+    <ACCOUNT>BY86BPSB30211816590139330000</ACCOUNT>
+    <CURRENCY Iso="BYN" Code="933" Rate="1"> </CURRENCY>
+    <NAME>ПРЕДСТАВИТЕЛЬСТВО ООО "SUN PHARMACEUTICAL INDUSTRIES LTD." (РЕСПУБЛИКА ИНДИЯ) В РЕСПУБЛИКЕ БЕЛАРУСЬ</NAME>
+    <TYPETURN>ОКОНЧАТЕЛЬНАЯ</TYPETURN>
+    <PERIOD>за 16.07.2019</PERIOD>
+    <INREST nominal="7630.65" equivalent="7630.65"> </INREST>
+    <OUTREST nominal="5534.38" equivalent="5534.38"> </OUTREST>
+    <TURNDEB nominal="2096.27" equivalent="2096.27"> </TURNDEB>
+    <TURNKRE nominal="0.00" equivalent="0.00"> </TURNKRE>
+    <CARDRESTS card1="" card2=""> </CARDRESTS>
+    <LASTOPER>15.07.2019</LASTOPER>
+    <TIMETURN date="16.07.2019" time="23:09:23"> </TIMETURN>
+    <TIMEMAKE date="01.12.2020" time="15:08:35"> </TIMEMAKE>
+    <OPERINFO>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>15936</DOCN>
+        <MFOKORR>BPSBBY2X</MFOKORR>
+        <ACCKORR>BY63BPSB81010000053159330000</ACCKORR>
+        <NAMEKORR>ОАО "БПС-СБЕРБАНК"</NAMEKORR>
+        <UNPKORR>100219673</UNPKORR>
+        <SUMOPER nd="6.27" nk="" ed="6.27" ek=""> </SUMOPER>
+        <DETPAY>Вознагр. за зачисление денежных средств на счета физ.лиц, по п/п №103 от 16.07.2019 согл. Договору 348-2017 от 07.07.2017г. Без НДС согласно п. 1.37.2. ст.118 Особенной части Налогового Кодекса </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>06</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>103</DOCN>
+        <MFOKORR>BPSBBY2X</MFOKORR>
+        <ACCKORR>BY13BPSB38198000000709330000</ACCKORR>
+        <NAMEKORR>ОАО БПС-СБЕРБАНК</NAMEKORR>
+        <UNPKORR>100219673</UNPKORR>
+        <SUMOPER nd="2090.00" nk="" ed="2090.00" ek=""> </SUMOPER>
+        <DETPAY>ЗАРАБОТНАЯ ПЛАТА ЗА ИЮЛЬ. ДОГОВОР N 348-2017 ОТ 07.07.2017.  СПИСОК НА ВЫПЛАТУ N 103 ОТ 16.07.2019. </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+    </OPERINFO>
+  </ACCOUNTINFO>
+</TURN><?xml version="1.0" encoding="cp866"?>
+<TURN>
+  <ACCOUNTINFO>
+    <ACCOUNT>BY86BPSB30211816590139330000</ACCOUNT>
+    <CURRENCY Iso="BYN" Code="933" Rate="1"> </CURRENCY>
+    <NAME>ПРЕДСТАВИТЕЛЬСТВО ООО "SUN PHARMACEUTICAL INDUSTRIES LTD." (РЕСПУБЛИКА ИНДИЯ) В РЕСПУБЛИКЕ БЕЛАРУСЬ</NAME>
+    <TYPETURN>ОКОНЧАТЕЛЬНАЯ</TYPETURN>
+    <PERIOD>за 17.07.2019</PERIOD>
+    <INREST nominal="5534.38" equivalent="5534.38"> </INREST>
+    <OUTREST nominal="3534.38" equivalent="3534.38"> </OUTREST>
+    <TURNDEB nominal="2000.00" equivalent="2000.00"> </TURNDEB>
+    <TURNKRE nominal="0.00" equivalent="0.00"> </TURNKRE>
+    <CARDRESTS card1="" card2=""> </CARDRESTS>
+    <LASTOPER>16.07.2019</LASTOPER>
+    <TIMETURN date="17.07.2019" time="23:10:42"> </TIMETURN>
+    <TIMEMAKE date="01.12.2020" time="15:08:35"> </TIMEMAKE>
+    <OPERINFO>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>488</DOCN>
+        <MFOKORR>OLMPBY2X</MFOKORR>
+        <ACCKORR>BY34OLMP31190000001710000933</ACCKORR>
+        <NAMEKORR>НПО "БЕРЛИО"</NAMEKORR>
+        <UNPKORR>100429079</UNPKORR>
+        <SUMOPER nd="2000.00" nk="" ed="2000.00" ek=""> </SUMOPER>
+        <DETPAY>ОПЛАТА ПОКУПКИ ЭЛЕКТРОННЫХ ДЕНЕГ "БЕРЛИО" СОГЛ ДОГ 24052 ОТ 05/03/2008 БЕЗ НДС </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+    </OPERINFO>
+  </ACCOUNTINFO>
+</TURN><?xml version="1.0" encoding="cp866"?>
+<TURN>
+  <ACCOUNTINFO>
+    <ACCOUNT>BY86BPSB30211816590139330000</ACCOUNT>
+    <CURRENCY Iso="BYN" Code="933" Rate="1"> </CURRENCY>
+    <NAME>ПРЕДСТАВИТЕЛЬСТВО ООО "SUN PHARMACEUTICAL INDUSTRIES LTD." (РЕСПУБЛИКА ИНДИЯ) В РЕСПУБЛИКЕ БЕЛАРУСЬ</NAME>
+    <TYPETURN>ОКОНЧАТЕЛЬНАЯ</TYPETURN>
+    <PERIOD>за 18.07.2019</PERIOD>
+    <INREST nominal="3534.38" equivalent="3534.38"> </INREST>
+    <OUTREST nominal="19806.07" equivalent="19806.07"> </OUTREST>
+    <TURNDEB nominal="10003.21" equivalent="10003.21"> </TURNDEB>
+    <TURNKRE nominal="26274.90" equivalent="26274.90"> </TURNKRE>
+    <CARDRESTS card1="" card2=""> </CARDRESTS>
+    <LASTOPER>17.07.2019</LASTOPER>
+    <TIMETURN date="18.07.2019" time="23:08:43"> </TIMETURN>
+    <TIMEMAKE date="01.12.2020" time="15:08:35"> </TIMEMAKE>
+    <OPERINFO>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>497</DOCN>
+        <MFOKORR>TECNBY22</MFOKORR>
+        <ACCKORR>BY62TECN30124111000110000000</ACCKORR>
+        <NAMEKORR>ООО "НАЧИСТО"</NAMEKORR>
+        <UNPKORR>590683183</UNPKORR>
+        <SUMOPER nd="22.00" nk="" ed="22.00" ek=""> </SUMOPER>
+        <DETPAY>ПЛАТА ЗА МОЙКУ АВТОМОБИЛЯ СОГЛ АКТУ 288 ОТ 30.06.2019. СУММА 22,00=. БЕЗ НДС </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>493</DOCN>
+        <MFOKORR>PJCBBY2X</MFOKORR>
+        <ACCKORR>BY38PJCB30120151551000000933</ACCKORR>
+        <NAMEKORR>ООО "МИР ВОДЫ"</NAMEKORR>
+        <UNPKORR>690027140</UNPKORR>
+        <SUMOPER nd="27.60" nk="" ed="27.60" ek=""> </SUMOPER>
+        <DETPAY>ПЛАТА ЗА ВОДУ ПИТЬЕВУЮ СОГЛ СЧ-ПР Т 083772 ОТ 15.07.19. СУММА  НДС 4,60=. </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>491</DOCN>
+        <MFOKORR>BLBBBY2X</MFOKORR>
+        <ACCKORR>BY80BLBB30120391813252001001</ACCKORR>
+        <NAMEKORR>ЧТУП "ВИТБИЗНЕС АС"</NAMEKORR>
+        <UNPKORR>391813252</UNPKORR>
+        <SUMOPER nd="52.00" nk="" ed="52.00" ek=""> </SUMOPER>
+        <DETPAY>ПЛАТА ЗА МОЙКУ АВТОМОБИЛЕЙ СОГЛ АКТУ 0000349 ОТ 30.06.19 БЕЗ НДС </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>495</DOCN>
+        <MFOKORR>OLMPBY2X</MFOKORR>
+        <ACCKORR>BY33OLMP30128000038530000933</ACCKORR>
+        <NAMEKORR>ОДО "АВТОПРАЧКА"</NAMEKORR>
+        <UNPKORR>490559899</UNPKORR>
+        <SUMOPER nd="82.00" nk="" ed="82.00" ek=""> </SUMOPER>
+        <DETPAY>ПЛАТА ЗА МОЙКУ АВТОМОБИЛЕЙ СОГЛ АКТУ 0000115 ОТ 28.06.19. БЕЗ НДС </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>494</DOCN>
+        <MFOKORR>OLMPBY2X</MFOKORR>
+        <ACCKORR>BY24OLMP30123000623810000933</ACCKORR>
+        <NAMEKORR>ЧУП "АКВАТОРИЯ ЛЮКС"</NAMEKORR>
+        <UNPKORR>290711738</UNPKORR>
+        <SUMOPER nd="84.00" nk="" ed="84.00" ek=""> </SUMOPER>
+        <DETPAY>ПЛАТА ЗА МОЙКУ АВТОМОБИЛЕЙ СОГЛ АКТУ 362 ОТ 30.06.2019 СУММА 84,00 БЕЗ НДС </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>498</DOCN>
+        <MFOKORR>OLMPBY2X</MFOKORR>
+        <ACCKORR>BY41OLMP30127000069340000933</ACCKORR>
+        <NAMEKORR>ООО ЮГ-МОТОРС</NAMEKORR>
+        <UNPKORR>790642657</UNPKORR>
+        <SUMOPER nd="85.00" nk="" ed="85.00" ek=""> </SUMOPER>
+        <DETPAY>ПЛАТА ЗА МОЙКУ АВТОМОБИЛЕЙ СОГЛ АКТУ 194 ОТ 30.06.19. БЕЗ НДС </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>492</DOCN>
+        <MFOKORR>BLBBBY2X</MFOKORR>
+        <ACCKORR>BY89BLBB30120100138514001001</ACCKORR>
+        <NAMEKORR>УП "СТРОЙНАУКА"</NAMEKORR>
+        <UNPKORR>100138514</UNPKORR>
+        <SUMOPER nd="567.88" nk="" ed="567.88" ek=""> </SUMOPER>
+        <DETPAY>ОПЛАТА КОММ УСЛУГ ЗА ИЮНЬ 2019 Г. СУММА СОГЛ АКТ-СЧ 0711,0712 ОТ 15.07.2019. </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>496</DOCN>
+        <MFOKORR>BPSBBY2X</MFOKORR>
+        <ACCKORR>BY33BPSB30133012630119330000</ACCKORR>
+        <NAMEKORR>ИП ЛУКАШЕВИЧ СЕРГЕЙ ВАЛЕРЬЕВИЧ</NAMEKORR>
+        <UNPKORR>691834277</UNPKORR>
+        <SUMOPER nd="1100.00" nk="" ed="1100.00" ek=""> </SUMOPER>
+        <DETPAY>ЗА ТРАНСПОРТНЫЕ УСЛУГИ. СУММА СОГЛ. АКТА 30 ОТ 30.06.2019 </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>490</DOCN>
+        <MFOKORR>BLBBBY2X</MFOKORR>
+        <ACCKORR>BY77BLBB30120190196523001001</ACCKORR>
+        <NAMEKORR>УП "ПРОФЕССИОНАЛЬНЫЕ ИЗДАНИЯ"</NAMEKORR>
+        <UNPKORR>190196523</UNPKORR>
+        <SUMOPER nd="3482.73" nk="" ed="3482.73" ek=""> </SUMOPER>
+        <DETPAY>ПЛАТА ЗА УСЛУГИ ПО РАЗМЕЩЕНИЮ РЕКЛАМЫ СОГЛ СЧ 178 ОТ 19.04.19, 204 ОТ 26.04.19, 242 ОТ 17.05.19, 245 ОТ 20.05.19, 249 ОТ 21.05.19. СУММА  - 3482,73. БЕЗ НДС </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>489</DOCN>
+        <MFOKORR>BPSBBY2X</MFOKORR>
+        <ACCKORR>BY33BPSB30133012630119330000</ACCKORR>
+        <NAMEKORR>ИП ЛУКАШЕВИЧ СЕРГЕЙ ВАЛЕРЬЕВИЧ</NAMEKORR>
+        <UNPKORR>691834277</UNPKORR>
+        <SUMOPER nd="4500.00" nk="" ed="4500.00" ek=""> </SUMOPER>
+        <DETPAY>ЗА ТРАНСПОРТНЫЕ УСЛУГИ. СУММА СОГЛ. АКТА 30 ОТ 30.06.2019 </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>189</DOCN>
+        <MFOKORR>BPSBBY2X</MFOKORR>
+        <ACCKORR>BY88BPSB69118170000149330000</ACCKORR>
+        <NAMEKORR>ОАО "БПС-СБЕРБАНК"</NAMEKORR>
+        <UNPKORR>100219673</UNPKORR>
+        <SUMOPER nd="" nk="6051.90" ed="" ek="6051.90"> </SUMOPER>
+        <DETPAY>Перевод с продажей ПП 189  от 18.07.19 Представительство ООО "Sun Pharmaceutical Industries LTD." (Республика Индия) в Республике Беларусь. Курс  2.0173 за 1 ед. валюты. СВОБОДНАЯ ПРОДАЖА ИНОСТРАННОЙ ВАЛЮТЫ. </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>06</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>187</DOCN>
+        <MFOKORR>BPSBBY2X</MFOKORR>
+        <ACCKORR>BY88BPSB69118170000149330000</ACCKORR>
+        <NAMEKORR>ОАО "БПС-СБЕРБАНК"</NAMEKORR>
+        <UNPKORR>100219673</UNPKORR>
+        <SUMOPER nd="" nk="20223.00" ed="" ek="20223.00"> </SUMOPER>
+        <DETPAY>Перевод с продажей ПП 187  от 18.07.19 Представительство ООО "Sun Pharmaceutical Industries LTD." (Республика Индия) в Республике Беларусь. Курс  2.0223 за 1 ед. валюты. СВОБОДНАЯ ПРОДАЖА ИНОСТРАННОЙ ВАЛЮТЫ. </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>06</VO>
+        <UNP3></UNP3>
+      </OPER>
+    </OPERINFO>
+  </ACCOUNTINFO>
+</TURN><?xml version="1.0" encoding="cp866"?>
+<TURN>
+  <ACCOUNTINFO>
+    <ACCOUNT>BY86BPSB30211816590139330000</ACCOUNT>
+    <CURRENCY Iso="BYN" Code="933" Rate="1"> </CURRENCY>
+    <NAME>ПРЕДСТАВИТЕЛЬСТВО ООО "SUN PHARMACEUTICAL INDUSTRIES LTD." (РЕСПУБЛИКА ИНДИЯ) В РЕСПУБЛИКЕ БЕЛАРУСЬ</NAME>
+    <TYPETURN>ОКОНЧАТЕЛЬНАЯ</TYPETURN>
+    <PERIOD>за 19.07.2019</PERIOD>
+    <INREST nominal="19806.07" equivalent="19806.07"> </INREST>
+    <OUTREST nominal="19806.07" equivalent="19806.07"> </OUTREST>
+    <TURNDEB nominal="0.00" equivalent="0.00"> </TURNDEB>
+    <TURNKRE nominal="0.00" equivalent="0.00"> </TURNKRE>
+    <CARDRESTS card1="" card2=""> </CARDRESTS>
+    <LASTOPER>18.07.2019</LASTOPER>
+    <TIMETURN date="19.07.2019" time="23:10:21"> </TIMETURN>
+    <TIMEMAKE date="01.12.2020" time="15:08:35"> </TIMEMAKE>
+    <OPERINFO>
+    </OPERINFO>
+  </ACCOUNTINFO>
+</TURN><?xml version="1.0" encoding="cp866"?>
+<TURN>
+  <ACCOUNTINFO>
+    <ACCOUNT>BY86BPSB30211816590139330000</ACCOUNT>
+    <CURRENCY Iso="BYN" Code="933" Rate="1"> </CURRENCY>
+    <NAME>ПРЕДСТАВИТЕЛЬСТВО ООО "SUN PHARMACEUTICAL INDUSTRIES LTD." (РЕСПУБЛИКА ИНДИЯ) В РЕСПУБЛИКЕ БЕЛАРУСЬ</NAME>
+    <TYPETURN>ОКОНЧАТЕЛЬНАЯ</TYPETURN>
+    <PERIOD>за 22.07.2019</PERIOD>
+    <INREST nominal="19806.07" equivalent="19806.07"> </INREST>
+    <OUTREST nominal="5631.15" equivalent="5631.15"> </OUTREST>
+    <TURNDEB nominal="14174.92" equivalent="14174.92"> </TURNDEB>
+    <TURNKRE nominal="0.00" equivalent="0.00"> </TURNKRE>
+    <CARDRESTS card1="" card2=""> </CARDRESTS>
+    <LASTOPER>18.07.2019</LASTOPER>
+    <TIMETURN date="22.07.2019" time="23:10:49"> </TIMETURN>
+    <TIMEMAKE date="01.12.2020" time="15:08:35"> </TIMEMAKE>
+    <OPERINFO>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>27486</DOCN>
+        <MFOKORR>BPSBBY2X</MFOKORR>
+        <ACCKORR>BY63BPSB81010000053159330000</ACCKORR>
+        <NAMEKORR>ОАО "БПС-СБЕРБАНК"</NAMEKORR>
+        <UNPKORR>100219673</UNPKORR>
+        <SUMOPER nd="11.13" nk="" ed="11.13" ek=""> </SUMOPER>
+        <DETPAY>Вознагр. за зачисление денежных средств на счета физ.лиц, по п/п №104 от 22.07.2019 согл. Договору 348-2017 от 07.07.2017г. Без НДС согласно п. 1.37.2. ст.118 Особенной части Налогового Кодекса </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>06</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>499</DOCN>
+        <MFOKORR>BLBBBY2X</MFOKORR>
+        <ACCKORR>BY77BLBB30120190196523001001</ACCKORR>
+        <NAMEKORR>УП "ПРОФЕССИОНАЛЬНЫЕ ИЗДАНИЯ"</NAMEKORR>
+        <UNPKORR>190196523</UNPKORR>
+        <SUMOPER nd="1147.50" nk="" ed="1147.50" ek=""> </SUMOPER>
+        <DETPAY>ПЛАТА ЗА УСЛУГИ ПО РАЗМЕЩЕНИЮ РЕКЛАМЫ СОГЛ СЧ 317 ОТ 05.07.19. СУММА-1147,50. БЕЗ НДС </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>501</DOCN>
+        <MFOKORR>BAPBBY2X</MFOKORR>
+        <ACCKORR>BY52BAPB30122499600110000000</ACCKORR>
+        <NAMEKORR>УП "САНТА РЕСТ"</NAMEKORR>
+        <UNPKORR>291261699</UNPKORR>
+        <SUMOPER nd="1375.05" nk="" ed="1375.05" ek=""> </SUMOPER>
+        <DETPAY>ПРЕДОПЛАТА ЗА ПИТАНИЕ СОГЛ ТН 1050247/1050248 ОТ 04/07/19. СУММА С НДС(12,4717%) 1375,05. </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>500</DOCN>
+        <MFOKORR>OLMPBY2X</MFOKORR>
+        <ACCKORR>BY34OLMP31190000001710000933</ACCKORR>
+        <NAMEKORR>НПО "БЕРЛИО"</NAMEKORR>
+        <UNPKORR>100429079</UNPKORR>
+        <SUMOPER nd="2500.00" nk="" ed="2500.00" ek=""> </SUMOPER>
+        <DETPAY>ОПЛАТА ПОКУПКИ ЭЛЕКТРОННЫХ ДЕНЕГ "БЕРЛИО" СОГЛ ДОГ 24052 ОТ 05/03/2008 БЕЗ НДС </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>104</DOCN>
+        <MFOKORR>BPSBBY2X</MFOKORR>
+        <ACCKORR>BY13BPSB38198000000709330000</ACCKORR>
+        <NAMEKORR>ОАО БПС-СБЕРБАНК</NAMEKORR>
+        <UNPKORR>100219673</UNPKORR>
+        <SUMOPER nd="3709.24" nk="" ed="3709.24" ek=""> </SUMOPER>
+        <DETPAY>ОТПУСКНЫЕ ЗА ИЮЛЬ. ДОГОВОР N 348-2017 ОТ 07.07.2017.  СПИСОК НА ВЫПЛАТУ N 104 ОТ 22.07.2019. </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>502</DOCN>
+        <MFOKORR>SLANBY22</MFOKORR>
+        <ACCKORR>BY17SLAN30121279000130000000</ACCKORR>
+        <NAMEKORR>ООО "МЕДИАГРАД"</NAMEKORR>
+        <UNPKORR>191667544</UNPKORR>
+        <SUMOPER nd="5432.00" nk="" ed="5432.00" ek=""> </SUMOPER>
+        <DETPAY>ПЛАТА ЗА ОКАЗАНИЕ УСЛУГ ПО РАЗМЕЩЕНИЮ РЕКЛАМЫ СОГЛ ПРОТОКОЛУ ОТ 28.06.19.  СУММА С НДС (20%) - 5432=. </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+    </OPERINFO>
+  </ACCOUNTINFO>
+</TURN><?xml version="1.0" encoding="cp866"?>
+<TURN>
+  <ACCOUNTINFO>
+    <ACCOUNT>BY86BPSB30211816590139330000</ACCOUNT>
+    <CURRENCY Iso="BYN" Code="933" Rate="1"> </CURRENCY>
+    <NAME>ПРЕДСТАВИТЕЛЬСТВО ООО "SUN PHARMACEUTICAL INDUSTRIES LTD." (РЕСПУБЛИКА ИНДИЯ) В РЕСПУБЛИКЕ БЕЛАРУСЬ</NAME>
+    <TYPETURN>ОКОНЧАТЕЛЬНАЯ</TYPETURN>
+    <PERIOD>за 23.07.2019</PERIOD>
+    <INREST nominal="5631.15" equivalent="5631.15"> </INREST>
+    <OUTREST nominal="5631.15" equivalent="5631.15"> </OUTREST>
+    <TURNDEB nominal="0.00" equivalent="0.00"> </TURNDEB>
+    <TURNKRE nominal="0.00" equivalent="0.00"> </TURNKRE>
+    <CARDRESTS card1="" card2=""> </CARDRESTS>
+    <LASTOPER>22.07.2019</LASTOPER>
+    <TIMETURN date="23.07.2019" time="23:10:50"> </TIMETURN>
+    <TIMEMAKE date="01.12.2020" time="15:08:35"> </TIMEMAKE>
+    <OPERINFO>
+    </OPERINFO>
+  </ACCOUNTINFO>
+</TURN><?xml version="1.0" encoding="cp866"?>
+<TURN>
+  <ACCOUNTINFO>
+    <ACCOUNT>BY86BPSB30211816590139330000</ACCOUNT>
+    <CURRENCY Iso="BYN" Code="933" Rate="1"> </CURRENCY>
+    <NAME>ПРЕДСТАВИТЕЛЬСТВО ООО "SUN PHARMACEUTICAL INDUSTRIES LTD." (РЕСПУБЛИКА ИНДИЯ) В РЕСПУБЛИКЕ БЕЛАРУСЬ</NAME>
+    <TYPETURN>ОКОНЧАТЕЛЬНАЯ</TYPETURN>
+    <PERIOD>за 24.07.2019</PERIOD>
+    <INREST nominal="5631.15" equivalent="5631.15"> </INREST>
+    <OUTREST nominal="4782.00" equivalent="4782.00"> </OUTREST>
+    <TURNDEB nominal="31132.65" equivalent="31132.65"> </TURNDEB>
+    <TURNKRE nominal="30283.50" equivalent="30283.50"> </TURNKRE>
+    <CARDRESTS card1="" card2=""> </CARDRESTS>
+    <LASTOPER>22.07.2019</LASTOPER>
+    <TIMETURN date="24.07.2019" time="23:11:30"> </TIMETURN>
+    <TIMEMAKE date="01.12.2020" time="15:08:35"> </TIMEMAKE>
+    <OPERINFO>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>9314</DOCN>
+        <MFOKORR>BPSBBY2X</MFOKORR>
+        <ACCKORR>BY63BPSB81010000053159330000</ACCKORR>
+        <NAMEKORR>ОАО "БПС-СБЕРБАНК"</NAMEKORR>
+        <UNPKORR>100219673</UNPKORR>
+        <SUMOPER nd="0.42" nk="" ed="0.42" ek=""> </SUMOPER>
+        <DETPAY>Вознагр. за зачисление денежных средств на счета физ.лиц, по п/п №105 от 24.07.2019 согл. Договору 348-2017 от 07.07.2017г. Без НДС согласно п. 1.37.2. ст.118 Особенной части Налогового Кодекса </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>06</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>10136</DOCN>
+        <MFOKORR>BPSBBY2X</MFOKORR>
+        <ACCKORR>BY63BPSB81010000053159330000</ACCKORR>
+        <NAMEKORR>ОАО "БПС-СБЕРБАНК"</NAMEKORR>
+        <UNPKORR>100219673</UNPKORR>
+        <SUMOPER nd="8.30" nk="" ed="8.30" ek=""> </SUMOPER>
+        <DETPAY>Вознагр. за зачисление денежных средств на счета физ.лиц, по п/п №106 от 24.07.2019 согл. Договору 348-2017 от 07.07.2017г. Без НДС согласно п. 1.37.2. ст.118 Особенной части Налогового Кодекса </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>06</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>105</DOCN>
+        <MFOKORR>BPSBBY2X</MFOKORR>
+        <ACCKORR>BY13BPSB38198000000709330000</ACCKORR>
+        <NAMEKORR>ОАО БПС-СБЕРБАНК</NAMEKORR>
+        <UNPKORR>100219673</UNPKORR>
+        <SUMOPER nd="140.00" nk="" ed="140.00" ek=""> </SUMOPER>
+        <DETPAY>ЗАРАБОТНАЯ ПЛАТА ЗА ИЮЛЬ. ДОГОВОР N 348-2017 ОТ 07.07.2017.  СПИСОК НА ВЫПЛАТУ N 105 ОТ 24.07.2019. </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>506</DOCN>
+        <MFOKORR>MMBNBY22</MFOKORR>
+        <ACCKORR>BY33MMBN30120031000109330000</ACCKORR>
+        <NAMEKORR>ООО "АЙТИ ДИРЕКТ"</NAMEKORR>
+        <UNPKORR>191230820</UNPKORR>
+        <SUMOPER nd="144.00" nk="" ed="144.00" ek=""> </SUMOPER>
+        <DETPAY>ПЛАТА ЗА ТОВАР СОГЛ ДОГОВОРУ 20190712-3 ОТ 12.07.2019. СУММА С НДС-144 БЕЛ.РУБ. </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>503</DOCN>
+        <MFOKORR>BELBBY2X</MFOKORR>
+        <ACCKORR>BY55BELB30120064290050226000</ACCKORR>
+        <NAMEKORR>ООО "ГЕНЕКС"</NAMEKORR>
+        <UNPKORR>100386830</UNPKORR>
+        <SUMOPER nd="165.78" nk="" ed="165.78" ek=""> </SUMOPER>
+        <DETPAY>ОПЛАТА ЗА УСЛУГИ ПО ДЕКЛАРИРОВАНИЮ. СУММА СОГЛ. С/Ф 898 ОТ 19.07.2019. СУММА НДС (20%) = 27,63. </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>505</DOCN>
+        <MFOKORR>MTBKBY22</MFOKORR>
+        <ACCKORR>BY38MTBK30120001093300061855</ACCKORR>
+        <NAMEKORR>ООО "СМАРТОН"</NAMEKORR>
+        <UNPKORR>190635842</UNPKORR>
+        <SUMOPER nd="196.13" nk="" ed="196.13" ek=""> </SUMOPER>
+        <DETPAY>ПЛАТА ЗА НЕПРОДОВОЛЬСТВЕННЫЕ ТОВАРЫ СОГЛ СЧ МИСМ00-206946-В ОТ 19.07.19.  СУММА НДС-32,69=. СУММА С НДС-196,13=. </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>504</DOCN>
+        <MFOKORR>PJCBBY2X</MFOKORR>
+        <ACCKORR>BY57PJCB30124039261000000933</ACCKORR>
+        <NAMEKORR>ООО "ФРАНСЦЕНТР"</NAMEKORR>
+        <UNPKORR>490863036</UNPKORR>
+        <SUMOPER nd="645.00" nk="" ed="645.00" ek=""> </SUMOPER>
+        <DETPAY>ОПЛАТА ЗА ТО И РЕМОНТ АВТОМОБИЛЯ СОГЛ СЧ/Ф 5109 ОТ 15.07.19. БЕЗ НДС </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>508</DOCN>
+        <MFOKORR>MTBKBY22</MFOKORR>
+        <ACCKORR>BY66MTBK30120001093300062321</ACCKORR>
+        <NAMEKORR>ЗАО "СИТБЕЛ"</NAMEKORR>
+        <UNPKORR>100608743</UNPKORR>
+        <SUMOPER nd="1907.93" nk="" ed="1907.93" ek=""> </SUMOPER>
+        <DETPAY>ОПЛАТА ЗА ТО АВТОМОБИЛЕЙ СОГЛ СЧ-ПР 25758,025776 ОТ 23.07.19, В Т. Ч. НДС (20%)-317,99 </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>106</DOCN>
+        <MFOKORR>BPSBBY2X</MFOKORR>
+        <ACCKORR>BY13BPSB38198000000709330000</ACCKORR>
+        <NAMEKORR>ОАО БПС-СБЕРБАНК</NAMEKORR>
+        <UNPKORR>100219673</UNPKORR>
+        <SUMOPER nd="2765.19" nk="" ed="2765.19" ek=""> </SUMOPER>
+        <DETPAY>ЗАРАБОТНАЯ ПЛАТА ЗА ИЮЛЬ. ДОГОВОР N 348-2017 ОТ 07.07.2017.  СПИСОК НА ВЫПЛАТУ N 106 ОТ 24.07.2019. </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>507</DOCN>
+        <MFOKORR>PJCBBY2X</MFOKORR>
+        <ACCKORR>BY30PJCB30122016831000000933</ACCKORR>
+        <NAMEKORR>ООО "УПРАВЛЯЮЩАЯ КОМПАНИЯ ХОЛДИНГА "АПТЕКА ГРУПП"</NAMEKORR>
+        <UNPKORR>191751593</UNPKORR>
+        <SUMOPER nd="25159.90" nk="" ed="25159.90" ek=""> </SUMOPER>
+        <DETPAY>ПЛАТА ЗА РЕКЛАМНЫЕ И МАРКЕТИНГОВЫЕ УСЛУГИ СОГЛ АКТАМ 15-2019, 16-2019, 17-2019 ОТ 30.06.19. СУММА С НДС-25159,90=. </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>199</DOCN>
+        <MFOKORR>BPSBBY2X</MFOKORR>
+        <ACCKORR>BY88BPSB69118170000149330000</ACCKORR>
+        <NAMEKORR>ОАО "БПС-СБЕРБАНК"</NAMEKORR>
+        <UNPKORR>100219673</UNPKORR>
+        <SUMOPER nd="" nk="30283.50" ed="" ek="30283.50"> </SUMOPER>
+        <DETPAY>Перевод с продажей ПП 199  от 24.07.19 Представительство ООО "Sun Pharmaceutical Industries LTD." (Республика Индия) в Республике Беларусь. Курс  2.0189 за 1 ед. валюты. СВОБОДНАЯ ПРОДАЖА ИНОСТРАННОЙ ВАЛЮТЫ. </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>06</VO>
+        <UNP3></UNP3>
+      </OPER>
+    </OPERINFO>
+  </ACCOUNTINFO>
+</TURN><?xml version="1.0" encoding="cp866"?>
+<TURN>
+  <ACCOUNTINFO>
+    <ACCOUNT>BY86BPSB30211816590139330000</ACCOUNT>
+    <CURRENCY Iso="BYN" Code="933" Rate="1"> </CURRENCY>
+    <NAME>ПРЕДСТАВИТЕЛЬСТВО ООО "SUN PHARMACEUTICAL INDUSTRIES LTD." (РЕСПУБЛИКА ИНДИЯ) В РЕСПУБЛИКЕ БЕЛАРУСЬ</NAME>
+    <TYPETURN>ОКОНЧАТЕЛЬНАЯ</TYPETURN>
+    <PERIOD>за 25.07.2019</PERIOD>
+    <INREST nominal="4782.00" equivalent="4782"> </INREST>
+    <OUTREST nominal="5658.64" equivalent="5658.64"> </OUTREST>
+    <TURNDEB nominal="15251.36" equivalent="15251.36"> </TURNDEB>
+    <TURNKRE nominal="16128.00" equivalent="16128.00"> </TURNKRE>
+    <CARDRESTS card1="" card2=""> </CARDRESTS>
+    <LASTOPER>24.07.2019</LASTOPER>
+    <TIMETURN date="25.07.2019" time="23:11:03"> </TIMETURN>
+    <TIMEMAKE date="01.12.2020" time="15:08:35"> </TIMEMAKE>
+    <OPERINFO>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>10084</DOCN>
+        <MFOKORR>BPSBBY2X</MFOKORR>
+        <ACCKORR>BY63BPSB81010000053159330000</ACCKORR>
+        <NAMEKORR>ОАО "БПС-СБЕРБАНК"</NAMEKORR>
+        <UNPKORR>100219673</UNPKORR>
+        <SUMOPER nd="38.74" nk="" ed="38.74" ek=""> </SUMOPER>
+        <DETPAY>Вознагр. за зачисление денежных средств на счета физ.лиц, по п/п №107 от 25.07.2019 согл. Договору 348-2017 от 07.07.2017г. Без НДС согласно п. 1.37.2. ст.118 Особенной части Налогового Кодекса </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>06</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>509</DOCN>
+        <MFOKORR>AKBBBY2X</MFOKORR>
+        <ACCKORR>BY43AKBB36021010005210000000</ACCKORR>
+        <NAMEKORR>ГЛАВНОЕ УПРАВЛЕНИЕ МИНИСТЕРСТВА ФИНАНСОВ РБ ПО Г.МИНСКУ</NAMEKORR>
+        <UNPKORR>101530339</UNPKORR>
+        <SUMOPER nd="2300.00" nk="" ed="2300.00" ek=""> </SUMOPER>
+        <DETPAY>УПЛАТА ПОДОХОДНОГО НАЛОГА ИЗ З/П ЗА ИЮЛЬ 2019 Г. НАЛОГ УДЕРЖАН ИЗ З/П И ПЕРЕЧИСЛЕН В БЮДЖЕТ. СРОК ПЛАТЕЖА 25/07/2019. </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX>00101</TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>107</DOCN>
+        <MFOKORR>BPSBBY2X</MFOKORR>
+        <ACCKORR>BY13BPSB38198000000709330000</ACCKORR>
+        <NAMEKORR>ОАО БПС-СБЕРБАНК</NAMEKORR>
+        <UNPKORR>100219673</UNPKORR>
+        <SUMOPER nd="12912.62" nk="" ed="12912.62" ek=""> </SUMOPER>
+        <DETPAY>ЗАРАБОТНАЯ ПЛАТА ЗА ИЮЛЬ. ДОГОВОР N 348-2017 ОТ 07.07.2017.  СПИСОК НА ВЫПЛАТУ N 107 ОТ 25.07.2019. </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>201</DOCN>
+        <MFOKORR>BPSBBY2X</MFOKORR>
+        <ACCKORR>BY88BPSB69118170000149330000</ACCKORR>
+        <NAMEKORR>ОАО "БПС-СБЕРБАНК"</NAMEKORR>
+        <UNPKORR>100219673</UNPKORR>
+        <SUMOPER nd="" nk="6048.00" ed="" ek="6048.00"> </SUMOPER>
+        <DETPAY>Перевод с продажей ПП 201  от 25.07.19 Представительство ООО "Sun Pharmaceutical Industries LTD." (Республика Индия) в Республике Беларусь. Курс  2.0160 за 1 ед. валюты. СВОБОДНАЯ ПРОДАЖА ИНОСТРАННОЙ ВАЛЮТЫ. </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>06</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>200</DOCN>
+        <MFOKORR>BPSBBY2X</MFOKORR>
+        <ACCKORR>BY88BPSB69118170000149330000</ACCKORR>
+        <NAMEKORR>ОАО "БПС-СБЕРБАНК"</NAMEKORR>
+        <UNPKORR>100219673</UNPKORR>
+        <SUMOPER nd="" nk="10080.00" ed="" ek="10080.00"> </SUMOPER>
+        <DETPAY>Перевод с продажей ПП 200  от 25.07.19 Представительство ООО "Sun Pharmaceutical Industries LTD." (Республика Индия) в Республике Беларусь. Курс  2.0160 за 1 ед. валюты. СВОБОДНАЯ ПРОДАЖА ИНОСТРАННОЙ ВАЛЮТЫ. </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>06</VO>
+        <UNP3></UNP3>
+      </OPER>
+    </OPERINFO>
+  </ACCOUNTINFO>
+</TURN><?xml version="1.0" encoding="cp866"?>
+<TURN>
+  <ACCOUNTINFO>
+    <ACCOUNT>BY86BPSB30211816590139330000</ACCOUNT>
+    <CURRENCY Iso="BYN" Code="933" Rate="1"> </CURRENCY>
+    <NAME>ПРЕДСТАВИТЕЛЬСТВО ООО "SUN PHARMACEUTICAL INDUSTRIES LTD." (РЕСПУБЛИКА ИНДИЯ) В РЕСПУБЛИКЕ БЕЛАРУСЬ</NAME>
+    <TYPETURN>ОКОНЧАТЕЛЬНАЯ</TYPETURN>
+    <PERIOD>за 26.07.2019</PERIOD>
+    <INREST nominal="5658.64" equivalent="5658.64"> </INREST>
+    <OUTREST nominal="2122.53" equivalent="2122.53"> </OUTREST>
+    <TURNDEB nominal="104646.11" equivalent="104646.11"> </TURNDEB>
+    <TURNKRE nominal="101110.00" equivalent="101110.00"> </TURNKRE>
+    <CARDRESTS card1="" card2=""> </CARDRESTS>
+    <LASTOPER>25.07.2019</LASTOPER>
+    <TIMETURN date="26.07.2019" time="23:10:35"> </TIMETURN>
+    <TIMEMAKE date="01.12.2020" time="15:08:35"> </TIMEMAKE>
+    <OPERINFO>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>9963</DOCN>
+        <MFOKORR>BPSBBY2X</MFOKORR>
+        <ACCKORR>BY63BPSB81010000053159330000</ACCKORR>
+        <NAMEKORR>ОАО "БПС-СБЕРБАНК"</NAMEKORR>
+        <UNPKORR>100219673</UNPKORR>
+        <SUMOPER nd="4.57" nk="" ed="4.57" ek=""> </SUMOPER>
+        <DETPAY>Вознагр. за зачисление денежных средств на счета физ.лиц, по п/п №109 от 26.07.2019 согл. Договору 348-2017 от 07.07.2017г. Без НДС согласно п. 1.37.2. ст.118 Особенной части Налогового Кодекса </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>06</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>8089</DOCN>
+        <MFOKORR>BPSBBY2X</MFOKORR>
+        <ACCKORR>BY63BPSB81010000053159330000</ACCKORR>
+        <NAMEKORR>ОАО "БПС-СБЕРБАНК"</NAMEKORR>
+        <UNPKORR>100219673</UNPKORR>
+        <SUMOPER nd="7.15" nk="" ed="7.15" ek=""> </SUMOPER>
+        <DETPAY>Вознагр. за зачисление денежных средств на счета физ.лиц, по п/п №108 от 26.07.2019 согл. Договору 348-2017 от 07.07.2017г. Без НДС согласно п. 1.37.2. ст.118 Особенной части Налогового Кодекса </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>06</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>511</DOCN>
+        <MFOKORR>UNBSBY2X</MFOKORR>
+        <ACCKORR>BY58UNBS30120386100050010933</ACCKORR>
+        <NAMEKORR>ЧП "КОРПОРАТИВНАЯ СВЯЗЬ"</NAMEKORR>
+        <UNPKORR>191157200</UNPKORR>
+        <SUMOPER nd="73.05" nk="" ed="73.05" ek=""> </SUMOPER>
+        <DETPAY>ЗА ПИСЬМЕННЫЙ ПЕРЕВОД ДОКУМЕНТАЦИИ И ВОЗМЕЩЕНИЕ ГОСПОШЛИНЫ СОГЛ СЧ-Ф 3023,3023/1 ОТ 25.07.19. СУММА НДС=7,50 БЕЛ.РУБ. </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>510</DOCN>
+        <MFOKORR>PJCBBY2X</MFOKORR>
+        <ACCKORR>BY77PJCB30120039541000000933</ACCKORR>
+        <NAMEKORR>ОДО "ФАРМАКОН"</NAMEKORR>
+        <UNPKORR>190098681</UNPKORR>
+        <SUMOPER nd="655.58" nk="" ed="655.58" ek=""> </SUMOPER>
+        <DETPAY>ОПЛАТА АРЕНДЫ ПОМЕЩЕНИЯ ЗА МАЙ-ИЮНЬ 2019 СОГЛ АКТАМ МАЙ 19/7 ОТ 31.05.19, ИЮНЬ 19/7 ОТ 30.06.19. СУММА НДС - 109,26=. </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>109</DOCN>
+        <MFOKORR>BPSBBY2X</MFOKORR>
+        <ACCKORR>BY13BPSB38198000000709330000</ACCKORR>
+        <NAMEKORR>ОАО БПС-СБЕРБАНК</NAMEKORR>
+        <UNPKORR>100219673</UNPKORR>
+        <SUMOPER nd="1523.76" nk="" ed="1523.76" ek=""> </SUMOPER>
+        <DETPAY>ЗАРАБОТНАЯ ПЛАТА ЗА ИЮЛЬ. ДОГОВОР N 348-2017 ОТ 07.07.2017.  СПИСОК НА ВЫПЛАТУ N 109 ОТ 26.07.2019. </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>108</DOCN>
+        <MFOKORR>BPSBBY2X</MFOKORR>
+        <ACCKORR>BY13BPSB38198000000709330000</ACCKORR>
+        <NAMEKORR>ОАО БПС-СБЕРБАНК</NAMEKORR>
+        <UNPKORR>100219673</UNPKORR>
+        <SUMOPER nd="2382.00" nk="" ed="2382.00" ek=""> </SUMOPER>
+        <DETPAY>ЗАРАБОТНАЯ ПЛАТА ЗА ИЮЛЬ. ДОГОВОР N 348-2017 ОТ 07.07.2017.  СПИСОК НА ВЫПЛАТУ N 108 ОТ 26.07.2019. </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>512</DOCN>
+        <MFOKORR>PJCBBY2X</MFOKORR>
+        <ACCKORR>BY84PJCB30125036401000000933</ACCKORR>
+        <NAMEKORR>ООО "БЕЛАВТОНОМИЯ"</NAMEKORR>
+        <UNPKORR>291079292</UNPKORR>
+        <SUMOPER nd="100000.00" nk="" ed="100000.00" ek=""> </SUMOPER>
+        <DETPAY>ЗА АВТОМОБИЛЬ HYUNDAI ПО ДОГОВОРУ 97-19 ОТ 04 ИЮНЯ 2019. СУММА - 100000, В Т.Ч. НДС (20%) </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>202</DOCN>
+        <MFOKORR>BPSBBY2X</MFOKORR>
+        <ACCKORR>BY88BPSB69118170000149330000</ACCKORR>
+        <NAMEKORR>ОАО "БПС-СБЕРБАНК"</NAMEKORR>
+        <UNPKORR>100219673</UNPKORR>
+        <SUMOPER nd="" nk="101110.00" ed="" ek="101110.00"> </SUMOPER>
+        <DETPAY>Перевод с продажей ПП 202  от 26.07.19 Представительство ООО "Sun Pharmaceutical Industries LTD." (Республика Индия) в Республике Беларусь. Курс  2.0222 за 1 ед. валюты. СВОБОДНАЯ ПРОДАЖА ИНОСТРАННОЙ ВАЛЮТЫ. </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>06</VO>
+        <UNP3></UNP3>
+      </OPER>
+    </OPERINFO>
+  </ACCOUNTINFO>
+</TURN><?xml version="1.0" encoding="cp866"?>
+<TURN>
+  <ACCOUNTINFO>
+    <ACCOUNT>BY86BPSB30211816590139330000</ACCOUNT>
+    <CURRENCY Iso="BYN" Code="933" Rate="1"> </CURRENCY>
+    <NAME>ПРЕДСТАВИТЕЛЬСТВО ООО "SUN PHARMACEUTICAL INDUSTRIES LTD." (РЕСПУБЛИКА ИНДИЯ) В РЕСПУБЛИКЕ БЕЛАРУСЬ</NAME>
+    <TYPETURN>ОКОНЧАТЕЛЬНАЯ</TYPETURN>
+    <PERIOD>за 29.07.2019</PERIOD>
+    <INREST nominal="2122.53" equivalent="2122.53"> </INREST>
+    <OUTREST nominal="5191.95" equivalent="5191.95"> </OUTREST>
+    <TURNDEB nominal="149150.58" equivalent="149150.58"> </TURNDEB>
+    <TURNKRE nominal="152220.00" equivalent="152220.00"> </TURNKRE>
+    <CARDRESTS card1="" card2=""> </CARDRESTS>
+    <LASTOPER>26.07.2019</LASTOPER>
+    <TIMETURN date="29.07.2019" time="23:11:21"> </TIMETURN>
+    <TIMEMAKE date="01.12.2020" time="15:08:35"> </TIMEMAKE>
+    <OPERINFO>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>21307</DOCN>
+        <MFOKORR>BPSBBY2X</MFOKORR>
+        <ACCKORR>BY63BPSB81010000053159330000</ACCKORR>
+        <NAMEKORR>ОАО "БПС-СБЕРБАНК"</NAMEKORR>
+        <UNPKORR>100219673</UNPKORR>
+        <SUMOPER nd="0.90" nk="" ed="0.90" ek=""> </SUMOPER>
+        <DETPAY>Вознагр. за зачисление денежных средств на счета физ.лиц, по п/п №111 от 29.07.2019 согл. Договору 348-2017 от 07.07.2017г. Без НДС согласно п. 1.37.2. ст.118 Особенной части Налогового Кодекса </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>06</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>17941</DOCN>
+        <MFOKORR>BPSBBY2X</MFOKORR>
+        <ACCKORR>BY63BPSB81010000053159330000</ACCKORR>
+        <NAMEKORR>ОАО "БПС-СБЕРБАНК"</NAMEKORR>
+        <UNPKORR>100219673</UNPKORR>
+        <SUMOPER nd="1.58" nk="" ed="1.58" ek=""> </SUMOPER>
+        <DETPAY>Вознагр. за зачисление денежных средств на счета физ.лиц, по п/п №110 от 29.07.2019 согл. Договору 348-2017 от 07.07.2017г. Без НДС согласно п. 1.37.2. ст.118 Особенной части Налогового Кодекса </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>06</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>516</DOCN>
+        <MFOKORR>MTBKBY22</MFOKORR>
+        <ACCKORR>BY09MTBK30130001093300032245</ACCKORR>
+        <NAMEKORR>ИП СВИРИДОВИЧ А.А.</NAMEKORR>
+        <UNPKORR>191784649</UNPKORR>
+        <SUMOPER nd="74.60" nk="" ed="74.60" ek=""> </SUMOPER>
+        <DETPAY>ПЛАТА ЗА ЗАПРАВКУ КАРТРИДЖА СОГЛ СЧ 425 ОТ 26.07.19, БЕЗ НДС </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>515</DOCN>
+        <MFOKORR>PJCBBY2X</MFOKORR>
+        <ACCKORR>BY57PJCB30124039261000000933</ACCKORR>
+        <NAMEKORR>ООО "ФРАНСЦЕНТР"</NAMEKORR>
+        <UNPKORR>490863036</UNPKORR>
+        <SUMOPER nd="175.00" nk="" ed="175.00" ek=""> </SUMOPER>
+        <DETPAY>ОПЛАТА ЗА ТО И РЕМОНТ АВТОМОБИЛЯ СОГЛ СЧ/Ф 5187 ОТ 25.07.19. БЕЗ НДС </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>111</DOCN>
+        <MFOKORR>BPSBBY2X</MFOKORR>
+        <ACCKORR>BY13BPSB38198000000709330000</ACCKORR>
+        <NAMEKORR>ОАО БПС-СБЕРБАНК</NAMEKORR>
+        <UNPKORR>100219673</UNPKORR>
+        <SUMOPER nd="301.00" nk="" ed="301.00" ek=""> </SUMOPER>
+        <DETPAY>ЗАРАБОТНАЯ ПЛАТА ЗА ИЮЛЬ. ДОГОВОР N 348-2017 ОТ 07.07.2017.  СПИСОК НА ВЫПЛАТУ N 111 ОТ 29.07.2019. </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>110</DOCN>
+        <MFOKORR>BPSBBY2X</MFOKORR>
+        <ACCKORR>BY13BPSB38198000000709330000</ACCKORR>
+        <NAMEKORR>ОАО БПС-СБЕРБАНК</NAMEKORR>
+        <UNPKORR>100219673</UNPKORR>
+        <SUMOPER nd="528.00" nk="" ed="528.00" ek=""> </SUMOPER>
+        <DETPAY>ЗАРАБОТНАЯ ПЛАТА ЗА ИЮЛЬ. ДОГОВОР N 348-2017 ОТ 07.07.2017.  СПИСОК НА ВЫПЛАТУ N 110 ОТ 29.07.2019. </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>513</DOCN>
+        <MFOKORR>MTBKBY22</MFOKORR>
+        <ACCKORR>BY66MTBK30120001093300062321</ACCKORR>
+        <NAMEKORR>ЗАО "СИТБЕЛ"</NAMEKORR>
+        <UNPKORR>100608743</UNPKORR>
+        <SUMOPER nd="4589.50" nk="" ed="4589.50" ek=""> </SUMOPER>
+        <DETPAY>ОПЛАТА ЗА ТО АВТОМОБИЛЕЙ СОГЛ СЧ-ПР 25552 ОТ 15.07.19, 25840 ОТ 26.07.19, 25878 ОТ 29.07.19, В Т. Ч. НДС (20%). </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>517</DOCN>
+        <MFOKORR>BPSBBY2X</MFOKORR>
+        <ACCKORR>BY15BPSB30121060530109330000</ACCKORR>
+        <NAMEKORR>ЧПУП "ПОЛИПРОМОУШН"</NAMEKORR>
+        <UNPKORR>191443889</UNPKORR>
+        <SUMOPER nd="6480.00" nk="" ed="6480.00" ek=""> </SUMOPER>
+        <DETPAY>ПЛАТА ЗА РЕКЛАМНУЮ ПРОДУКЦИЮ СОГЛ СЧ 154 ОТ 26.07.2019. В Т.Ч. НДС (20%) 1080,00 РУБ. </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>514</DOCN>
+        <MFOKORR>PJCBBY2X</MFOKORR>
+        <ACCKORR>BY84PJCB30125036401000000933</ACCKORR>
+        <NAMEKORR>ООО "БЕЛАВТОНОМИЯ"</NAMEKORR>
+        <UNPKORR>291079292</UNPKORR>
+        <SUMOPER nd="137000.00" nk="" ed="137000.00" ek=""> </SUMOPER>
+        <DETPAY>ЗА АВТОМОБИЛЬ HYUNDAI ПО ДОГОВОРУ 97-19 ОТ 04 ИЮНЯ 2019. СУММА - 137000, В Т.Ч. НДС (20%) </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>204</DOCN>
+        <MFOKORR>BPSBBY2X</MFOKORR>
+        <ACCKORR>BY88BPSB69118170000149330000</ACCKORR>
+        <NAMEKORR>ОАО "БПС-СБЕРБАНК"</NAMEKORR>
+        <UNPKORR>100219673</UNPKORR>
+        <SUMOPER nd="" nk="10120.00" ed="" ek="10120.00"> </SUMOPER>
+        <DETPAY>Перевод с продажей ПП 204  от 29.07.19 Представительство ООО "Sun Pharmaceutical Industries LTD." (Республика Индия) в Республике Беларусь. Курс  2.0240 за 1 ед. валюты. СВОБОДНАЯ ПРОДАЖА ИНОСТРАННОЙ ВАЛЮТЫ. </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>06</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>205</DOCN>
+        <MFOKORR>BPSBBY2X</MFOKORR>
+        <ACCKORR>BY88BPSB69118170000149330000</ACCKORR>
+        <NAMEKORR>ОАО "БПС-СБЕРБАНК"</NAMEKORR>
+        <UNPKORR>100219673</UNPKORR>
+        <SUMOPER nd="" nk="142100.00" ed="" ek="142100.00"> </SUMOPER>
+        <DETPAY>Перевод с продажей ПП 205  от 29.07.19 Представительство ООО "Sun Pharmaceutical Industries LTD." (Республика Индия) в Республике Беларусь. Курс  2.0300 за 1 ед. валюты. СВОБОДНАЯ ПРОДАЖА ИНОСТРАННОЙ ВАЛЮТЫ. </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>06</VO>
+        <UNP3></UNP3>
+      </OPER>
+    </OPERINFO>
+  </ACCOUNTINFO>
+</TURN><?xml version="1.0" encoding="cp866"?>
+<TURN>
+  <ACCOUNTINFO>
+    <ACCOUNT>BY86BPSB30211816590139330000</ACCOUNT>
+    <CURRENCY Iso="BYN" Code="933" Rate="1"> </CURRENCY>
+    <NAME>ПРЕДСТАВИТЕЛЬСТВО ООО "SUN PHARMACEUTICAL INDUSTRIES LTD." (РЕСПУБЛИКА ИНДИЯ) В РЕСПУБЛИКЕ БЕЛАРУСЬ</NAME>
+    <TYPETURN>ОКОНЧАТЕЛЬНАЯ</TYPETURN>
+    <PERIOD>за 30.07.2019</PERIOD>
+    <INREST nominal="5191.95" equivalent="5191.95"> </INREST>
+    <OUTREST nominal="2701.15" equivalent="2701.15"> </OUTREST>
+    <TURNDEB nominal="69401.60" equivalent="69401.60"> </TURNDEB>
+    <TURNKRE nominal="66910.80" equivalent="66910.80"> </TURNKRE>
+    <CARDRESTS card1="" card2=""> </CARDRESTS>
+    <LASTOPER>29.07.2019</LASTOPER>
+    <TIMETURN date="30.07.2019" time="23:10:47"> </TIMETURN>
+    <TIMEMAKE date="01.12.2020" time="15:08:35"> </TIMEMAKE>
+    <OPERINFO>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>9237</DOCN>
+        <MFOKORR>BPSBBY2X</MFOKORR>
+        <ACCKORR>BY63BPSB81010000053159330000</ACCKORR>
+        <NAMEKORR>ОАО "БПС-СБЕРБАНК"</NAMEKORR>
+        <UNPKORR>100219673</UNPKORR>
+        <SUMOPER nd="201.60" nk="" ed="201.60" ek=""> </SUMOPER>
+        <DETPAY>Вознагр. за зачисление денежных средств на счета физ.лиц, по п/п №112 от 30.07.2019 согл. Договору 348-2017 от 07.07.2017г. Без НДС согласно п. 1.37.2. ст.118 Особенной части Налогового Кодекса </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>06</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>518</DOCN>
+        <MFOKORR>OLMPBY2X</MFOKORR>
+        <ACCKORR>BY34OLMP31190000001710000933</ACCKORR>
+        <NAMEKORR>НПО "БЕРЛИО"</NAMEKORR>
+        <UNPKORR>100429079</UNPKORR>
+        <SUMOPER nd="2000.00" nk="" ed="2000.00" ek=""> </SUMOPER>
+        <DETPAY>ОПЛАТА ПОКУПКИ ЭЛЕКТРОННЫХ ДЕНЕГ "БЕРЛИО" СОГЛ ДОГ 24052 ОТ 05/03/2008 БЕЗ НДС </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>112</DOCN>
+        <MFOKORR>BPSBBY2X</MFOKORR>
+        <ACCKORR>BY13BPSB38198000000709330000</ACCKORR>
+        <NAMEKORR>ОАО БПС-СБЕРБАНК</NAMEKORR>
+        <UNPKORR>100219673</UNPKORR>
+        <SUMOPER nd="67200.00" nk="" ed="67200.00" ek=""> </SUMOPER>
+        <DETPAY>ЗАРАБОТНАЯ ПЛАТА ЗА ИЮЛЬ. ДОГОВОР N 348-2017 ОТ 07.07.2017.  СПИСОК НА ВЫПЛАТУ N 112 ОТ 30.07.2019. </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>206</DOCN>
+        <MFOKORR>BPSBBY2X</MFOKORR>
+        <ACCKORR>BY88BPSB69118170000149330000</ACCKORR>
+        <NAMEKORR>ОАО "БПС-СБЕРБАНК"</NAMEKORR>
+        <UNPKORR>100219673</UNPKORR>
+        <SUMOPER nd="" nk="66910.80" ed="" ek="66910.80"> </SUMOPER>
+        <DETPAY>Перевод с продажей ПП 206  от 30.07.19 Представительство ООО "Sun Pharmaceutical Industries LTD." (Республика Индия) в Республике Беларусь. Курс  2.0276 за 1 ед. валюты. СВОБОДНАЯ ПРОДАЖА ИНОСТРАННОЙ ВАЛЮТЫ. </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>06</VO>
+        <UNP3></UNP3>
+      </OPER>
+    </OPERINFO>
+  </ACCOUNTINFO>
+</TURN><?xml version="1.0" encoding="cp866"?>
+<TURN>
+  <ACCOUNTINFO>
+    <ACCOUNT>BY86BPSB30211816590139330000</ACCOUNT>
+    <CURRENCY Iso="BYN" Code="933" Rate="1"> </CURRENCY>
+    <NAME>ПРЕДСТАВИТЕЛЬСТВО ООО "SUN PHARMACEUTICAL INDUSTRIES LTD." (РЕСПУБЛИКА ИНДИЯ) В РЕСПУБЛИКЕ БЕЛАРУСЬ</NAME>
+    <TYPETURN>ОКОНЧАТЕЛЬНАЯ</TYPETURN>
+    <PERIOD>за 31.07.2019</PERIOD>
+    <INREST nominal="2701.15" equivalent="2701.15"> </INREST>
+    <OUTREST nominal="3060.83" equivalent="3060.83"> </OUTREST>
+    <TURNDEB nominal="25976.49" equivalent="25976.49"> </TURNDEB>
+    <TURNKRE nominal="26336.17" equivalent="26336.17"> </TURNKRE>
+    <CARDRESTS card1="" card2=""> </CARDRESTS>
+    <LASTOPER>30.07.2019</LASTOPER>
+    <TIMETURN date="31.07.2019" time="23:29:42"> </TIMETURN>
+    <TIMEMAKE date="01.12.2020" time="15:08:35"> </TIMEMAKE>
+    <OPERINFO>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>101066</DOCN>
+        <MFOKORR>BPSBBY2X</MFOKORR>
+        <ACCKORR>BY63BPSB81010000053159330000</ACCKORR>
+        <NAMEKORR>ОАО "БПС-СБЕРБАНК"</NAMEKORR>
+        <UNPKORR>100219673</UNPKORR>
+        <SUMOPER nd="6.75" nk="" ed="6.75" ek=""> </SUMOPER>
+        <DETPAY>Вознагр. за зачисление денежных средств на счета физ.лиц, по п/п №114 от 31.07.2019 согл. Договору 348-2017 от 07.07.2017г. Без НДС согласно п. 1.37.2. ст.118 Особенной части Налогового Кодекса </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>06</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>113265</DOCN>
+        <MFOKORR>BPSBBY2X</MFOKORR>
+        <ACCKORR>BY34BPSB81018040001839330000</ACCKORR>
+        <NAMEKORR>ОАО "БПС-СБЕРБАНК"</NAMEKORR>
+        <UNPKORR>100219673</UNPKORR>
+        <SUMOPER nd="7.50" nk="" ed="7.50" ek=""> </SUMOPER>
+        <DETPAY>Дополнительное вознаграждение за перевод средств в бел.руб. по платежным инструкциям, поступившим в Банк после времени, установленного договором: БПСБ Исп плат инстр кл в BYN в системе BISS (принятых после 15-30) в кол-ве 1 док. (по 7.50 бел.руб. за док.) за 31.07.2019 со счета BY86BPSB30211816590139330000, согласно договору № 777/181659/Т/933/01 от 30.06.2017г. Без НДС согласно п. 1.37.2. ст.118 Особенной части Налогового Кодекса". </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>06</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>77234</DOCN>
+        <MFOKORR>BPSBBY2X</MFOKORR>
+        <ACCKORR>BY63BPSB81010000053159330000</ACCKORR>
+        <NAMEKORR>ОАО "БПС-СБЕРБАНК"</NAMEKORR>
+        <UNPKORR>100219673</UNPKORR>
+        <SUMOPER nd="47.54" nk="" ed="47.54" ek=""> </SUMOPER>
+        <DETPAY>Вознагр. за зачисление денежных средств на счета физ.лиц, по п/п №113 от 31.07.2019 согл. Договору 348-2017 от 07.07.2017г. Без НДС согласно п. 1.37.2. ст.118 Особенной части Налогового Кодекса </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>06</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>520</DOCN>
+        <MFOKORR>MTBKBY22</MFOKORR>
+        <ACCKORR>BY66MTBK30120001093300062321</ACCKORR>
+        <NAMEKORR>ЗАО "СИТБЕЛ"</NAMEKORR>
+        <UNPKORR>100608743</UNPKORR>
+        <SUMOPER nd="1772.42" nk="" ed="1772.42" ek=""> </SUMOPER>
+        <DETPAY>ПЛАТА ЗА ТО АВТОМОБИЛЕЙ СОГЛ СЧ-ПР 25915 ОТ 30.07.19, 25930 ОТ 31.07.19, В Т. Ч. НДС (20%). </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>114</DOCN>
+        <MFOKORR>BPSBBY2X</MFOKORR>
+        <ACCKORR>BY13BPSB38198000000709330000</ACCKORR>
+        <NAMEKORR>ОАО БПС-СБЕРБАНК</NAMEKORR>
+        <UNPKORR>100219673</UNPKORR>
+        <SUMOPER nd="2248.88" nk="" ed="2248.88" ek=""> </SUMOPER>
+        <DETPAY>ЗАРАБОТНАЯ ПЛАТА ЗА ИЮЛЬ. ДОГОВОР N 348-2017 ОТ 07.07.2017.  СПИСОК НА ВЫПЛАТУ N 114 ОТ 31.07.2019. </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>519</DOCN>
+        <MFOKORR>MMBNBY22</MFOKORR>
+        <ACCKORR>BY65MMBN30120044700109330000</ACCKORR>
+        <NAMEKORR>ЗАО "УНИФАРМ"</NAMEKORR>
+        <UNPKORR>101280900</UNPKORR>
+        <SUMOPER nd="2408.40" nk="" ed="2408.40" ek=""> </SUMOPER>
+        <DETPAY>ПЛАТА ЗА ПРЕДОСТАВЛЕНИЕ ИНФОРМАЦИОННЫХ УСЛУГ ЗА ИЮЛЬ-АВГУСТ 19 СОГЛ СЧ 1 ОТ 19.07.19. СУММА НДС 401,40=. </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>521</DOCN>
+        <MFOKORR>BPSBBY2X</MFOKORR>
+        <ACCKORR>BY33BPSB30133012630119330000</ACCKORR>
+        <NAMEKORR>ИП ЛУКАШЕВИЧ СЕРГЕЙ ВАЛЕРЬЕВИЧ</NAMEKORR>
+        <UNPKORR>691834277</UNPKORR>
+        <SUMOPER nd="3640.00" nk="" ed="3640.00" ek=""> </SUMOPER>
+        <DETPAY>ЗА ТРАНСПОРТНЫЕ УСЛУГИ. СУММА СОГЛ. АКТА 30 ОТ 30.06.2019 </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>113</DOCN>
+        <MFOKORR>BPSBBY2X</MFOKORR>
+        <ACCKORR>BY13BPSB38198000000709330000</ACCKORR>
+        <NAMEKORR>ОАО БПС-СБЕРБАНК</NAMEKORR>
+        <UNPKORR>100219673</UNPKORR>
+        <SUMOPER nd="15845.00" nk="" ed="15845.00" ek=""> </SUMOPER>
+        <DETPAY>ЗАРАБОТНАЯ ПЛАТА ЗА ИЮЛЬ. ДОГОВОР N 348-2017 ОТ 07.07.2017.  СПИСОК НА ВЫПЛАТУ N 113 ОТ 31.07.2019. </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>01</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>8840</DOCN>
+        <MFOKORR>BPSBBY2X</MFOKORR>
+        <ACCKORR>BY08BPSB90318090000009330000</ACCKORR>
+        <NAMEKORR>ОАО "БПС-СБЕРБАНК"</NAMEKORR>
+        <UNPKORR>100219673</UNPKORR>
+        <SUMOPER nd="" nk="0.07" ed="" ek="0.07"> </SUMOPER>
+        <DETPAY>Выплата процентов по счетам клиентов за период с 28/06/2019 по 30/07/2019 по договору от 30.06.2017 № 777/181659/Т/933/01. Налог на доходы 10% в сумме 0.01 бел. руб. </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>06</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>210</DOCN>
+        <MFOKORR>BPSBBY2X</MFOKORR>
+        <ACCKORR>BY88BPSB69118170000149330000</ACCKORR>
+        <NAMEKORR>ОАО "БПС-СБЕРБАНК"</NAMEKORR>
+        <UNPKORR>100219673</UNPKORR>
+        <SUMOPER nd="" nk="6065.10" ed="" ek="6065.10"> </SUMOPER>
+        <DETPAY>Перевод с продажей ПП 210  от 31.07.19 Представительство ООО "Sun Pharmaceutical Industries LTD." (Республика Индия) в Республике Беларусь. Курс  2.0217 за 1 ед. валюты. СВОБОДНАЯ ПРОДАЖА ИНОСТРАННОЙ ВАЛЮТЫ. </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>06</VO>
+        <UNP3></UNP3>
+      </OPER>
+      <OPER>
+        <OPERUID></OPERUID>
+        <DOCN>209</DOCN>
+        <MFOKORR>BPSBBY2X</MFOKORR>
+        <ACCKORR>BY88BPSB69118170000149330000</ACCKORR>
+        <NAMEKORR>ОАО "БПС-СБЕРБАНК"</NAMEKORR>
+        <UNPKORR>100219673</UNPKORR>
+        <SUMOPER nd="" nk="20271.00" ed="" ek="20271.00"> </SUMOPER>
+        <DETPAY>Перевод с продажей ПП 209  от 31.07.19 Представительство ООО "Sun Pharmaceutical Industries LTD." (Республика Индия) в Республике Беларусь. Курс  2.0271 за 1 ед. валюты. СВОБОДНАЯ ПРОДАЖА ИНОСТРАННОЙ ВАЛЮТЫ. </DETPAY>
+        <RATEINFO Code="933" Rate=""> </RATEINFO>
+        <TAX></TAX>
+        <VO>06</VO>
+        <UNP3></UNP3>
+      </OPER>
+    </OPERINFO>
+  </ACCOUNTINFO>
+</TURN>

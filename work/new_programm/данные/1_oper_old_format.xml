@@ -1,0 +1,109 @@
+    <ACCOUNTINFO>
+        <ACCOUNT>BY86BPSB30211816590139330000</ACCOUNT>
+        <CURRENCY Iso="BYN" Code="933" Rate="1"/>
+        <NAME>Текущий (расчетный) типа Т в бел.руб. (нерез)</NAME>
+        <TYPETURN>ОКОНЧАТЕЛЬНАЯ</TYPETURN>
+        <PERIOD>за 03.06.2019</PERIOD>
+        <INREST nominal="7686.9" equivalent="7686.9"/>
+        <OUTREST nominal="9933.1" equivalent="9933.1"/>
+        <TURNDEB nominal="8199.8" equivalent="8199.8"/>
+        <TURNKRE nominal="10446" equivalent="10446"/>
+        <CARDRESTS card1="" card2=""/>
+        <LASTOPER>31.05.2019</LASTOPER>
+        <TIMETURN date="08.08.2019" time="07:48:52"/>
+        <TIMEMAKE date="11.03.2021" time="14:18:28"/>
+        <OPERINFO>
+            <OPER>
+                <OPERUID></OPERUID>
+                <DOCN>54932</DOCN>
+                <MFOKORR>BPSBBY2X</MFOKORR>
+                <ACCKORR>BY19BPSB64331816590159330000</ACCKORR>
+                <NAMEKORR>ОАО "БПС-СБЕРБАНК"</NAMEKORR>
+                <UNPKORR>100219673</UNPKORR>
+                <SUMOPER nd="198" nk="" ed="198" ek=""/>
+                <DETPAY>Оплата услуг по тарифному плану "Профи" за период с 01/07/2019 по 31/07/2019 со счета BY86BPSB30211816590139330000, согласно договору 777/181659/Т/933/01 от 30.06.2017. Без НДС согласно п. 1.37.2. ст.94 Особенной части Налогового Кодекса".</DETPAY>
+                <RATEINFO Code="933" Rate=""/>
+                <TAX></TAX>
+                <VO>06</VO>
+                <UNP3></UNP3>
+            </OPER>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Другие операции, позже
+            <OPER>
+                <OPERUID></OPERUID>
+                <DOCN>377</DOCN>
+                <MFOKORR>OLMPBY2X</MFOKORR>
+                <ACCKORR>BY34OLMP31190000001710000933</ACCKORR>
+                <NAMEKORR>НПО "БЕРЛИО"</NAMEKORR>
+                <UNPKORR>100429079</UNPKORR>
+                <SUMOPER nd="2500" nk="" ed="2500" ek=""/>
+                <DETPAY>ОПЛАТА ПОКУПКИ ЭЛЕКТРОННЫХ ДЕНЕГ "БЕРЛИО" СОГЛ ДОГ 24052 ОТ 05/03/2008 БЕЗ НДС</DETPAY>
+                <RATEINFO Code="933" Rate=""/>
+                <TAX></TAX>
+                <VO>01</VO>
+                <UNP3></UNP3>
+            </OPER>
+
+
+
+            <OPER>
+                <OPERUID></OPERUID>
+                <DOCN>378</DOCN>
+                <MFOKORR>MTBKBY22</MFOKORR>
+                <ACCKORR>BY25MTBK30120001093300081683</ACCKORR>
+                <NAMEKORR>ООО "ИНВЕСТИЦИОННАЯ КОМПАНИЯ "СОКОЛ", РБ</NAMEKORR>
+                <UNPKORR>191613723</UNPKORR>
+                <SUMOPER nd="5501.8" nk="" ed="5501.8" ek=""/>
+                <DETPAY>ПЛАТА ЗА ОРГАНИЗАЦИЮ ПИТАНИЯ. СУММА СОГЛ СЧ-ПР Y-002096 ОТ 03.06.2019. СУММА НДС 916,97=.</DETPAY>
+                <RATEINFO Code="933" Rate=""/>
+                <TAX></TAX>
+                <VO>01</VO>
+                <UNP3></UNP3>
+            </OPER>
+            <OPER>
+                <OPERUID></OPERUID>
+                <DOCN>145</DOCN>
+                <MFOKORR>BPSBBY2X</MFOKORR>
+                <ACCKORR>BY88BPSB69118170000149330000</ACCKORR>
+                <NAMEKORR>ОАО "БПС-СБЕРБАНК"</NAMEKORR>
+                <UNPKORR>100219673</UNPKORR>
+                <SUMOPER nd="" nk="10446" ed="" ek="10446"/>
+                <DETPAY>Перевод с продажей ПП 145  от 03.06.19 Представительство ООО "Sun Pharmaceutical Industries LTD." (Республика Индия) в Республике Беларусь. Курс  2.0892 за 1 ед. валюты. СВОБОДНАЯ ПРОДАЖА ИНОСТРАННОЙ ВАЛЮТЫ.</DETPAY>
+                <RATEINFO Code="933" Rate=""/>
+                <TAX></TAX>
+                <VO>06</VO>
+                <UNP3></UNP3>
+            </OPER>
+        </OPERINFO>
+    </ACCOUNTINFO>

@@ -1,0 +1,2874 @@
+<?xml version = "1.0" encoding="CP866"?>
+<?xml-stylesheet type="text/xsl"?>
+<Statements>
+<Date>02.12.2019</Date>
+<Time>23:26:24</Time>
+<Type>ВЫПИСКА</Type>
+<Account>BY86BPSB30211816590139330000</Account>
+<UNN>102332897</UNN>
+<Statement>
+<Account>BY86BPSB30211816590139330000</Account>
+<Name></Name>
+<BIC>BPSBBY2X</BIC>
+<CurrCode>933</CurrCode>
+<CurrCodeISO>BYN</CurrCodeISO>
+<OpeningBalance>13803,64</OpeningBalance>
+<OpeningBalanceNat>13803,64</OpeningBalanceNat>
+<KursRazn>0.00</KursRazn>
+<DatePrevious>29.11.2019</DatePrevious>
+<ClosingBalance>6597,53</ClosingBalance>
+<ClosingBalanceNat>6597,53</ClosingBalanceNat>
+<DateClosing>02.12.2019</DateClosing>
+<DebetDocuments>
+<DocumentsNet>3</DocumentsNet>
+<Turnover>7206,11</Turnover>
+<DebetTurnoverNat>7206,11</DebetTurnoverNat>
+<Document>
+<DocumentNumber>54008</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>02.12.2019 00:00:00</Time>
+<OperType>06</OperType>
+<Amount>198.00</Amount>
+<AmountCurr>198.00</AmountCurr>
+<Beneficiar>
+<Account>BY19BPSB64331816590159330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО "БПС-СБЕРБАНК"</Name>
+<Ground>Оплата услуг по тарифному плану "Профи" за период с 01/01/2020 по 31/01/2020 со счета BY86BPSB30211816590139330000, согласно договору 777/181659/Т/933/01 от 30.06.2017. Без НДС согласно п. 1.37.2. ст.118 Особенной части Налогового Кодекса". </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>874</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>02.12.2019 13:05:19</Time>
+<OperType>01</OperType>
+<Amount>1 500.00</Amount>
+<AmountCurr>1 500.00</AmountCurr>
+<Beneficiar>
+<Account>BY34OLMP31190000001710000933</Account>
+<BIC>OLMPBY2X</BIC>
+<UNN>100429079</UNN>
+<NameBIC>ОАО 'БЕЛГАЗПРОМБАНК'</NameBIC>
+<Name>НПО "БЕРЛИО"</Name>
+<Ground>ОПЛАТА ПОКУПКИ ЭЛЕКТРОННЫХ ДЕНЕГ "БЕРЛИО" СОГЛ ДОГ 24052 ОТ 05/03/2008 БЕЗ НДС </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>873</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>02.12.2019 13:01:21</Time>
+<OperType>01</OperType>
+<Amount>5 508.11</Amount>
+<AmountCurr>5 508.11</AmountCurr>
+<Beneficiar>
+<Account>BY68BLBB30120100302749001001</Account>
+<BIC>BLBBBY2X</BIC>
+<UNN>100302749</UNN>
+<NameBIC>ОАО 'БЕЛИНВЕСТБАНК'</NameBIC>
+<Name>КПУП "МИНСКРЕКЛАМА"</Name>
+<Ground>ОПЛАТА РЕКЛАМНЫХ УСЛУГ СОГЛ ДОГ 163/19 ОТ 22.11.2019. СУММА-5508,11=, В Т.Ч. НДС (20%)-918,02=. </Ground>
+</Beneficiar>
+</Document>
+</DebetDocuments> 
+<CreditDocuments>
+<DocumentsNet>0</DocumentsNet>
+<Turnover>0,00</Turnover>
+<CreditTurnoverNat>0,00</CreditTurnoverNat>
+</CreditDocuments>
+
+</Statement>
+</Statements>
+<?xml version = "1.0" encoding="CP866"?>
+<?xml-stylesheet type="text/xsl"?>
+<Statements>
+<Date>03.12.2019</Date>
+<Time>23:29:56</Time>
+<Type>ВЫПИСКА</Type>
+<Account>BY86BPSB30211816590139330000</Account>
+<UNN>102332897</UNN>
+<Statement>
+<Account>BY86BPSB30211816590139330000</Account>
+<Name></Name>
+<BIC>BPSBBY2X</BIC>
+<CurrCode>933</CurrCode>
+<CurrCodeISO>BYN</CurrCodeISO>
+<OpeningBalance>6597,53</OpeningBalance>
+<OpeningBalanceNat>6597,53</OpeningBalanceNat>
+<KursRazn>0.00</KursRazn>
+<DatePrevious>02.12.2019</DatePrevious>
+<ClosingBalance>4848,75</ClosingBalance>
+<ClosingBalanceNat>4848,75</ClosingBalanceNat>
+<DateClosing>03.12.2019</DateClosing>
+<DebetDocuments>
+<DocumentsNet>3</DocumentsNet>
+<Turnover>1748,78</Turnover>
+<DebetTurnoverNat>1748,78</DebetTurnoverNat>
+<Document>
+<DocumentNumber>18521</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>03.12.2019 22:10:16</Time>
+<OperType>06</OperType>
+<Amount>7.50</Amount>
+<AmountCurr>7.50</AmountCurr>
+<Beneficiar>
+<Account>BY34BPSB81018040001839330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО "БПС-СБЕРБАНК"</Name>
+<Ground>Дополнительное вознаграждение за перевод средств в бел.руб. по платежным инструкциям, поступившим в Банк после времени, установленного договором: БПСБ Исп плат инстр кл в BYN в системе BISS (принятых после 15-30) в кол-ве 1 док. (по 7.50 бел.руб. за док.) за 03.12.2019 со счета BY86BPSB30211816590139330000, согласно договору № 777/181659/Т/933/01 от 30.06.2017г. Без НДС согласно п. 1.37.2. ст.118 Особенной части Налогового Кодекса". </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>875</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>03.12.2019 12:08:32</Time>
+<OperType>01</OperType>
+<Amount>108.88</Amount>
+<AmountCurr>108.88</AmountCurr>
+<Beneficiar>
+<Account>BY11BPSB30121027760149330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100055197</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>РУП "БЕЛОРУССКИЙ ГОСУДАРСТВЕННЫЙ ИНСТИТУТ МЕТРОЛОГИИ"</Name>
+<Ground>ПЛАТА ЗА ИСПЫТАНИЯ ПРОДУКЦИИ ПО ЗАЯВКАМ. СУММА СОГЛ СЧЕТУ 6277980-1 К ДОГОВОРУ 62-19/НХ1325 ОТ 15.11.2019. СУММА-108,88=, В Т.Ч. НДС-18,15=. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>876</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>03.12.2019 15:56:52</Time>
+<OperType>01</OperType>
+<Amount>1 632.40</Amount>
+<AmountCurr>1 632.40</AmountCurr>
+<Beneficiar>
+<Account>BY16PJCB30126013421000000933</Account>
+<BIC>PJCBBY2X</BIC>
+<UNN>590663999</UNN>
+<NameBIC>'ПРИОРБАНК' ОАО</NameBIC>
+<Name>ООО "АГЕНСТВО МЕДИЦИНСКОГО МАРКЕТИНГА"</Name>
+<Ground>ПЛАТА ЗА УСЛУГИ ПО ОРГАНИЗАЦИИ МЕРОПРИЯТИЯ СОГЛ СЧ 1 ОТ 02/12/19 К ДОП.СОГЛ. 1 ОТ 02.12.2019. СУММА 1632,4=. БЕЗ НДС </Ground>
+</Beneficiar>
+</Document>
+</DebetDocuments> 
+<CreditDocuments>
+<DocumentsNet>0</DocumentsNet>
+<Turnover>0,00</Turnover>
+<CreditTurnoverNat>0,00</CreditTurnoverNat>
+</CreditDocuments>
+
+</Statement>
+</Statements>
+<?xml version = "1.0" encoding="CP866"?>
+<?xml-stylesheet type="text/xsl"?>
+<Statements>
+<Date>04.12.2019</Date>
+<Time>23:33:01</Time>
+<Type>ВЫПИСКА</Type>
+<Account>BY86BPSB30211816590139330000</Account>
+<UNN>102332897</UNN>
+<Statement>
+<Account>BY86BPSB30211816590139330000</Account>
+<Name></Name>
+<BIC>BPSBBY2X</BIC>
+<CurrCode>933</CurrCode>
+<CurrCodeISO>BYN</CurrCodeISO>
+<OpeningBalance>4848,75</OpeningBalance>
+<OpeningBalanceNat>4848,75</OpeningBalanceNat>
+<KursRazn>0.00</KursRazn>
+<DatePrevious>03.12.2019</DatePrevious>
+<ClosingBalance>3436,58</ClosingBalance>
+<ClosingBalanceNat>3436,58</ClosingBalanceNat>
+<DateClosing>04.12.2019</DateClosing>
+<DebetDocuments>
+<DocumentsNet>3</DocumentsNet>
+<Turnover>11971,17</Turnover>
+<DebetTurnoverNat>11971,17</DebetTurnoverNat>
+<Document>
+<DocumentNumber>7206</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>04.12.2019 12:15:40</Time>
+<OperType>06</OperType>
+<Amount>31.17</Amount>
+<AmountCurr>31.17</AmountCurr>
+<Beneficiar>
+<Account>BY63BPSB81010000053159330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО "БПС-СБЕРБАНК"</Name>
+<Ground>Вознагр. за зачисление денежных средств на счета физ.лиц, по п/п №178 от 04.12.2019 согл. Договору 348-2017 от 07.07.2017г. Без НДС согласно п. 1.37.2. ст.118 Особенной части Налогового Кодекса </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>877</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>04.12.2019 12:16:00</Time>
+<OperType>01</OperType>
+<Amount>1 550.00</Amount>
+<AmountCurr>1 550.00</AmountCurr>
+<Beneficiar>
+<Account>BY43AKBB36021010005210000000</Account>
+<BIC>AKBBBY2X</BIC>
+<UNN>101530339</UNN>
+<NameBIC>ОАО 'АСБ БЕЛАРУСБАНК'</NameBIC>
+<Name>ГЛАВНОЕ УПРАВЛЕНИЕ МИНИСТЕРСТВА ФИНАНСОВ РБ ПО Г.МИНСКУ</Name>
+<Ground>УПЛАТА ПОДОХОДНОГО НАЛОГА ИЗ З/П ЗА НОЯБРЬ 2019 Г. НАЛОГ УДЕРЖАН ИЗ З/П И ПЕРЕЧИСЛЕН В БЮДЖЕТ. СРОК ПЛАТЕЖА 04/12/2019. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>178</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>04.12.2019 12:15:40</Time>
+<OperType>01</OperType>
+<Amount>10 390.00</Amount>
+<AmountCurr>10 390.00</AmountCurr>
+<Beneficiar>
+<Account>BY13BPSB38198000000709330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО БПС-СБЕРБАНК</Name>
+<Ground>ЗАРАБОТНАЯ ПЛАТА ЗА НОЯБРЬ. ДОГОВОР N 348-2017 ОТ 07.07.2017.  СПИСОК НА ВЫПЛАТУ N 178 ОТ 04.12.2019. </Ground>
+</Beneficiar>
+</Document>
+</DebetDocuments> 
+<CreditDocuments>
+<DocumentsNet>1</DocumentsNet>
+<Turnover>10559,00</Turnover>
+<CreditTurnoverNat>10559,00</CreditTurnoverNat>
+<Document>
+<DocumentNumber>338</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>04.12.2019 12:12:21</Time>
+<OperType>06</OperType>
+<Amount>10 559.00</Amount>
+<AmountCurr>10 559.00</AmountCurr>
+<Payer>
+<Account>BY88BPSB69118170000149330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО "БПС-СБЕРБАНК"</Name>
+<Ground>Перевод с продажей ПП 338  от 04.12.19 Представительство ООО "Sun Pharmaceutical Industries LTD." (Республика Индия) в Республике Беларусь. Курс  2.1118 за 1 ед. валюты. СВОБОДНАЯ ПРОДАЖА ИНОСТРАННОЙ ВАЛЮТЫ. </Ground>
+</Payer>
+</Document>
+</CreditDocuments>
+
+</Statement>
+</Statements>
+<?xml version = "1.0" encoding="CP866"?>
+<?xml-stylesheet type="text/xsl"?>
+<Statements>
+<Date>05.12.2019</Date>
+<Time>23:26:45</Time>
+<Type>ВЫПИСКА</Type>
+<Account>BY86BPSB30211816590139330000</Account>
+<UNN>102332897</UNN>
+<Statement>
+<Account>BY86BPSB30211816590139330000</Account>
+<Name></Name>
+<BIC>BPSBBY2X</BIC>
+<CurrCode>933</CurrCode>
+<CurrCodeISO>BYN</CurrCodeISO>
+<OpeningBalance>3436,58</OpeningBalance>
+<OpeningBalanceNat>3436,58</OpeningBalanceNat>
+<KursRazn>0.00</KursRazn>
+<DatePrevious>04.12.2019</DatePrevious>
+<ClosingBalance>10205,81</ClosingBalance>
+<ClosingBalanceNat>10205,81</ClosingBalanceNat>
+<DateClosing>05.12.2019</DateClosing>
+<DebetDocuments>
+<DocumentsNet>3</DocumentsNet>
+<Turnover>5897,37</Turnover>
+<DebetTurnoverNat>5897,37</DebetTurnoverNat>
+<Document>
+<DocumentNumber>880</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>05.12.2019 11:56:18</Time>
+<OperType>01</OperType>
+<Amount>117.32</Amount>
+<AmountCurr>117.32</AmountCurr>
+<Beneficiar>
+<Account>BY87BPSB30133011650189330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100375618</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ИП ГУЛЯКЕВИЧ ОКСАНА АНАТОЛЬЕВНА</Name>
+<Ground>ПРЕДОПЛАТА ЗА АРЕНДУ ПОМЕЩЕНИЯ ЗА ДЕКАБРЬ СОГЛ ДОГ БН ОТ 28.12.2015. СУММА 117,32 БЕЗ НДС </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>878</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>05.12.2019 10:42:10</Time>
+<OperType>01</OperType>
+<Amount>2 000.00</Amount>
+<AmountCurr>2 000.00</AmountCurr>
+<Beneficiar>
+<Account>BY34OLMP31190000001710000933</Account>
+<BIC>OLMPBY2X</BIC>
+<UNN>100429079</UNN>
+<NameBIC>ОАО 'БЕЛГАЗПРОМБАНК'</NameBIC>
+<Name>НПО "БЕРЛИО"</Name>
+<Ground>ОПЛАТА ПОКУПКИ ЭЛЕКТРОННЫХ ДЕНЕГ "БЕРЛИО" СОГЛ ДОГ 24052 ОТ 05/03/2008 БЕЗ НДС </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>879</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>05.12.2019 11:54:51</Time>
+<OperType>01</OperType>
+<Amount>3 780.05</Amount>
+<AmountCurr>3 780.05</AmountCurr>
+<Beneficiar>
+<Account>BY89BLBB30120100138514001001</Account>
+<BIC>BLBBBY2X</BIC>
+<UNN>100138514</UNN>
+<NameBIC>ОАО 'БЕЛИНВЕСТБАНК'</NameBIC>
+<Name>УП "СТРОЙНАУКА"</Name>
+<Ground>ПРЕДОПЛАТА АРЕНДЫ ОФИСА ЗА ДЕКАБРЬ 2019 Г. СУММА СОГЛ ДОГ 15-АР/16 ОТ 31.12.2015 </Ground>
+</Beneficiar>
+</Document>
+</DebetDocuments> 
+<CreditDocuments>
+<DocumentsNet>1</DocumentsNet>
+<Turnover>12666,60</Turnover>
+<CreditTurnoverNat>12666,60</CreditTurnoverNat>
+<Document>
+<DocumentNumber>339</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>05.12.2019 11:15:39</Time>
+<OperType>06</OperType>
+<Amount>12 666.60</Amount>
+<AmountCurr>12 666.60</AmountCurr>
+<Payer>
+<Account>BY88BPSB69118170000149330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО "БПС-СБЕРБАНК"</Name>
+<Ground>Перевод с продажей ПП 339  от 05.12.19 Представительство ООО "Sun Pharmaceutical Industries LTD." (Республика Индия) в Республике Беларусь. Курс  2.1111 за 1 ед. валюты. СВОБОДНАЯ ПРОДАЖА ИНОСТРАННОЙ ВАЛЮТЫ. </Ground>
+</Payer>
+</Document>
+</CreditDocuments>
+
+</Statement>
+</Statements>
+<?xml version = "1.0" encoding="CP866"?>
+<?xml-stylesheet type="text/xsl"?>
+<Statements>
+<Date>06.12.2019</Date>
+<Time>23:29:32</Time>
+<Type>ВЫПИСКА</Type>
+<Account>BY86BPSB30211816590139330000</Account>
+<UNN>102332897</UNN>
+<Statement>
+<Account>BY86BPSB30211816590139330000</Account>
+<Name></Name>
+<BIC>BPSBBY2X</BIC>
+<CurrCode>933</CurrCode>
+<CurrCodeISO>BYN</CurrCodeISO>
+<OpeningBalance>10205,81</OpeningBalance>
+<OpeningBalanceNat>10205,81</OpeningBalanceNat>
+<KursRazn>0.00</KursRazn>
+<DatePrevious>05.12.2019</DatePrevious>
+<ClosingBalance>9749,41</ClosingBalance>
+<ClosingBalanceNat>9749,41</ClosingBalanceNat>
+<DateClosing>06.12.2019</DateClosing>
+<DebetDocuments>
+<DocumentsNet>4</DocumentsNet>
+<Turnover>11002,40</Turnover>
+<DebetTurnoverNat>11002,40</DebetTurnoverNat>
+<Document>
+<DocumentNumber>6638</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>06.12.2019 10:49:56</Time>
+<OperType>06</OperType>
+<Amount>21.72</Amount>
+<AmountCurr>21.72</AmountCurr>
+<Beneficiar>
+<Account>BY63BPSB81010000053159330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО "БПС-СБЕРБАНК"</Name>
+<Ground>Вознагр. за зачисление денежных средств на счета физ.лиц, по п/п №179 от 06.12.2019 согл. Договору 348-2017 от 07.07.2017г. Без НДС согласно п. 1.37.2. ст.118 Особенной части Налогового Кодекса </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>882</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>06.12.2019 15:19:13</Time>
+<OperType>01</OperType>
+<Amount>559.68</Amount>
+<AmountCurr>559.68</AmountCurr>
+<Beneficiar>
+<Account>BY41PJCB30120586001000000933</Account>
+<BIC>PJCBBY2X</BIC>
+<UNN>191925686</UNN>
+<NameBIC>'ПРИОРБАНК' ОАО</NameBIC>
+<Name>ООО "СПРИНТ-ГРАФИКС"</Name>
+<Ground>ОПЛАТА УСЛУГ СОГЛ ДОГ. 1347 ОТ 11.11.2019. БЕЗ НДС </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>881</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>06.12.2019 15:19:13</Time>
+<OperType>01</OperType>
+<Amount>3 180.00</Amount>
+<AmountCurr>3 180.00</AmountCurr>
+<Beneficiar>
+<Account>BY40PJCB30120317671000000933</Account>
+<BIC>PJCBBY2X</BIC>
+<UNN>192135107</UNN>
+<NameBIC>'ПРИОРБАНК' ОАО</NameBIC>
+<Name>ООО "РЕСТОРАН-ПИВОВАРНЯ ДРУЗЬЯ"</Name>
+<Ground>ПРЕДОПЛАТА ЗА УСЛУГИ ПО ОРГАНИЗАЦИИ ПИТАНИЯ СОГЛ СЧ-Ф 3675 ОТ 05.12.2019. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>179</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>06.12.2019 10:49:56</Time>
+<OperType>01</OperType>
+<Amount>7 241.00</Amount>
+<AmountCurr>7 241.00</AmountCurr>
+<Beneficiar>
+<Account>BY13BPSB38198000000709330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО БПС-СБЕРБАНК</Name>
+<Ground>ЗАРАБОТНАЯ ПЛАТА ЗА НОЯБРЬ. ДОГОВОР N 348-2017 ОТ 07.07.2017.  СПИСОК НА ВЫПЛАТУ N 179 ОТ 06.12.2019. </Ground>
+</Beneficiar>
+</Document>
+</DebetDocuments> 
+<CreditDocuments>
+<DocumentsNet>1</DocumentsNet>
+<Turnover>10546,00</Turnover>
+<CreditTurnoverNat>10546,00</CreditTurnoverNat>
+<Document>
+<DocumentNumber>340</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>06.12.2019 15:17:02</Time>
+<OperType>06</OperType>
+<Amount>10 546.00</Amount>
+<AmountCurr>10 546.00</AmountCurr>
+<Payer>
+<Account>BY88BPSB69118170000149330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО "БПС-СБЕРБАНК"</Name>
+<Ground>Перевод с продажей ПП 340  от 06.12.19 Представительство ООО "Sun Pharmaceutical Industries LTD." (Республика Индия) в Республике Беларусь. Курс  2.1092 за 1 ед. валюты. СВОБОДНАЯ ПРОДАЖА ИНОСТРАННОЙ ВАЛЮТЫ. </Ground>
+</Payer>
+</Document>
+</CreditDocuments>
+
+</Statement>
+</Statements>
+<?xml version = "1.0" encoding="CP866"?>
+<?xml-stylesheet type="text/xsl"?>
+<Statements>
+<Date>09.12.2019</Date>
+<Time>23:37:22</Time>
+<Type>ВЫПИСКА</Type>
+<Account>BY86BPSB30211816590139330000</Account>
+<UNN>102332897</UNN>
+<Statement>
+<Account>BY86BPSB30211816590139330000</Account>
+<Name></Name>
+<BIC>BPSBBY2X</BIC>
+<CurrCode>933</CurrCode>
+<CurrCodeISO>BYN</CurrCodeISO>
+<OpeningBalance>9749,41</OpeningBalance>
+<OpeningBalanceNat>9749,41</OpeningBalanceNat>
+<KursRazn>0.00</KursRazn>
+<DatePrevious>06.12.2019</DatePrevious>
+<ClosingBalance>6268,59</ClosingBalance>
+<ClosingBalanceNat>6268,59</ClosingBalanceNat>
+<DateClosing>09.12.2019</DateClosing>
+<DebetDocuments>
+<DocumentsNet>7</DocumentsNet>
+<Turnover>3480,82</Turnover>
+<DebetTurnoverNat>3480,82</DebetTurnoverNat>
+<Document>
+<DocumentNumber>17752</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>09.12.2019 14:43:29</Time>
+<OperType>06</OperType>
+<Amount>2.64</Amount>
+<AmountCurr>2.64</AmountCurr>
+<Beneficiar>
+<Account>BY63BPSB81010000053159330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО "БПС-СБЕРБАНК"</Name>
+<Ground>Вознагр. за зачисление денежных средств на счета физ.лиц, по п/п №180 от 09.12.2019 согл. Договору 348-2017 от 07.07.2017г. Без НДС согласно п. 1.37.2. ст.118 Особенной части Налогового Кодекса </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>885</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>09.12.2019 11:49:41</Time>
+<OperType>01</OperType>
+<Amount>129.00</Amount>
+<AmountCurr>129.00</AmountCurr>
+<Beneficiar>
+<Account>BY39BLNB30120000102216000933</Account>
+<BIC>BLNBBY2X</BIC>
+<UNN>192761245</UNN>
+<NameBIC>ОАО 'БНБ-БАНК'</NameBIC>
+<Name>ООО "АРТБЕЛГРУПП"</Name>
+<Ground>ДОПЛАТА ЗА АВТОШИНЫ СОГЛ СЧ 266 ОТ 28.10.2019. СУММА С НДС 129,00=. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>886</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>09.12.2019 12:00:19</Time>
+<OperType>01</OperType>
+<Amount>256.18</Amount>
+<AmountCurr>256.18</AmountCurr>
+<Beneficiar>
+<Account>BY55BELB30120064290050226000</Account>
+<BIC>BELBBY2X</BIC>
+<UNN>100386830</UNN>
+<NameBIC>ОАО 'БАНК БЕЛВЭБ'</NameBIC>
+<Name>ООО "ГЕНЕКС"</Name>
+<Ground>ПЛАТА ЗА УСЛУГИ ПО ДЕКЛАРИРОВАНИЮ. СУММА СОГЛ. С/Ф 1862 ОТ 28.11.2019. СУММА НДС (20%) = 256,18. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>883</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>09.12.2019 10:36:57</Time>
+<OperType>01</OperType>
+<Amount>500.00</Amount>
+<AmountCurr>500.00</AmountCurr>
+<Beneficiar>
+<Account>BY94AKBB30120916600145500000</Account>
+<BIC>AKBBBY2X</BIC>
+<UNN>102377059</UNN>
+<NameBIC>ОАО 'АСБ БЕЛАРУСБАНК'</NameBIC>
+<Name>ООО "ТАБАК-ИНВЕСТ" ТЦ КОРОНА УРУЧЬЕ</Name>
+<Ground>ОПЛАТА ЗА ПРОДОВОЛЬСТВЕННЫЕ ТОВАРЫ. СУММА СОГЛ. ДОГОВОРУ 2018/038 ОТ 21.02.2018. СУММА С НДС - 500,00 </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>887</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>09.12.2019 12:01:38</Time>
+<OperType>01</OperType>
+<Amount>786.31</Amount>
+<AmountCurr>786.31</AmountCurr>
+<Beneficiar>
+<Account>BY66MTBK30120001093300062321</Account>
+<BIC>MTBKBY22</BIC>
+<UNN>100608743</UNN>
+<NameBIC>ЗАО 'МТБАНК'</NameBIC>
+<Name>ЗАО "СИТБЕЛ"</Name>
+<Ground>ОПЛАТА ЗА ТО АВТОМОБИЛЕЙ СОГЛ СЧ ПР 28035 ОТ 02.12.19. СУММА С НДС - 786,31=. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>180</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>09.12.2019 14:43:28</Time>
+<OperType>01</OperType>
+<Amount>878.69</Amount>
+<AmountCurr>878.69</AmountCurr>
+<Beneficiar>
+<Account>BY13BPSB38198000000709330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО БПС-СБЕРБАНК</Name>
+<Ground>ЗАРАБОТНАЯ ПЛАТА ЗА НОЯБРЬ. ДОГОВОР N 348-2017 ОТ 07.07.2017.  СПИСОК НА ВЫПЛАТУ N 180 ОТ 09.12.2019. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>884</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>09.12.2019 11:43:20</Time>
+<OperType>01</OperType>
+<Amount>928.00</Amount>
+<AmountCurr>928.00</AmountCurr>
+<Beneficiar>
+<Account>BY57PJCB30124039261000000933</Account>
+<BIC>PJCBBY2X</BIC>
+<UNN>490863036</UNN>
+<NameBIC>'ПРИОРБАНК' ОАО</NameBIC>
+<Name>ООО "ФРАНСЦЕНТР"</Name>
+<Ground>ПЛАТА ЗА ТО И РЕМОНТ АВТОМОБИЛЯ СОГЛ СЧ/Ф 5800,5535 ОТ 22.11.19. БЕЗ НДС </Ground>
+</Beneficiar>
+</Document>
+</DebetDocuments> 
+<CreditDocuments>
+<DocumentsNet>0</DocumentsNet>
+<Turnover>0,00</Turnover>
+<CreditTurnoverNat>0,00</CreditTurnoverNat>
+</CreditDocuments>
+
+</Statement>
+</Statements>
+<?xml version = "1.0" encoding="CP866"?>
+<?xml-stylesheet type="text/xsl"?>
+<Statements>
+<Date>10.12.2019</Date>
+<Time>23:30:58</Time>
+<Type>ВЫПИСКА</Type>
+<Account>BY86BPSB30211816590139330000</Account>
+<UNN>102332897</UNN>
+<Statement>
+<Account>BY86BPSB30211816590139330000</Account>
+<Name></Name>
+<BIC>BPSBBY2X</BIC>
+<CurrCode>933</CurrCode>
+<CurrCodeISO>BYN</CurrCodeISO>
+<OpeningBalance>6268,59</OpeningBalance>
+<OpeningBalanceNat>6268,59</OpeningBalanceNat>
+<KursRazn>0.00</KursRazn>
+<DatePrevious>09.12.2019</DatePrevious>
+<ClosingBalance>1994,39</ClosingBalance>
+<ClosingBalanceNat>1994,39</ClosingBalanceNat>
+<DateClosing>10.12.2019</DateClosing>
+<DebetDocuments>
+<DocumentsNet>12</DocumentsNet>
+<Turnover>130598,20</Turnover>
+<DebetTurnoverNat>130598,20</DebetTurnoverNat>
+<Document>
+<DocumentNumber>11738</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>10.12.2019 13:40:15</Time>
+<OperType>06</OperType>
+<Amount>10.44</Amount>
+<AmountCurr>10.44</AmountCurr>
+<Beneficiar>
+<Account>BY63BPSB81010000053159330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО "БПС-СБЕРБАНК"</Name>
+<Ground>Вознагр. за зачисление денежных средств на счета физ.лиц, по п/п №182 от 10.12.2019 согл. Договору 348-2017 от 07.07.2017г. Без НДС согласно п. 1.37.2. ст.118 Особенной части Налогового Кодекса </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>888</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>10.12.2019 08:11:37</Time>
+<OperType>01</OperType>
+<Amount>94.95</Amount>
+<AmountCurr>94.95</AmountCurr>
+<Beneficiar>
+<Account>BY17OLMP30120001206240000933</Account>
+<BIC>OLMPBY2X</BIC>
+<UNN>191689219</UNN>
+<NameBIC>ОАО 'БЕЛГАЗПРОМБАНК'</NameBIC>
+<Name>ЧП "СПОРТОК"</Name>
+<Ground>ОПЛАТА УСЛУГ СОГЛ СЧ. 6588 ОТ 09.12.2019. БЕЗ НДС </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>890</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>10.12.2019 12:02:13</Time>
+<OperType>01</OperType>
+<Amount>121.55</Amount>
+<AmountCurr>121.55</AmountCurr>
+<Beneficiar>
+<Account>BY55ALFA30122080690040270000</Account>
+<BIC>ALFABY2X</BIC>
+<UNN>192169455</UNN>
+<NameBIC>ЗАО 'АЛЬФА-БАНК'</NameBIC>
+<Name>ООО "ЛОГИТРЭК"</Name>
+<Ground>ПРЕДОПЛАТА ЗА ТРАНСПОРТНО-ЭКСПЕДИЦИОННОЕ ОБСЛУЖИВАНИЕ ПРИ МЕЖДУНАРОДНЫХ ПЕРЕВОЗКАХ ЧЕРЕЗ ТРАНСПОРТНУЮ СЕТЬ DHL СОГЛ ДОГ ТА-0600/0000482-17-386 ОТ 21.11.17. ЦЕНЫ СОГЛ ТАРИФНОМУ СПРАВОЧНИКУ 12 ОТ 01.01.2019. СУММА СОГЛ СЧ 8260-П ОТ 10.12.19 121,55 БЕЛ.РУБ. БЕЗ НДС </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>10851</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>10.12.2019 12:55:51</Time>
+<OperType>06</OperType>
+<Amount>223.27</Amount>
+<AmountCurr>223.27</AmountCurr>
+<Beneficiar>
+<Account>BY63BPSB81010000053159330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО "БПС-СБЕРБАНК"</Name>
+<Ground>Вознагр. за зачисление денежных средств на счета физ.лиц, по п/п №181 от 10.12.2019 согл. Договору 348-2017 от 07.07.2017г. Без НДС согласно п. 1.37.2. ст.118 Особенной части Налогового Кодекса </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>895</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>10.12.2019 13:36:55</Time>
+<OperType>01</OperType>
+<Amount>600.00</Amount>
+<AmountCurr>600.00</AmountCurr>
+<Beneficiar>
+<Account>BY43AKBB36021010005210000000</Account>
+<BIC>AKBBBY2X</BIC>
+<UNN>101530339</UNN>
+<NameBIC>ОАО 'АСБ БЕЛАРУСБАНК'</NameBIC>
+<Name>ГЛАВНОЕ УПРАВЛЕНИЕ МИНИСТЕРСТВА ФИНАНСОВ РБ ПО Г.МИНСКУ</Name>
+<Ground>УПЛАТА ПОДОХОДНОГО НАЛОГА ИЗ З/П ЗА НОЯБРЬ 2019 Г. НАЛОГ УДЕРЖАН ИЗ З/П И ПЕРЕЧИСЛЕН В БЮДЖЕТ. СРОК ПЛАТЕЖА 10/12/2019. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>894</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>10.12.2019 12:57:46</Time>
+<OperType>01</OperType>
+<Amount>650.00</Amount>
+<AmountCurr>650.00</AmountCurr>
+<Beneficiar>
+<Account>BY30AKBB30115240001480000000</Account>
+<BIC>AKBBBY2X</BIC>
+<UNN>100122726</UNN>
+<NameBIC>ОАО 'АСБ БЕЛАРУСБАНК'</NameBIC>
+<Name>ФИЛИАЛ БРУСП БЕЛГОССТРАХА ПО Г. МИНСКУ</Name>
+<Ground>ОПЛАТА ОТЧ. ПО ОБЯЗАТ СТРАХ-НИЮ ОТ НЕСЧ СЛУЧАЕВ 0,6% ЗА НОЯБРЬ 2019 Г. СРОК ПЛАТЕЖА 10/12/2019 РЕГ. 500026206. СОГЛ. ДЕКРЕТУ ПРЕЗИДЕНТА РБ 18 ОТ 30/07/2003 </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>891</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>10.12.2019 12:07:08</Time>
+<OperType>01</OperType>
+<Amount>996.00</Amount>
+<AmountCurr>996.00</AmountCurr>
+<Beneficiar>
+<Account>BY54ALFA30122150110160270000</Account>
+<BIC>ALFABY2X</BIC>
+<UNN>190567633</UNN>
+<NameBIC>ЗАО 'АЛЬФА-БАНК'</NameBIC>
+<Name>СООО "БРИТИТРЕЙД" (РБ)</Name>
+<Ground>ОПЛАТА ЗА ПРЕДОСТАВЛЕНИЕ ИНФОРМАЦИОННЫХ УСЛУГ СОГЛ АКТУ 1 ОТ 30.11.19, В Т. Ч. НДС (20%) </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>889</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>10.12.2019 08:11:57</Time>
+<OperType>01</OperType>
+<Amount>3 000.00</Amount>
+<AmountCurr>3 000.00</AmountCurr>
+<Beneficiar>
+<Account>BY34OLMP31190000001710000933</Account>
+<BIC>OLMPBY2X</BIC>
+<UNN>100429079</UNN>
+<NameBIC>ОАО 'БЕЛГАЗПРОМБАНК'</NameBIC>
+<Name>НПО "БЕРЛИО"</Name>
+<Ground>ОПЛАТА ПОКУПКИ ЭЛЕКТРОННЫХ ДЕНЕГ "БЕРЛИО" СОГЛ ДОГ 24052 ОТ 05/03/2008 БЕЗ НДС </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>182</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>10.12.2019 13:40:15</Time>
+<OperType>01</OperType>
+<Amount>3 480.00</Amount>
+<AmountCurr>3 480.00</AmountCurr>
+<Beneficiar>
+<Account>BY13BPSB38198000000709330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО БПС-СБЕРБАНК</Name>
+<Ground>ЗАРАБОТНАЯ ПЛАТА ЗА НОЯБРЬ. ДОГОВОР N 348-2017 ОТ 07.07.2017.  СПИСОК НА ВЫПЛАТУ N 182 ОТ 10.12.2019. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>892</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>10.12.2019 12:51:16</Time>
+<OperType>01</OperType>
+<Amount>12 000.00</Amount>
+<AmountCurr>12 000.00</AmountCurr>
+<Beneficiar>
+<Account>BY43AKBB36021010005210000000</Account>
+<BIC>AKBBBY2X</BIC>
+<UNN>101530339</UNN>
+<NameBIC>ОАО 'АСБ БЕЛАРУСБАНК'</NameBIC>
+<Name>ГЛАВНОЕ УПРАВЛЕНИЕ МИНИСТЕРСТВА ФИНАНСОВ РБ ПО Г.МИНСКУ</Name>
+<Ground>УПЛАТА ПОДОХОДНОГО НАЛОГА ИЗ З/П ЗА НОЯБРЬ 2019 Г. НАЛОГ УДЕРЖАН ИЗ З/П И ПЕРЕЧИСЛЕН В БЮДЖЕТ. СРОК ПЛАТЕЖА 10/12/2019. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>893</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>10.12.2019 12:56:39</Time>
+<OperType>01</OperType>
+<Amount>35 000.00</Amount>
+<AmountCurr>35 000.00</AmountCurr>
+<Beneficiar>
+<Account>BY30AKBB36029450100090000000</Account>
+<BIC>AKBBBY2X</BIC>
+<UNN>104521003</UNN>
+<NameBIC>ОАО 'АСБ БЕЛАРУСБАНК'</NameBIC>
+<Name>ГУ МФ РБ ПО Г.МИНСКУ</Name>
+<Ground>ОПЛАТА ОТЧИСЛЕНИЙ В ФСЗН ЗА НОЯБРЬ 2019 Г. СРОК ПЛАТЕЖА - 10/12/2019 РЕГ.521051245 </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>181</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>10.12.2019 12:55:51</Time>
+<OperType>01</OperType>
+<Amount>74 421.99</Amount>
+<AmountCurr>74 421.99</AmountCurr>
+<Beneficiar>
+<Account>BY13BPSB38198000000709330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО БПС-СБЕРБАНК</Name>
+<Ground>ЗАРАБОТНАЯ ПЛАТА ЗА НОЯБРЬ. ДОГОВОР N 348-2017 ОТ 07.07.2017.  СПИСОК НА ВЫПЛАТУ N 181 ОТ 10.12.2019. </Ground>
+</Beneficiar>
+</Document>
+</DebetDocuments> 
+<CreditDocuments>
+<DocumentsNet>1</DocumentsNet>
+<Turnover>126324,00</Turnover>
+<CreditTurnoverNat>126324,00</CreditTurnoverNat>
+<Document>
+<DocumentNumber>342</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>10.12.2019 10:54:36</Time>
+<OperType>06</OperType>
+<Amount>126 324.00</Amount>
+<AmountCurr>126 324.00</AmountCurr>
+<Payer>
+<Account>BY88BPSB69118170000149330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО "БПС-СБЕРБАНК"</Name>
+<Ground>Перевод с продажей ПП 342  от 10.12.19 Представительство ООО "Sun Pharmaceutical Industries LTD." (Республика Индия) в Республике Беларусь. Курс  2.1054 за 1 ед. валюты. СВОБОДНАЯ ПРОДАЖА ИНОСТРАННОЙ ВАЛЮТЫ. </Ground>
+</Payer>
+</Document>
+</CreditDocuments>
+
+</Statement>
+</Statements>
+<?xml version = "1.0" encoding="CP866"?>
+<?xml-stylesheet type="text/xsl"?>
+<Statements>
+<Date>11.12.2019</Date>
+<Time>23:39:35</Time>
+<Type>ВЫПИСКА</Type>
+<Account>BY86BPSB30211816590139330000</Account>
+<UNN>102332897</UNN>
+<Statement>
+<Account>BY86BPSB30211816590139330000</Account>
+<Name></Name>
+<BIC>BPSBBY2X</BIC>
+<CurrCode>933</CurrCode>
+<CurrCodeISO>BYN</CurrCodeISO>
+<OpeningBalance>1994,39</OpeningBalance>
+<OpeningBalanceNat>1994,39</OpeningBalanceNat>
+<KursRazn>0.00</KursRazn>
+<DatePrevious>10.12.2019</DatePrevious>
+<ClosingBalance>7046,58</ClosingBalance>
+<ClosingBalanceNat>7046,58</ClosingBalanceNat>
+<DateClosing>11.12.2019</DateClosing>
+<DebetDocuments>
+<DocumentsNet>13</DocumentsNet>
+<Turnover>16025,81</Turnover>
+<DebetTurnoverNat>16025,81</DebetTurnoverNat>
+<Document>
+<DocumentNumber>898</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>11.12.2019 12:32:02</Time>
+<OperType>01</OperType>
+<Amount>3.20</Amount>
+<AmountCurr>3.20</AmountCurr>
+<Beneficiar>
+<Account>BY63BELB30120161580010226000</Account>
+<BIC>BELBBY2X</BIC>
+<UNN>191960454</UNN>
+<NameBIC>ОАО 'БАНК БЕЛВЭБ'</NameBIC>
+<Name>ООО "КВИБИС"</Name>
+<Ground>ОПЛАТА УСЛУГ СОГЛ АКТУ 0000726 ОТ 22.11.2019. БЕЗ НДС </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>15659</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>11.12.2019 15:51:09</Time>
+<OperType>06</OperType>
+<Amount>9.00</Amount>
+<AmountCurr>9.00</AmountCurr>
+<Beneficiar>
+<Account>BY63BPSB81010000053159330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО "БПС-СБЕРБАНК"</Name>
+<Ground>Вознагр. за зачисление денежных средств на счета физ.лиц, по п/п №184 от 11.12.2019 согл. Договору 348-2017 от 07.07.2017г. Без НДС согласно п. 1.37.2. ст.118 Особенной части Налогового Кодекса </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>897</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>11.12.2019 12:32:03</Time>
+<OperType>01</OperType>
+<Amount>21.60</Amount>
+<AmountCurr>21.60</AmountCurr>
+<Beneficiar>
+<Account>BY38PJCB30120151551000000933</Account>
+<BIC>PJCBBY2X</BIC>
+<UNN>690027140</UNN>
+<NameBIC>'ПРИОРБАНК' ОАО</NameBIC>
+<Name>ООО "МИР ВОДЫ"</Name>
+<Ground>ПЛАТА ЗА ВОДУ ПИТЬЕВУЮ СОГЛ СЧ-ПР Т 110957 ОТ 10.12.19. СУММА  НДС 3,60=. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>11442</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>11.12.2019 12:15:28</Time>
+<OperType>06</OperType>
+<Amount>22.76</Amount>
+<AmountCurr>22.76</AmountCurr>
+<Beneficiar>
+<Account>BY63BPSB81010000053159330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО "БПС-СБЕРБАНК"</Name>
+<Ground>Вознагр. за зачисление денежных средств на счета физ.лиц, по п/п №183 от 11.12.2019 согл. Договору 348-2017 от 07.07.2017г. Без НДС согласно п. 1.37.2. ст.118 Особенной части Налогового Кодекса </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>903</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>11.12.2019 12:49:14</Time>
+<OperType>01</OperType>
+<Amount>152.00</Amount>
+<AmountCurr>152.00</AmountCurr>
+<Beneficiar>
+<Account>BY82OLMP30123000768560000933</Account>
+<BIC>OLMPBY2X</BIC>
+<UNN>291104372</UNN>
+<NameBIC>ОАО 'БЕЛГАЗПРОМБАНК'</NameBIC>
+<Name>ЧУП "ОТОСЕРВИС"</Name>
+<Ground>ЗА ТО АВТОМОБИЛЯ СОГЛ АКТУ 404 ОТ 21.11.2019. БЕЗ НДС </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>902</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>11.12.2019 12:37:30</Time>
+<OperType>01</OperType>
+<Amount>320.00</Amount>
+<AmountCurr>320.00</AmountCurr>
+<Beneficiar>
+<Account>BY32UNBS30132099500000000933</Account>
+<BIC>UNBSBY2X</BIC>
+<UNN>691575552</UNN>
+<NameBIC>ЗАО 'БСБ БАНК'</NameBIC>
+<Name>ИП РЫЖАНКОВА ИРИНА АЛЕКСЕЕВНА</Name>
+<Ground>ПЛАТА ЗА ОРГАНИЗАЦИЮ ПЕРЕВОЗОК ПАССАЖИРОВ СОГЛ СЧ 43 ОТ 09.12.2019. СУММА 320,00=. БЕЗ НДС </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>901</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>11.12.2019 12:37:30</Time>
+<OperType>01</OperType>
+<Amount>373.35</Amount>
+<AmountCurr>373.35</AmountCurr>
+<Beneficiar>
+<Account>BY58UNBS30120386100050010933</Account>
+<BIC>UNBSBY2X</BIC>
+<UNN>191157200</UNN>
+<NameBIC>ЗАО 'БСБ БАНК'</NameBIC>
+<Name>ЧП "КОРПОРАТИВНАЯ СВЯЗЬ"</Name>
+<Ground>ЗА ПИСЬМЕННЫЙ ПЕРЕВОД ДОКУМЕНТАЦИИ И ВОЗМЕЩЕНИЕ ГОСПОШЛИНЫ СОГЛ СЧ-Ф 3130,3130/1 ОТ 03.12.19. СУММА НДС=38,00 БЕЛ.РУБ. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>900</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>11.12.2019 12:37:23</Time>
+<OperType>01</OperType>
+<Amount>412.06</Amount>
+<AmountCurr>412.06</AmountCurr>
+<Beneficiar>
+<Account>BY08BPSB30121160630169330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>300240207</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ООО ПКФ ЯССА</Name>
+<Ground>ПЛАТА ЗА ПРЕДОСТАВЛЕНИЕ ИНФ.УСЛУГ ЗА ИЮЛЬ-СЕНТ 19 СОГЛ СЧ 2 ОТ 26.11.2019. СУММА 412,06, В Т Ч НДС 68,68=. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>904</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>11.12.2019 12:49:26</Time>
+<OperType>01</OperType>
+<Amount>964.28</Amount>
+<AmountCurr>964.28</AmountCurr>
+<Beneficiar>
+<Account>BY05AKBB30121227400152000000</Account>
+<BIC>AKBBBY21200</BIC>
+<UNN>391362258</UNN>
+<NameBIC>ФИЛИАЛ N200 ВИТЕБСКОЕ ОБЛ. УПРАВЛЕНИЕ ОАО 'АСБ БЕЛАРУСБАНК', г Витебск</NameBIC>
+<Name>ООО "ВИТЕБСКАВТОСИТИ"</Name>
+<Ground>ПЛАТА ЗА ТЕХНИЧЕСКОЕ ОБСЛУЖИВАНИЕ АВТОМОБИЛЯ СОГЛ АКТУ 61907 ОТ 30.11.19. СУММА С НДС 964,28=. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>896</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>11.12.2019 12:15:03</Time>
+<OperType>01</OperType>
+<Amount>1 150.00</Amount>
+<AmountCurr>1 150.00</AmountCurr>
+<Beneficiar>
+<Account>BY43AKBB36021010005210000000</Account>
+<BIC>AKBBBY2X</BIC>
+<UNN>101530339</UNN>
+<NameBIC>ОАО 'АСБ БЕЛАРУСБАНК'</NameBIC>
+<Name>ГЛАВНОЕ УПРАВЛЕНИЕ МИНИСТЕРСТВА ФИНАНСОВ РБ ПО Г.МИНСКУ</Name>
+<Ground>УПЛАТА ПОДОХОДНОГО НАЛОГА ИЗ З/П ЗА НОЯБРЬ 2019 Г. НАЛОГ УДЕРЖАН ИЗ З/П И ПЕРЕЧИСЛЕН В БЮДЖЕТ. СРОК ПЛАТЕЖА 11/12/2019. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>899</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>11.12.2019 12:32:03</Time>
+<OperType>01</OperType>
+<Amount>2 012.56</Amount>
+<AmountCurr>2 012.56</AmountCurr>
+<Beneficiar>
+<Account>BY87BELB30120141720020226000</Account>
+<BIC>BELBBY2X</BIC>
+<UNN>191089813</UNN>
+<NameBIC>ОАО 'БАНК БЕЛВЭБ'</NameBIC>
+<Name>ООО "ГИНЕРИОН"</Name>
+<Ground>ПЛАТА ЗА ПИТАНИЕ СОГЛ ТН 1212390,1212389 ОТ 22.11.19. СУММА-2012,56 РУБ. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>184</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>11.12.2019 15:51:08</Time>
+<OperType>01</OperType>
+<Amount>3 000.00</Amount>
+<AmountCurr>3 000.00</AmountCurr>
+<Beneficiar>
+<Account>BY13BPSB38198000000709330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО БПС-СБЕРБАНК</Name>
+<Ground>ЗАРАБОТНАЯ ПЛАТА ЗА НОЯБРЬ. ДОГОВОР N 348-2017 ОТ 07.07.2017.  СПИСОК НА ВЫПЛАТУ N 184 ОТ 11.12.2019. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>183</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>11.12.2019 12:15:27</Time>
+<OperType>01</OperType>
+<Amount>7 585.00</Amount>
+<AmountCurr>7 585.00</AmountCurr>
+<Beneficiar>
+<Account>BY13BPSB38198000000709330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО БПС-СБЕРБАНК</Name>
+<Ground>ЗАРАБОТНАЯ ПЛАТА ЗА НОЯБРЬ. ДОГОВОР N 348-2017 ОТ 07.07.2017.  СПИСОК НА ВЫПЛАТУ N 183 ОТ 11.12.2019. </Ground>
+</Beneficiar>
+</Document>
+</DebetDocuments> 
+<CreditDocuments>
+<DocumentsNet>2</DocumentsNet>
+<Turnover>21078,00</Turnover>
+<CreditTurnoverNat>21078,00</CreditTurnoverNat>
+<Document>
+<DocumentNumber>345</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>11.12.2019 12:48:50</Time>
+<OperType>06</OperType>
+<Amount>10 537.00</Amount>
+<AmountCurr>10 537.00</AmountCurr>
+<Payer>
+<Account>BY88BPSB69118170000149330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО "БПС-СБЕРБАНК"</Name>
+<Ground>Перевод с продажей ПП 345  от 11.12.19 Представительство ООО "Sun Pharmaceutical Industries LTD." (Республика Индия) в Республике Беларусь. Курс  2.1074 за 1 ед. валюты. СВОБОДНАЯ ПРОДАЖА ИНОСТРАННОЙ ВАЛЮТЫ. </Ground>
+</Payer>
+</Document>
+<Document>
+<DocumentNumber>344</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>11.12.2019 11:35:21</Time>
+<OperType>06</OperType>
+<Amount>10 541.00</Amount>
+<AmountCurr>10 541.00</AmountCurr>
+<Payer>
+<Account>BY88BPSB69118170000149330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО "БПС-СБЕРБАНК"</Name>
+<Ground>Перевод с продажей ПП 344  от 11.12.19 Представительство ООО "Sun Pharmaceutical Industries LTD." (Республика Индия) в Республике Беларусь. Курс  2.1082 за 1 ед. валюты. СВОБОДНАЯ ПРОДАЖА ИНОСТРАННОЙ ВАЛЮТЫ. </Ground>
+</Payer>
+</Document>
+</CreditDocuments>
+
+</Statement>
+</Statements>
+<?xml version = "1.0" encoding="CP866"?>
+<?xml-stylesheet type="text/xsl"?>
+<Statements>
+<Date>12.12.2019</Date>
+<Time>23:33:29</Time>
+<Type>ВЫПИСКА</Type>
+<Account>BY86BPSB30211816590139330000</Account>
+<UNN>102332897</UNN>
+<Statement>
+<Account>BY86BPSB30211816590139330000</Account>
+<Name></Name>
+<BIC>BPSBBY2X</BIC>
+<CurrCode>933</CurrCode>
+<CurrCodeISO>BYN</CurrCodeISO>
+<OpeningBalance>7046,58</OpeningBalance>
+<OpeningBalanceNat>7046,58</OpeningBalanceNat>
+<KursRazn>0.00</KursRazn>
+<DatePrevious>11.12.2019</DatePrevious>
+<ClosingBalance>1713,68</ClosingBalance>
+<ClosingBalanceNat>1713,68</ClosingBalanceNat>
+<DateClosing>12.12.2019</DateClosing>
+<DebetDocuments>
+<DocumentsNet>2</DocumentsNet>
+<Turnover>5332,90</Turnover>
+<DebetTurnoverNat>5332,90</DebetTurnoverNat>
+<Document>
+<DocumentNumber>905</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>12.12.2019 11:26:04</Time>
+<OperType>01</OperType>
+<Amount>592.90</Amount>
+<AmountCurr>592.90</AmountCurr>
+<Beneficiar>
+<Account>BY74BELB30120154710010226000</Account>
+<BIC>BELBBY2X</BIC>
+<UNN>591028400</UNN>
+<NameBIC>ОАО 'БАНК БЕЛВЭБ'</NameBIC>
+<Name>ООО "МКТПРОДЖЕКТ"</Name>
+<Ground>ПЛАТА ЗА ПИТАНИЕ СОГЛ АКТА К ДОГОВОРУ 27/11 ОТ 27.11.19. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>906</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>12.12.2019 11:25:48</Time>
+<OperType>01</OperType>
+<Amount>4 740.00</Amount>
+<AmountCurr>4 740.00</AmountCurr>
+<Beneficiar>
+<Account>BY33BPSB30133012630119330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>691834277</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ИП ЛУКАШЕВИЧ СЕРГЕЙ ВАЛЕРЬЕВИЧ</Name>
+<Ground>ЗА ТРАНСПОРТНЫЕ УСЛУГИ. СУММА СОГЛ. АКТУ 35 ОТ 30.11.2019 </Ground>
+</Beneficiar>
+</Document>
+</DebetDocuments> 
+<CreditDocuments>
+<DocumentsNet>0</DocumentsNet>
+<Turnover>0,00</Turnover>
+<CreditTurnoverNat>0,00</CreditTurnoverNat>
+</CreditDocuments>
+
+</Statement>
+</Statements>
+<?xml version = "1.0" encoding="CP866"?>
+<?xml-stylesheet type="text/xsl"?>
+<Statements>
+<Date>13.12.2019</Date>
+<Time>23:32:10</Time>
+<Type>ВЫПИСКА</Type>
+<Account>BY86BPSB30211816590139330000</Account>
+<UNN>102332897</UNN>
+<Statement>
+<Account>BY86BPSB30211816590139330000</Account>
+<Name></Name>
+<BIC>BPSBBY2X</BIC>
+<CurrCode>933</CurrCode>
+<CurrCodeISO>BYN</CurrCodeISO>
+<OpeningBalance>1713,68</OpeningBalance>
+<OpeningBalanceNat>1713,68</OpeningBalanceNat>
+<KursRazn>0.00</KursRazn>
+<DatePrevious>12.12.2019</DatePrevious>
+<ClosingBalance>7187,88</ClosingBalance>
+<ClosingBalanceNat>7187,88</ClosingBalanceNat>
+<DateClosing>13.12.2019</DateClosing>
+<DebetDocuments>
+<DocumentsNet>5</DocumentsNet>
+<Turnover>8159,30</Turnover>
+<DebetTurnoverNat>8159,30</DebetTurnoverNat>
+<Document>
+<DocumentNumber>911</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>13.12.2019 15:14:51</Time>
+<OperType>01</OperType>
+<Amount>459.00</Amount>
+<AmountCurr>459.00</AmountCurr>
+<Beneficiar>
+<Account>BY04AKBB36029110100040000000</Account>
+<BIC>AKBBBY2X</BIC>
+<UNN>100061550</UNN>
+<NameBIC>ОАО 'АСБ БЕЛАРУСБАНК'</NameBIC>
+<Name>ГУ МФ РБ ПО Г.МИНСКУ</Name>
+<Ground>ГОСУДАРСТВЕННАЯ ПОШЛИНА ЗА ВЫДАЧУ РАЗРЕШЕНИЯ НА ДОПУСК ТС К УЧАСТИЮ В ДОРОЖНОМ ДВИЖЕНИИ C ОРГАНИЗАЦИЙ ( Г/ Н 9824 PE-7, Н/К Y3WDDNFP9FF500402) </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>910</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>13.12.2019 15:13:51</Time>
+<OperType>01</OperType>
+<Amount>459.00</Amount>
+<AmountCurr>459.00</AmountCurr>
+<Beneficiar>
+<Account>BY04AKBB36029110100040000000</Account>
+<BIC>AKBBBY2X</BIC>
+<UNN>100061550</UNN>
+<NameBIC>ОАО 'АСБ БЕЛАРУСБАНК'</NameBIC>
+<Name>ГУ МФ РБ ПО Г.МИНСКУ</Name>
+<Ground>ГОСУДАРСТВЕННАЯ ПОШЛИНА ЗА ВЫДАЧУ РАЗРЕШЕНИЯ НА ДОПУСК ТС К УЧАСТИЮ В ДОРОЖНОМ ДВИЖЕНИИ C ОРГАНИЗАЦИЙ ( Г/ Н 9830 PE-7, Н/К Y3WDDNFP9FF500349) </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>908</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>13.12.2019 14:56:40</Time>
+<OperType>01</OperType>
+<Amount>687.36</Amount>
+<AmountCurr>687.36</AmountCurr>
+<Beneficiar>
+<Account>BY38MTBK30120001093300061855</Account>
+<BIC>MTBKBY22</BIC>
+<UNN>190635842</UNN>
+<NameBIC>ЗАО 'МТБАНК'</NameBIC>
+<Name>ООО "СМАРТОН"</Name>
+<Ground>ПЛАТА ЗА НЕПРОДОВОЛЬСТВЕННЫЕ ТОВАРЫ СОГЛ СЧ МИСМ00-241779-В ОТ 05.12.19. СУММА С НДС-687,36=. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>907</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>13.12.2019 14:53:34</Time>
+<OperType>01</OperType>
+<Amount>3 053.94</Amount>
+<AmountCurr>3 053.94</AmountCurr>
+<Beneficiar>
+<Account>BY66MTBK30120001093300062321</Account>
+<BIC>MTBKBY22</BIC>
+<UNN>100608743</UNN>
+<NameBIC>ЗАО 'МТБАНК'</NameBIC>
+<Name>ЗАО "СИТБЕЛ"</Name>
+<Ground>ОПЛАТА ЗА ТО АВТОМОБИЛЕЙ СОГЛ СЧ ПР 28168, 28192, 28186 ОТ 13.12.19. СУММА С НДС - 3053,94=. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>909</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>13.12.2019 15:11:47</Time>
+<OperType>01</OperType>
+<Amount>3 500.00</Amount>
+<AmountCurr>3 500.00</AmountCurr>
+<Beneficiar>
+<Account>BY51MMBN30120474600109330000</Account>
+<BIC>MMBNBY22</BIC>
+<UNN>191325762</UNN>
+<NameBIC>ОАО 'БАНК ДАБРАБЫТ'</NameBIC>
+<Name>ООО "МАКС И МАРКЕТИНГ"</Name>
+<Ground>ПЛАТА ЗА УСЛУГИ ПО ОРГАНИЗАЦИИ МЕРОПРИЯТИЯ СОГЛ СЧ-Ф 2 ОТ 11.12.2019. СУММА-3500,00=. </Ground>
+</Beneficiar>
+</Document>
+</DebetDocuments> 
+<CreditDocuments>
+<DocumentsNet>2</DocumentsNet>
+<Turnover>13633,50</Turnover>
+<CreditTurnoverNat>13633,50</CreditTurnoverNat>
+<Document>
+<DocumentNumber>008534</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>13.12.2019 11:42:44</Time>
+<OperType>01</OperType>
+<Amount>3 180.00</Amount>
+<AmountCurr>3 180.00</AmountCurr>
+<Payer>
+<Account>BY40PJCB30120317671000000933</Account>
+<BIC>PJCBBY2X</BIC>
+<UNN>192135107</UNN>
+<NameBIC>'ПРИОРБАНК' ОАО</NameBIC>
+<Name>"РЕСТОРАН-ПИВОВАРНЯ ДРУЗЬЯ" ООО</Name>
+<Ground>ВОЗВРАТ ОШИБОЧНО ПЕРЕЧИСЛЕННОЙ СУММЫ ЗА УСЛУГИ ПО ОРГАНИЗ. ПИТАНИЯ ПО ДОГОВОРУ N352 ОТ 07.10.2016Г. БЕЗ НДС </Ground>
+</Payer>
+</Document>
+<Document>
+<DocumentNumber>346</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>13.12.2019 14:48:13</Time>
+<OperType>06</OperType>
+<Amount>10 453.50</Amount>
+<AmountCurr>10 453.50</AmountCurr>
+<Payer>
+<Account>BY88BPSB69118170000149330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО "БПС-СБЕРБАНК"</Name>
+<Ground>Перевод с продажей ПП 346  от 13.12.19 Представительство ООО "Sun Pharmaceutical Industries LTD." (Республика Индия) в Республике Беларусь. Курс  2.0907 за 1 ед. валюты. СВОБОДНАЯ ПРОДАЖА ИНОСТРАННОЙ ВАЛЮТЫ. </Ground>
+</Payer>
+</Document>
+</CreditDocuments>
+
+</Statement>
+</Statements>
+<?xml version = "1.0" encoding="CP866"?>
+<?xml-stylesheet type="text/xsl"?>
+<Statements>
+<Date>16.12.2019</Date>
+<Time>23:28:54</Time>
+<Type>ВЫПИСКА</Type>
+<Account>BY86BPSB30211816590139330000</Account>
+<UNN>102332897</UNN>
+<Statement>
+<Account>BY86BPSB30211816590139330000</Account>
+<Name></Name>
+<BIC>BPSBBY2X</BIC>
+<CurrCode>933</CurrCode>
+<CurrCodeISO>BYN</CurrCodeISO>
+<OpeningBalance>7187,88</OpeningBalance>
+<OpeningBalanceNat>7187,88</OpeningBalanceNat>
+<KursRazn>0.00</KursRazn>
+<DatePrevious>13.12.2019</DatePrevious>
+<ClosingBalance>6263,92</ClosingBalance>
+<ClosingBalanceNat>6263,92</ClosingBalanceNat>
+<DateClosing>16.12.2019</DateClosing>
+<DebetDocuments>
+<DocumentsNet>3</DocumentsNet>
+<Turnover>11405,96</Turnover>
+<DebetTurnoverNat>11405,96</DebetTurnoverNat>
+<Document>
+<DocumentNumber>913</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>16.12.2019 12:55:39</Time>
+<OperType>01</OperType>
+<Amount>61.96</Amount>
+<AmountCurr>61.96</AmountCurr>
+<Beneficiar>
+<Account>BY87TECN30127043200160000000</Account>
+<BIC>TECNBY22</BIC>
+<UNN>101346274</UNN>
+<NameBIC>ОАО 'ТЕХНОБАНК'</NameBIC>
+<Name>ОДО "КОЛЕСОПЛЮС"</Name>
+<Ground>ПЛАТА ЗА УСЛУГИ СОГЛ СЧ-Ф 00014303 ОТ 18.11.2019. СУММА С НДС 61,96=. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>912</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>16.12.2019 12:14:06</Time>
+<OperType>01</OperType>
+<Amount>1 500.00</Amount>
+<AmountCurr>1 500.00</AmountCurr>
+<Beneficiar>
+<Account>BY34OLMP31190000001710000933</Account>
+<BIC>OLMPBY2X</BIC>
+<UNN>100429079</UNN>
+<NameBIC>ОАО 'БЕЛГАЗПРОМБАНК'</NameBIC>
+<Name>НПО "БЕРЛИО"</Name>
+<Ground>ОПЛАТА ПОКУПКИ ЭЛЕКТРОННЫХ ДЕНЕГ "БЕРЛИО" СОГЛ ДОГ 24052 ОТ 05/03/2008 БЕЗ НДС </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>914</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>16.12.2019 15:35:21</Time>
+<OperType>01</OperType>
+<Amount>9 844.00</Amount>
+<AmountCurr>9 844.00</AmountCurr>
+<Beneficiar>
+<Account>BY51MMBN30120474600109330000</Account>
+<BIC>MMBNBY22</BIC>
+<UNN>191325762</UNN>
+<NameBIC>ОАО 'БАНК ДАБРАБЫТ'</NameBIC>
+<Name>ООО "МАКС И МАРКЕТИНГ"</Name>
+<Ground>ПЛАТА ЗА УСЛУГИ ПО ОРГАНИЗАЦИИ МЕРОПРИЯТИЙ СОГЛ СЧ-Ф 3,4 ОТ 11.12.2019, 5/1 ОТ 13.12.2019. СУММА-9844,00=. </Ground>
+</Beneficiar>
+</Document>
+</DebetDocuments> 
+<CreditDocuments>
+<DocumentsNet>1</DocumentsNet>
+<Turnover>10482,00</Turnover>
+<CreditTurnoverNat>10482,00</CreditTurnoverNat>
+<Document>
+<DocumentNumber>347</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>16.12.2019 15:26:19</Time>
+<OperType>06</OperType>
+<Amount>10 482.00</Amount>
+<AmountCurr>10 482.00</AmountCurr>
+<Payer>
+<Account>BY88BPSB69118170000149330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО "БПС-СБЕРБАНК"</Name>
+<Ground>Перевод с продажей ПП 347  от 16.12.19 Представительство ООО "Sun Pharmaceutical Industries LTD." (Республика Индия) в Республике Беларусь. Курс  2.0964 за 1 ед. валюты. СВОБОДНАЯ ПРОДАЖА ИНОСТРАННОЙ ВАЛЮТЫ. </Ground>
+</Payer>
+</Document>
+</CreditDocuments>
+
+</Statement>
+</Statements>
+<?xml version = "1.0" encoding="CP866"?>
+<?xml-stylesheet type="text/xsl"?>
+<Statements>
+<Date>17.12.2019</Date>
+<Time>23:26:56</Time>
+<Type>ВЫПИСКА</Type>
+<Account>BY86BPSB30211816590139330000</Account>
+<UNN>102332897</UNN>
+<Statement>
+<Account>BY86BPSB30211816590139330000</Account>
+<Name></Name>
+<BIC>BPSBBY2X</BIC>
+<CurrCode>933</CurrCode>
+<CurrCodeISO>BYN</CurrCodeISO>
+<OpeningBalance>6263,92</OpeningBalance>
+<OpeningBalanceNat>6263,92</OpeningBalanceNat>
+<KursRazn>0.00</KursRazn>
+<DatePrevious>16.12.2019</DatePrevious>
+<ClosingBalance>25145,80</ClosingBalance>
+<ClosingBalanceNat>25145,80</ClosingBalanceNat>
+<DateClosing>17.12.2019</DateClosing>
+<DebetDocuments>
+<DocumentsNet>10</DocumentsNet>
+<Turnover>33533,12</Turnover>
+<DebetTurnoverNat>33533,12</DebetTurnoverNat>
+<Document>
+<DocumentNumber>917</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>17.12.2019 13:05:49</Time>
+<OperType>01</OperType>
+<Amount>48.00</Amount>
+<AmountCurr>48.00</AmountCurr>
+<Beneficiar>
+<Account>BY24OLMP30123000623810000933</Account>
+<BIC>OLMPBY2X</BIC>
+<UNN>290711738</UNN>
+<NameBIC>ОАО 'БЕЛГАЗПРОМБАНК'</NameBIC>
+<Name>ЧУП "АКВАТОРИЯ ЛЮКС"</Name>
+<Ground>ПЛАТА ЗА МОЙКУ АВТОМОБИЛЕЙ СОГЛ АКТУ 696 ОТ 30.11.2019 СУММА 48,00 БЕЗ НДС </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>916</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>17.12.2019 13:05:49</Time>
+<OperType>01</OperType>
+<Amount>49.00</Amount>
+<AmountCurr>49.00</AmountCurr>
+<Beneficiar>
+<Account>BY11BLBB30120590683183001001</Account>
+<BIC>BLBBBY2X</BIC>
+<UNN>590683183</UNN>
+<NameBIC>ОАО 'БЕЛИНВЕСТБАНК'</NameBIC>
+<Name>ООО "НАЧИСТО"</Name>
+<Ground>ПЛАТА ЗА МОЙКУ АВТОМОБИЛЯ СОГЛ АКТУ 293 ОТ 30.11.2019. СУММА 49,00=. БЕЗ НДС </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>920</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>17.12.2019 13:07:25</Time>
+<OperType>01</OperType>
+<Amount>60.00</Amount>
+<AmountCurr>60.00</AmountCurr>
+<Beneficiar>
+<Account>BY80BLBB30120391813252001001</Account>
+<BIC>BLBBBY2X</BIC>
+<UNN>391813252</UNN>
+<NameBIC>ОАО 'БЕЛИНВЕСТБАНК'</NameBIC>
+<Name>ЧТУП "ВИТБИЗНЕС АС"</Name>
+<Ground>ПЛАТА ЗА МОЙКУ АВТОМОБИЛЕЙ СОГЛ АКТУ 000769 ОТ 30.11.19 БЕЗ НДС </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>918</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>17.12.2019 13:05:48</Time>
+<OperType>01</OperType>
+<Amount>61.50</Amount>
+<AmountCurr>61.50</AmountCurr>
+<Beneficiar>
+<Account>BY33OLMP30128000038530000933</Account>
+<BIC>OLMPBY2X</BIC>
+<UNN>490559899</UNN>
+<NameBIC>ОАО 'БЕЛГАЗПРОМБАНК'</NameBIC>
+<Name>ОДО "АВТОПРАЧКА"</Name>
+<Ground>ПЛАТА ЗА МОЙКУ АВТОМОБИЛЕЙ СОГЛ АКТУ 0000211 ОТ 30.11.19. БЕЗ НДС </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>919</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>17.12.2019 13:05:49</Time>
+<OperType>01</OperType>
+<Amount>67.00</Amount>
+<AmountCurr>67.00</AmountCurr>
+<Beneficiar>
+<Account>BY41OLMP30127000069340000933</Account>
+<BIC>OLMPBY2X</BIC>
+<UNN>790642657</UNN>
+<NameBIC>ОАО 'БЕЛГАЗПРОМБАНК'</NameBIC>
+<Name>ООО ЮГ-МОТОРС</Name>
+<Ground>ПЛАТА ЗА МОЙКУ АВТОМОБИЛЕЙ СОГЛ АКТУ 377 ОТ 30.11.19. БЕЗ НДС </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>915</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>17.12.2019 12:57:19</Time>
+<OperType>01</OperType>
+<Amount>150.00</Amount>
+<AmountCurr>150.00</AmountCurr>
+<Beneficiar>
+<Account>BY02BLNB30120000014294000933</Account>
+<BIC>BLNBBY2X</BIC>
+<UNN>190340795</UNN>
+<NameBIC>ОАО 'БНБ-БАНК'</NameBIC>
+<Name>ЧПТУП "ВОСКАН"</Name>
+<Ground>ПРЕДОПЛАТА ЗА МОЙКУ АВТОМОБИЛЕЙ ПО ДОГ 30/05-2017 ОТ 30.05.2017. СУММА -150,00=. БЕЗ НДС </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>923</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>17.12.2019 15:21:04</Time>
+<OperType>01</OperType>
+<Amount>238.23</Amount>
+<AmountCurr>238.23</AmountCurr>
+<Beneficiar>
+<Account>BY55ALFA30122080690040270000</Account>
+<BIC>ALFABY2X</BIC>
+<UNN>192169455</UNN>
+<NameBIC>ЗАО 'АЛЬФА-БАНК'</NameBIC>
+<Name>ООО "ЛОГИТРЭК"</Name>
+<Ground>ПРЕДОПЛАТА ЗА ТРАНСПОРТНО-ЭКСПЕДИЦИОННОЕ ОБСЛУЖИВАНИЕ ПРИ МЕЖДУНАРОДНЫХ ПЕРЕВОЗКАХ ЧЕРЕЗ ТРАНСПОРТНУЮ СЕТЬ DHL СОГЛ ДОГ ТА-0600/0000482-17-386 ОТ 21.11.17. ЦЕНЫ СОГЛ ТАРИФНОМУ СПРАВОЧНИКУ 13 ОТ 01.03.2019. СУММА СОГЛ СЧ 8475-П ОТ 17.12.19 238,23 БЕЛ.РУБ. БЕЗ НДС </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>922</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>17.12.2019 13:30:54</Time>
+<OperType>01</OperType>
+<Amount>4 458.79</Amount>
+<AmountCurr>4 458.79</AmountCurr>
+<Beneficiar>
+<Account>BY77BLBB30120190196523001001</Account>
+<BIC>BLBBBY2X</BIC>
+<UNN>190196523</UNN>
+<NameBIC>ОАО 'БЕЛИНВЕСТБАНК'</NameBIC>
+<Name>УП "ПРОФЕССИОНАЛЬНЫЕ ИЗДАНИЯ"</Name>
+<Ground>ПЛАТА ЗА УСЛУГИ ПО РАЗМЕЩЕНИЮ РЕКЛАМЫ СОГЛ СЧ 645 ОТ 19.11.19, 653 ОТ 22.11.19, 669 ОТ 28.11.19, 678 ОТ 03.12.19. СУММА-4458,79. БЕЗ НДС </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>921</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>17.12.2019 13:25:07</Time>
+<OperType>01</OperType>
+<Amount>6 885.00</Amount>
+<AmountCurr>6 885.00</AmountCurr>
+<Beneficiar>
+<Account>BY54ALFA30122150110160270000</Account>
+<BIC>ALFABY2X</BIC>
+<UNN>190567633</UNN>
+<NameBIC>ЗАО 'АЛЬФА-БАНК'</NameBIC>
+<Name>СООО "БРИТИТРЕЙД" (РБ)</Name>
+<Ground>ОПЛАТА ЗА ПРЕДОСТАВЛЕНИЕ ИНФОРМАЦИОННЫХ УСЛУГ СОГЛ АКТУ 2 К ЗАДАНИЮ 1 ОТ 30.11.19, АКТУ 1 К ЗАДАНИЮ 2 ОТ 30.11.19, В Т. Ч. НДС (20%) </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>924</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>17.12.2019 16:36:03</Time>
+<OperType>01</OperType>
+<Amount>21 515.60</Amount>
+<AmountCurr>21 515.60</AmountCurr>
+<Beneficiar>
+<Account>BY15BPSB30121060530109330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>191443889</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ЧПУП "ПОЛИПРОМОУШН"</Name>
+<Ground>ОПЛАТА ПЕЧАТНОЙ ПРОДУКЦИИ СОГЛ СЧ 262 ОТ 19.11.2019. В Т.Ч. НДС (20%) </Ground>
+</Beneficiar>
+</Document>
+</DebetDocuments> 
+<CreditDocuments>
+<DocumentsNet>1</DocumentsNet>
+<Turnover>52415,00</Turnover>
+<CreditTurnoverNat>52415,00</CreditTurnoverNat>
+<Document>
+<DocumentNumber>356</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>17.12.2019 13:15:40</Time>
+<OperType>06</OperType>
+<Amount>52 415.00</Amount>
+<AmountCurr>52 415.00</AmountCurr>
+<Payer>
+<Account>BY88BPSB69118170000149330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО "БПС-СБЕРБАНК"</Name>
+<Ground>Перевод с продажей ПП 356  от 17.12.19 Представительство ООО "Sun Pharmaceutical Industries LTD." (Республика Индия) в Республике Беларусь. Курс  2.0966 за 1 ед. валюты. СВОБОДНАЯ ПРОДАЖА ИНОСТРАННОЙ ВАЛЮТЫ. </Ground>
+</Payer>
+</Document>
+</CreditDocuments>
+
+</Statement>
+</Statements>
+<?xml version = "1.0" encoding="CP866"?>
+<?xml-stylesheet type="text/xsl"?>
+<Statements>
+<Date>18.12.2019</Date>
+<Time>23:25:24</Time>
+<Type>ВЫПИСКА</Type>
+<Account>BY86BPSB30211816590139330000</Account>
+<UNN>102332897</UNN>
+<Statement>
+<Account>BY86BPSB30211816590139330000</Account>
+<Name></Name>
+<BIC>BPSBBY2X</BIC>
+<CurrCode>933</CurrCode>
+<CurrCodeISO>BYN</CurrCodeISO>
+<OpeningBalance>25145,80</OpeningBalance>
+<OpeningBalanceNat>25145,8</OpeningBalanceNat>
+<KursRazn>0.00</KursRazn>
+<DatePrevious>17.12.2019</DatePrevious>
+<ClosingBalance>5191,06</ClosingBalance>
+<ClosingBalanceNat>5191,06</ClosingBalanceNat>
+<DateClosing>18.12.2019</DateClosing>
+<DebetDocuments>
+<DocumentsNet>9</DocumentsNet>
+<Turnover>19954,74</Turnover>
+<DebetTurnoverNat>19954,74</DebetTurnoverNat>
+<Document>
+<DocumentNumber>932</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>18.12.2019 13:21:47</Time>
+<OperType>01</OperType>
+<Amount>226.39</Amount>
+<AmountCurr>226.39</AmountCurr>
+<Beneficiar>
+<Account>BY93AKBB30121002701355500000</Account>
+<BIC>AKBBBY2X</BIC>
+<UNN>101007741</UNN>
+<NameBIC>ОАО 'АСБ БЕЛАРУСБАНК'</NameBIC>
+<Name>РУП "БЕЛТЕЛЕКОМ", РБ</Name>
+<Ground>ОПЛАТА УСЛУГ СВЯЗИ ЗА НОЯБРЬ И АБОНПЛАТУ В СООТВЕТСВИИ С ДОГ 136471 ОТ 31.05.2007. СУММА СОГЛ. СЧ/Ф 1012077 ОТ 30.11.19 </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>929</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>18.12.2019 13:14:32</Time>
+<OperType>01</OperType>
+<Amount>229.95</Amount>
+<AmountCurr>229.95</AmountCurr>
+<Beneficiar>
+<Account>BY58UNBS30120386100050010933</Account>
+<BIC>UNBSBY2X</BIC>
+<UNN>191157200</UNN>
+<NameBIC>ЗАО 'БСБ БАНК'</NameBIC>
+<Name>ЧП "КОРПОРАТИВНАЯ СВЯЗЬ"</Name>
+<Ground>ЗА ПИСЬМЕННЫЙ ПЕРЕВОД ДОКУМЕНТАЦИИ И ВОЗМЕЩЕНИЕ ГОСПОШЛИНЫ СОГЛ СЧ-Ф 3135,3135/1 ОТ 10.12.19. СУММА НДС=26,00 БЕЛ.РУБ. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>930</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>18.12.2019 13:17:52</Time>
+<OperType>01</OperType>
+<Amount>267.50</Amount>
+<AmountCurr>267.50</AmountCurr>
+<Beneficiar>
+<Account>BY51MMBN30120474600109330000</Account>
+<BIC>MMBNBY22</BIC>
+<UNN>191325762</UNN>
+<NameBIC>ОАО 'БАНК ДАБРАБЫТ'</NameBIC>
+<Name>ООО "МАКС И МАРКЕТИНГ"</Name>
+<Ground>ПЛАТА ЗА ИЗГОТОВЛЕНИЕ ПРОДУКЦИИ СОГЛ ДОГ 01-11-2019 ОТ 01.11.2019. СУММА-267,50, В Т.Ч. НДС (20%)-44,58=. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>926</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>18.12.2019 08:09:00</Time>
+<OperType>01</OperType>
+<Amount>353.52</Amount>
+<AmountCurr>353.52</AmountCurr>
+<Beneficiar>
+<Account>BY95PJCB30120035971000000933</Account>
+<BIC>PJCBBY2X</BIC>
+<UNN>101468169</UNN>
+<NameBIC>'ПРИОРБАНК' ОАО</NameBIC>
+<Name>ООО "ПРОФЕССИОНАЛЬНЫЕ ПРАВОВЫЕ СИСТЕМЫ"</Name>
+<Ground>ОПЛАТА ЗА ОБНОВЛЕНИЕ БД СОГЛ СЧ-ПРОТ 259977 ОТ 04.12.2019, В Т.Ч. НДС (20%) 58,92. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>933</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>18.12.2019 15:20:12</Time>
+<OperType>01</OperType>
+<Amount>941.21</Amount>
+<AmountCurr>941.21</AmountCurr>
+<Beneficiar>
+<Account>BY89BLBB30120100138514001001</Account>
+<BIC>BLBBBY2X</BIC>
+<UNN>100138514</UNN>
+<NameBIC>ОАО 'БЕЛИНВЕСТБАНК'</NameBIC>
+<Name>УП "СТРОЙНАУКА"</Name>
+<Ground>ОПЛАТА КОММ УСЛУГ ЗА НОЯБРЬ 2019 Г. СУММА СОГЛ АКТ-СЧ 1216,1217 ОТ 16.12.2019. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>927</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>18.12.2019 12:44:30</Time>
+<OperType>01</OperType>
+<Amount>2 000.00</Amount>
+<AmountCurr>2 000.00</AmountCurr>
+<Beneficiar>
+<Account>BY34OLMP31190000001710000933</Account>
+<BIC>OLMPBY2X</BIC>
+<UNN>100429079</UNN>
+<NameBIC>ОАО 'БЕЛГАЗПРОМБАНК'</NameBIC>
+<Name>НПО "БЕРЛИО"</Name>
+<Ground>ОПЛАТА ПОКУПКИ ЭЛЕКТРОННЫХ ДЕНЕГ "БЕРЛИО" СОГЛ ДОГ 24052 ОТ 05/03/2008 БЕЗ НДС </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>928</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>18.12.2019 13:07:48</Time>
+<OperType>01</OperType>
+<Amount>2 554.00</Amount>
+<AmountCurr>2 554.00</AmountCurr>
+<Beneficiar>
+<Account>BY51MMBN30120474600109330000</Account>
+<BIC>MMBNBY22</BIC>
+<UNN>191325762</UNN>
+<NameBIC>ОАО 'БАНК ДАБРАБЫТ'</NameBIC>
+<Name>ООО "МАКС И МАРКЕТИНГ"</Name>
+<Ground>ПЛАТА ЗА УСЛУГИ ПО ОРГАНИЗАЦИИ МЕРОПРИЯТИЙ СОГЛ 5 ОТ 11.12.2019. СУММА 2554,00=. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>931</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>18.12.2019 13:19:30</Time>
+<OperType>01</OperType>
+<Amount>4 680.00</Amount>
+<AmountCurr>4 680.00</AmountCurr>
+<Beneficiar>
+<Account>BY33BPSB30133012630119330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>691834277</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ИП ЛУКАШЕВИЧ СЕРГЕЙ ВАЛЕРЬЕВИЧ</Name>
+<Ground>ЗА ТРАНСПОРТНЫЕ УСЛУГИ. СУММА СОГЛ. АКТУ 35 ОТ 30.11.2019 </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>925</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>18.12.2019 08:08:53</Time>
+<OperType>01</OperType>
+<Amount>8 702.17</Amount>
+<AmountCurr>8 702.17</AmountCurr>
+<Beneficiar>
+<Account>BY30PJCB30122016831000000933</Account>
+<BIC>PJCBBY2X</BIC>
+<UNN>191751593</UNN>
+<NameBIC>'ПРИОРБАНК' ОАО</NameBIC>
+<Name>ООО "УПРАВЛЯЮЩАЯ КОМПАНИЯ ХОЛДИНГА "АПТЕКА ГРУПП"</Name>
+<Ground>ПЛАТА ЗА РЕКЛАМНЫЕ УСЛУГИ СОГЛ АКТАМ 23-2019,24-2019 ОТ 31.10.19, 25-2019,26-2019 ОТ 30.11.19. СУММА С НДС-8702,17=. </Ground>
+</Beneficiar>
+</Document>
+</DebetDocuments> 
+<CreditDocuments>
+<DocumentsNet>0</DocumentsNet>
+<Turnover>0,00</Turnover>
+<CreditTurnoverNat>0,00</CreditTurnoverNat>
+</CreditDocuments>
+
+</Statement>
+</Statements>
+<?xml version = "1.0" encoding="CP866"?>
+<?xml-stylesheet type="text/xsl"?>
+<Statements>
+<Date>19.12.2019</Date>
+<Time>23:30:15</Time>
+<Type>ВЫПИСКА</Type>
+<Account>BY86BPSB30211816590139330000</Account>
+<UNN>102332897</UNN>
+<Statement>
+<Account>BY86BPSB30211816590139330000</Account>
+<Name></Name>
+<BIC>BPSBBY2X</BIC>
+<CurrCode>933</CurrCode>
+<CurrCodeISO>BYN</CurrCodeISO>
+<OpeningBalance>5191,06</OpeningBalance>
+<OpeningBalanceNat>5191,06</OpeningBalanceNat>
+<KursRazn>0.00</KursRazn>
+<DatePrevious>18.12.2019</DatePrevious>
+<ClosingBalance>20209,06</ClosingBalance>
+<ClosingBalanceNat>20209,06</ClosingBalanceNat>
+<DateClosing>19.12.2019</DateClosing>
+<DebetDocuments>
+<DocumentsNet>9</DocumentsNet>
+<Turnover>247044,50</Turnover>
+<DebetTurnoverNat>247044,50</DebetTurnoverNat>
+<Document>
+<DocumentNumber>17594</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>19.12.2019 14:19:12</Time>
+<OperType>06</OperType>
+<Amount>1.20</Amount>
+<AmountCurr>1.20</AmountCurr>
+<Beneficiar>
+<Account>BY63BPSB81010000053159330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО "БПС-СБЕРБАНК"</Name>
+<Ground>Вознагр. за зачисление денежных средств на счета физ.лиц, по п/п №186 от 19.12.2019 согл. Договору 348-2017 от 07.07.2017г. Без НДС согласно п. 1.37.2. ст.118 Особенной части Налогового Кодекса </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>938</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>19.12.2019 15:07:47</Time>
+<OperType>01</OperType>
+<Amount>63.50</Amount>
+<AmountCurr>63.50</AmountCurr>
+<Beneficiar>
+<Account>BY68AEBK30120040914500000000</Account>
+<BIC>AEBKBY2X</BIC>
+<UNN>192483842</UNN>
+<NameBIC>ЗАО 'БТА БАНК'</NameBIC>
+<Name>ООО "СНАБСТРОЙПОСТАВКА"</Name>
+<Ground>ОПЛАТА УСЛУГ СОГЛ СЧ/Ф 21-У ОТ 13.12.2019. БЕЗ НДС В СООТВ С П.1.1.2 СТ.326 НК РБ </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>186</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>19.12.2019 14:19:11</Time>
+<OperType>01</OperType>
+<Amount>400.00</Amount>
+<AmountCurr>400.00</AmountCurr>
+<Beneficiar>
+<Account>BY13BPSB38198000000709330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО БПС-СБЕРБАНК</Name>
+<Ground>ЗАРАБОТНАЯ ПЛАТА ЗА НОЯБРЬ. ДОГОВОР N 348-2017 ОТ 07.07.2017.  СПИСОК НА ВЫПЛАТУ N 186 ОТ 19.12.2019. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>937</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>19.12.2019 15:06:14</Time>
+<OperType>01</OperType>
+<Amount>500.00</Amount>
+<AmountCurr>500.00</AmountCurr>
+<Beneficiar>
+<Account>BY59AKBB30120395800492000000</Account>
+<BIC>AKBBBY21200</BIC>
+<UNN>300064950</UNN>
+<NameBIC>ФИЛИАЛ N200 ВИТЕБСКОЕ ОБЛ. УПРАВЛЕНИЕ ОАО 'АСБ БЕЛАРУСБАНК', г Витебск</NameBIC>
+<Name>ОАО "ВИТЕБСКАЯ БРОЙЛЕРНАЯ ПТИЦЕФАБРИКА "РЕСТОРАН "У ГАННЫ"</Name>
+<Ground>ПРЕДОПЛАТА ЗА ПИТАНИЕ СОГЛ СЧ Ф 145 ОТ 16.12.2019. СУММА-500,00 РУБ. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>15983</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>19.12.2019 13:02:10</Time>
+<OperType>06</OperType>
+<Amount>679.80</Amount>
+<AmountCurr>679.80</AmountCurr>
+<Beneficiar>
+<Account>BY63BPSB81010000053159330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО "БПС-СБЕРБАНК"</Name>
+<Ground>Вознагр. за зачисление денежных средств на счета физ.лиц, по п/п №185 от 19.12.2019 согл. Договору 348-2017 от 07.07.2017г. Без НДС согласно п. 1.37.2. ст.118 Особенной части Налогового Кодекса </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>936</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>19.12.2019 15:04:03</Time>
+<OperType>01</OperType>
+<Amount>2 000.00</Amount>
+<AmountCurr>2 000.00</AmountCurr>
+<Beneficiar>
+<Account>BY30AKBB30121204700163000000</Account>
+<BIC>AKBBBY21300</BIC>
+<UNN>400022441</UNN>
+<NameBIC>ФИЛИАЛ N300 ГОМЕЛЬСКОЕ ОБЛ. УПРАВЛЕНИЕ ОАО 'АСБ БЕЛАРУСБАНК'</NameBIC>
+<Name>ЧКУП "ИРИНА-СЕРВИС"</Name>
+<Ground>ПРЕДОПЛАТА ЗА ПИТАНИЕ. СУММА СОГЛ СЧ/Ф 0000571 ОТ 16.12.19. СУММА НДС-232,57=. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>935</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>19.12.2019 14:54:29</Time>
+<OperType>01</OperType>
+<Amount>2 500.00</Amount>
+<AmountCurr>2 500.00</AmountCurr>
+<Beneficiar>
+<Account>BY94AKBB30120916600145500000</Account>
+<BIC>AKBBBY2X</BIC>
+<UNN>102377059</UNN>
+<NameBIC>ОАО 'АСБ БЕЛАРУСБАНК'</NameBIC>
+<Name>ООО "ТАБАК-ИНВЕСТ" ТЦ КОРОНА УРУЧЬЕ</Name>
+<Ground>ОПЛАТА ЗА ПРОДОВОЛЬСТВЕННЫЕ ТОВАРЫ. СУММА СОГЛ. ДОГОВОРУ 2018/038 ОТ 21.02.2018. СУММА С НДС - 2500,00 </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>934</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>19.12.2019 13:43:24</Time>
+<OperType>01</OperType>
+<Amount>14 300.00</Amount>
+<AmountCurr>14 300.00</AmountCurr>
+<Beneficiar>
+<Account>BY43AKBB36021010005210000000</Account>
+<BIC>AKBBBY2X</BIC>
+<UNN>101530339</UNN>
+<NameBIC>ОАО 'АСБ БЕЛАРУСБАНК'</NameBIC>
+<Name>ГЛАВНОЕ УПРАВЛЕНИЕ МИНИСТЕРСТВА ФИНАНСОВ РБ ПО Г.МИНСКУ</Name>
+<Ground>УПЛАТА ПОДОХОДНОГО НАЛОГА ИЗ З/П ЗА НОЯБРЬ 2019 Г. НАЛОГ УДЕРЖАН ИЗ З/П И ПЕРЕЧИСЛЕН В БЮДЖЕТ. СРОК ПЛАТЕЖА 19/12/2019. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>185</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>19.12.2019 13:02:09</Time>
+<OperType>01</OperType>
+<Amount>226 600.00</Amount>
+<AmountCurr>226 600.00</AmountCurr>
+<Beneficiar>
+<Account>BY13BPSB38198000000709330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО БПС-СБЕРБАНК</Name>
+<Ground>ЗАРАБОТНАЯ ПЛАТА ЗА НОЯБРЬ. ДОГОВОР N 348-2017 ОТ 07.07.2017.  СПИСОК НА ВЫПЛАТУ N 185 ОТ 19.12.2019. </Ground>
+</Beneficiar>
+</Document>
+</DebetDocuments> 
+<CreditDocuments>
+<DocumentsNet>1</DocumentsNet>
+<Turnover>262062,50</Turnover>
+<CreditTurnoverNat>262062,50</CreditTurnoverNat>
+<Document>
+<DocumentNumber>357</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>19.12.2019 11:58:02</Time>
+<OperType>06</OperType>
+<Amount>262 062.50</Amount>
+<AmountCurr>262 062.50</AmountCurr>
+<Payer>
+<Account>BY88BPSB69118170000149330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО "БПС-СБЕРБАНК"</Name>
+<Ground>Перевод с продажей ПП 357  от 19.12.19 Представительство ООО "Sun Pharmaceutical Industries LTD." (Республика Индия) в Республике Беларусь. Курс  2.0965 за 1 ед. валюты. СВОБОДНАЯ ПРОДАЖА ИНОСТРАННОЙ ВАЛЮТЫ. </Ground>
+</Payer>
+</Document>
+</CreditDocuments>
+
+</Statement>
+</Statements>
+<?xml version = "1.0" encoding="CP866"?>
+<?xml-stylesheet type="text/xsl"?>
+<Statements>
+<Date>20.12.2019</Date>
+<Time>23:27:42</Time>
+<Type>ВЫПИСКА</Type>
+<Account>BY86BPSB30211816590139330000</Account>
+<UNN>102332897</UNN>
+<Statement>
+<Account>BY86BPSB30211816590139330000</Account>
+<Name></Name>
+<BIC>BPSBBY2X</BIC>
+<CurrCode>933</CurrCode>
+<CurrCodeISO>BYN</CurrCodeISO>
+<OpeningBalance>20209,06</OpeningBalance>
+<OpeningBalanceNat>20209,06</OpeningBalanceNat>
+<KursRazn>0.00</KursRazn>
+<DatePrevious>19.12.2019</DatePrevious>
+<ClosingBalance>15894,01</ClosingBalance>
+<ClosingBalanceNat>15894,01</ClosingBalanceNat>
+<DateClosing>20.12.2019</DateClosing>
+<DebetDocuments>
+<DocumentsNet>6</DocumentsNet>
+<Turnover>4315,05</Turnover>
+<DebetTurnoverNat>4315,05</DebetTurnoverNat>
+<Document>
+<DocumentNumber>20103</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>20.12.2019 12:10:47</Time>
+<OperType>06</OperType>
+<Amount>5.85</Amount>
+<AmountCurr>5.85</AmountCurr>
+<Beneficiar>
+<Account>BY63BPSB81010000053159330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО "БПС-СБЕРБАНК"</Name>
+<Ground>Вознагр. за зачисление денежных средств на счета физ.лиц, по п/п №187 от 20.12.2019 согл. Договору 348-2017 от 07.07.2017г. Без НДС согласно п. 1.37.2. ст.118 Особенной части Налогового Кодекса </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>942</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>20.12.2019 15:06:41</Time>
+<OperType>01</OperType>
+<Amount>148.00</Amount>
+<AmountCurr>148.00</AmountCurr>
+<Beneficiar>
+<Account>BY19ALFA30122336570050270000</Account>
+<BIC>ALFABY2X</BIC>
+<UNN>191128758</UNN>
+<NameBIC>ЗАО 'АЛЬФА-БАНК'</NameBIC>
+<Name>ООО "НОВОЕ ЗАВТРА"</Name>
+<Ground>ОПЛАТА УСЛУГ СОГЛ СЧ 110 ОТ 11.12.2019. БЕЗ НДС </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>940</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>20.12.2019 10:27:47</Time>
+<OperType>01</OperType>
+<Amount>476.80</Amount>
+<AmountCurr>476.80</AmountCurr>
+<Beneficiar>
+<Account>BY53BLBB30120591022364001001</Account>
+<BIC>BLBBBY2X</BIC>
+<UNN>591022364</UNN>
+<NameBIC>ОАО 'БЕЛИНВЕСТБАНК'</NameBIC>
+<Name>ЧТПУП "КЛЕВЕР БИГ"</Name>
+<Ground>ПЛАТА ЗА ПИТАНИЕ. СУММА СОГЛ АКТУ ОТ 29.11.19. БЕЗ НДС. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>941</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>20.12.2019 15:03:37</Time>
+<OperType>01</OperType>
+<Amount>734.40</Amount>
+<AmountCurr>734.40</AmountCurr>
+<Beneficiar>
+<Account>BY13BLNB30120000090561000933</Account>
+<BIC>BLNBBY2X</BIC>
+<UNN>191758465</UNN>
+<NameBIC>ОАО 'БНБ-БАНК'</NameBIC>
+<Name>ООО "ИННОВАЦИОННЫЕ ИДЕИ"</Name>
+<Ground>ПЛАТА ЗА УСЛУГИ СОГЛ ДОГ 15ТР 19 11 03 ОТ 13.12.2019. СУММА 734,40=. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>939</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>20.12.2019 10:21:36</Time>
+<OperType>01</OperType>
+<Amount>1 000.00</Amount>
+<AmountCurr>1 000.00</AmountCurr>
+<Beneficiar>
+<Account>BY46AKBB30121056100281300000</Account>
+<BIC>AKBBBY21802</BIC>
+<UNN>200433278</UNN>
+<NameBIC>ФИЛИАЛ N802 ОАО 'АСБ БЕЛАРУСБАНК'</NameBIC>
+<Name>ОАО "ЭКЗОН"</Name>
+<Ground>ЗА ОРГАНИЗАЦИЮ И ПРОВЕДЕНИЕ МАРКЕТИНГОВЫХ МЕРОПРИЯТИЙ СОГЛ ДОГ. ОТ 01.12.2019. СУММА-1000,00 РУБ </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>187</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>20.12.2019 12:10:47</Time>
+<OperType>01</OperType>
+<Amount>1 950.00</Amount>
+<AmountCurr>1 950.00</AmountCurr>
+<Beneficiar>
+<Account>BY13BPSB38198000000709330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО БПС-СБЕРБАНК</Name>
+<Ground>ЗАРАБОТНАЯ ПЛАТА ЗА НОЯБРЬ. ДОГОВОР N 348-2017 ОТ 07.07.2017.  СПИСОК НА ВЫПЛАТУ N 187 ОТ 20.12.2019. </Ground>
+</Beneficiar>
+</Document>
+</DebetDocuments> 
+<CreditDocuments>
+<DocumentsNet>0</DocumentsNet>
+<Turnover>0,00</Turnover>
+<CreditTurnoverNat>0,00</CreditTurnoverNat>
+</CreditDocuments>
+
+</Statement>
+</Statements>
+<?xml version = "1.0" encoding="CP866"?>
+<?xml-stylesheet type="text/xsl"?>
+<Statements>
+<Date>23.12.2019</Date>
+<Time>23:28:13</Time>
+<Type>ВЫПИСКА</Type>
+<Account>BY86BPSB30211816590139330000</Account>
+<UNN>102332897</UNN>
+<Statement>
+<Account>BY86BPSB30211816590139330000</Account>
+<Name></Name>
+<BIC>BPSBBY2X</BIC>
+<CurrCode>933</CurrCode>
+<CurrCodeISO>BYN</CurrCodeISO>
+<OpeningBalance>15894,01</OpeningBalance>
+<OpeningBalanceNat>15894,01</OpeningBalanceNat>
+<KursRazn>0.00</KursRazn>
+<DatePrevious>20.12.2019</DatePrevious>
+<ClosingBalance>13694,01</ClosingBalance>
+<ClosingBalanceNat>13694,01</ClosingBalanceNat>
+<DateClosing>23.12.2019</DateClosing>
+<DebetDocuments>
+<DocumentsNet>2</DocumentsNet>
+<Turnover>2200,00</Turnover>
+<DebetTurnoverNat>2200,00</DebetTurnoverNat>
+<Document>
+<DocumentNumber>944</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>23.12.2019 13:58:27</Time>
+<OperType>01</OperType>
+<Amount>200.00</Amount>
+<AmountCurr>200.00</AmountCurr>
+<Beneficiar>
+<Account>BY72AKBB30121002800115500000</Account>
+<BIC>AKBBBY2X</BIC>
+<UNN>101015738</UNN>
+<NameBIC>ОАО 'АСБ БЕЛАРУСБАНК'</NameBIC>
+<Name>РУП "БЕЛПОЧТА"</Name>
+<Ground>ПОПОЛНЕНИЕ АВАНСОВОЙ КНИЖКИ ДЛЯ ОПЛАТЫ УСЛУГ РУП "БЕЛПОЧТА" </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>943</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>23.12.2019 10:52:59</Time>
+<OperType>01</OperType>
+<Amount>2 000.00</Amount>
+<AmountCurr>2 000.00</AmountCurr>
+<Beneficiar>
+<Account>BY34OLMP31190000001710000933</Account>
+<BIC>OLMPBY2X</BIC>
+<UNN>100429079</UNN>
+<NameBIC>ОАО 'БЕЛГАЗПРОМБАНК'</NameBIC>
+<Name>НПО "БЕРЛИО"</Name>
+<Ground>ОПЛАТА ПОКУПКИ ЭЛЕКТРОННЫХ ДЕНЕГ "БЕРЛИО" СОГЛ ДОГ 24052 ОТ 05/03/2008 БЕЗ НДС </Ground>
+</Beneficiar>
+</Document>
+</DebetDocuments> 
+<CreditDocuments>
+<DocumentsNet>0</DocumentsNet>
+<Turnover>0,00</Turnover>
+<CreditTurnoverNat>0,00</CreditTurnoverNat>
+</CreditDocuments>
+
+</Statement>
+</Statements>
+<?xml version = "1.0" encoding="CP866"?>
+<?xml-stylesheet type="text/xsl"?>
+<Statements>
+<Date>24.12.2019</Date>
+<Time>23:28:14</Time>
+<Type>ВЫПИСКА</Type>
+<Account>BY86BPSB30211816590139330000</Account>
+<UNN>102332897</UNN>
+<Statement>
+<Account>BY86BPSB30211816590139330000</Account>
+<Name></Name>
+<BIC>BPSBBY2X</BIC>
+<CurrCode>933</CurrCode>
+<CurrCodeISO>BYN</CurrCodeISO>
+<OpeningBalance>13694,01</OpeningBalance>
+<OpeningBalanceNat>13694,01</OpeningBalanceNat>
+<KursRazn>0.00</KursRazn>
+<DatePrevious>23.12.2019</DatePrevious>
+<ClosingBalance>5130,16</ClosingBalance>
+<ClosingBalanceNat>5130,16</ClosingBalanceNat>
+<DateClosing>24.12.2019</DateClosing>
+<DebetDocuments>
+<DocumentsNet>7</DocumentsNet>
+<Turnover>29422,85</Turnover>
+<DebetTurnoverNat>29422,85</DebetTurnoverNat>
+<Document>
+<DocumentNumber>947</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>24.12.2019 12:52:33</Time>
+<OperType>01</OperType>
+<Amount>28.80</Amount>
+<AmountCurr>28.80</AmountCurr>
+<Beneficiar>
+<Account>BY38PJCB30120151551000000933</Account>
+<BIC>PJCBBY2X</BIC>
+<UNN>690027140</UNN>
+<NameBIC>'ПРИОРБАНК' ОАО</NameBIC>
+<Name>ООО "МИР ВОДЫ"</Name>
+<Ground>ПЛАТА ЗА ВОДУ ПИТЬЕВУЮ СОГЛ СЧ-ПР Т 113543 ОТ 24.12.19. СУММА  НДС 4,80=. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>946</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>24.12.2019 12:52:32</Time>
+<OperType>01</OperType>
+<Amount>39.60</Amount>
+<AmountCurr>39.60</AmountCurr>
+<Beneficiar>
+<Account>BY71MMBN30125113700109330000</Account>
+<BIC>MMBNBY22</BIC>
+<UNN>190513391</UNN>
+<NameBIC>ОАО 'БАНК ДАБРАБЫТ'</NameBIC>
+<Name>СООО "АВТОСЕТЬ"</Name>
+<Ground>ОПЛАТА ЗА ОБСЛУЖИВАНИЕ АВТОМОБИЛЯ СОГЛ АКТУ AVZ02626 ОТ 31.10.2019, В Т.Ч. НДС (20%)-6,59=. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>14413</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>24.12.2019 14:57:33</Time>
+<OperType>06</OperType>
+<Amount>41.28</Amount>
+<AmountCurr>41.28</AmountCurr>
+<Beneficiar>
+<Account>BY63BPSB81010000053159330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО "БПС-СБЕРБАНК"</Name>
+<Ground>Вознагр. за зачисление денежных средств на счета физ.лиц, по п/п №188 от 24.12.2019 согл. Договору 348-2017 от 07.07.2017г. Без НДС согласно п. 1.37.2. ст.118 Особенной части Налогового Кодекса </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>945</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>24.12.2019 12:52:32</Time>
+<OperType>01</OperType>
+<Amount>54.67</Amount>
+<AmountCurr>54.67</AmountCurr>
+<Beneficiar>
+<Account>BY05AKBB30121227400152000000</Account>
+<BIC>AKBBBY21200</BIC>
+<UNN>391362258</UNN>
+<NameBIC>ФИЛИАЛ N200 ВИТЕБСКОЕ ОБЛ. УПРАВЛЕНИЕ ОАО 'АСБ БЕЛАРУСБАНК', г Витебск</NameBIC>
+<Name>ООО "ВИТЕБСКАВТОСИТИ"</Name>
+<Ground>ПЛАТА ЗА ТЕХНИЧЕСКОЕ ОБСЛУЖИВАНИЕ АВТОМОБИЛЯ СОГЛ АКТУ 62285 ОТ 17.12.19. СУММА С НДС 54,67=. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>949</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>24.12.2019 15:07:27</Time>
+<OperType>01</OperType>
+<Amount>5 500.00</Amount>
+<AmountCurr>5 500.00</AmountCurr>
+<Beneficiar>
+<Account>BY30AKBB36029450100090000000</Account>
+<BIC>AKBBBY2X</BIC>
+<UNN>104521003</UNN>
+<NameBIC>ОАО 'АСБ БЕЛАРУСБАНК'</NameBIC>
+<Name>ГУ МФ РБ ПО Г.МИНСКУ</Name>
+<Ground>ОПЛАТА ОТЧИСЛЕНИЙ В ФСЗН ЗА НОЯБРЬ 2019 Г. СРОК ПЛАТЕЖА - 24/12/2019 РЕГ.521051245 </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>948</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>24.12.2019 15:04:20</Time>
+<OperType>01</OperType>
+<Amount>10 000.00</Amount>
+<AmountCurr>10 000.00</AmountCurr>
+<Beneficiar>
+<Account>BY43AKBB36021010005210000000</Account>
+<BIC>AKBBBY2X</BIC>
+<UNN>101530339</UNN>
+<NameBIC>ОАО 'АСБ БЕЛАРУСБАНК'</NameBIC>
+<Name>ГЛАВНОЕ УПРАВЛЕНИЕ МИНИСТЕРСТВА ФИНАНСОВ РБ ПО Г.МИНСКУ</Name>
+<Ground>УПЛАТА ПОДОХОДНОГО НАЛОГА ИЗ З/П ЗА НОЯБРЬ 2019 Г. НАЛОГ УДЕРЖАН ИЗ З/П И ПЕРЕЧИСЛЕН В БЮДЖЕТ. СРОК ПЛАТЕЖА 24/12/2019. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>188</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>24.12.2019 14:57:32</Time>
+<OperType>01</OperType>
+<Amount>13 758.50</Amount>
+<AmountCurr>13 758.50</AmountCurr>
+<Beneficiar>
+<Account>BY13BPSB38198000000709330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО БПС-СБЕРБАНК</Name>
+<Ground>ЗАРАБОТНАЯ ПЛАТА ЗА НОЯБРЬ. ДОГОВОР N 348-2017 ОТ 07.07.2017.  СПИСОК НА ВЫПЛАТУ N 188 ОТ 24.12.2019. </Ground>
+</Beneficiar>
+</Document>
+</DebetDocuments> 
+<CreditDocuments>
+<DocumentsNet>1</DocumentsNet>
+<Turnover>20859,00</Turnover>
+<CreditTurnoverNat>20859,00</CreditTurnoverNat>
+<Document>
+<DocumentNumber>361</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>24.12.2019 14:22:54</Time>
+<OperType>06</OperType>
+<Amount>20 859.00</Amount>
+<AmountCurr>20 859.00</AmountCurr>
+<Payer>
+<Account>BY88BPSB69118170000149330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО "БПС-СБЕРБАНК"</Name>
+<Ground>Перевод с продажей ПП 361  от 24.12.19 Представительство ООО "Sun Pharmaceutical Industries LTD." (Республика Индия) в Республике Беларусь. Курс  2.0859 за 1 ед. валюты. СВОБОДНАЯ ПРОДАЖА ИНОСТРАННОЙ ВАЛЮТЫ. </Ground>
+</Payer>
+</Document>
+</CreditDocuments>
+
+</Statement>
+</Statements>
+<?xml version = "1.0" encoding="CP866"?>
+<?xml-stylesheet type="text/xsl"?>
+<Statements>
+<Date>26.12.2019</Date>
+<Time>23:27:05</Time>
+<Type>ВЫПИСКА</Type>
+<Account>BY86BPSB30211816590139330000</Account>
+<UNN>102332897</UNN>
+<Statement>
+<Account>BY86BPSB30211816590139330000</Account>
+<Name></Name>
+<BIC>BPSBBY2X</BIC>
+<CurrCode>933</CurrCode>
+<CurrCodeISO>BYN</CurrCodeISO>
+<OpeningBalance>5130,16</OpeningBalance>
+<OpeningBalanceNat>5130,16</OpeningBalanceNat>
+<KursRazn>0.00</KursRazn>
+<DatePrevious>24.12.2019</DatePrevious>
+<ClosingBalance>5717,71</ClosingBalance>
+<ClosingBalanceNat>5717,71</ClosingBalanceNat>
+<DateClosing>26.12.2019</DateClosing>
+<DebetDocuments>
+<DocumentsNet>8</DocumentsNet>
+<Turnover>9889,45</Turnover>
+<DebetTurnoverNat>9889,45</DebetTurnoverNat>
+<Document>
+<DocumentNumber>8530</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>26.12.2019 11:18:35</Time>
+<OperType>06</OperType>
+<Amount>4.20</Amount>
+<AmountCurr>4.20</AmountCurr>
+<Beneficiar>
+<Account>BY63BPSB81010000053159330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО "БПС-СБЕРБАНК"</Name>
+<Ground>Вознагр. за зачисление денежных средств на счета физ.лиц, по п/п №189 от 26.12.2019 согл. Договору 348-2017 от 07.07.2017г. Без НДС согласно п. 1.37.2. ст.118 Особенной части Налогового Кодекса </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>954</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>26.12.2019 11:32:13</Time>
+<OperType>01</OperType>
+<Amount>26.46</Amount>
+<AmountCurr>26.46</AmountCurr>
+<Beneficiar>
+<Account>BY72AKBB30121002800115500000</Account>
+<BIC>AKBBBY2X</BIC>
+<UNN>101015738</UNN>
+<NameBIC>ОАО 'АСБ БЕЛАРУСБАНК'</NameBIC>
+<Name>РУП "БЕЛПОЧТА"</Name>
+<Ground>АБОНЕМЕНТ "ДОСТАВКА ПОЧТЫ НА ЭТАЖ" ЗА ЯНВАРЬ-МАРТ 2020 СОГЛ. СЧ-Ф 113/23 ОТ 23.12.2019 </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>955</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>26.12.2019 12:38:50</Time>
+<OperType>01</OperType>
+<Amount>326.34</Amount>
+<AmountCurr>326.34</AmountCurr>
+<Beneficiar>
+<Account>BY77PJCB30120039541000000933</Account>
+<BIC>PJCBBY2X</BIC>
+<UNN>190098681</UNN>
+<NameBIC>'ПРИОРБАНК' ОАО</NameBIC>
+<Name>ОДО "ФАРМАКОН"</Name>
+<Ground>ОПЛАТА АРЕНДЫ ПОМЕЩЕНИЯ ЗА НОЯБРЬ 2019 СОГЛ АКТУ НОЯ 19/7 ОТ 30.11.19. СУММА НДС 54,39=. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>953</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>26.12.2019 11:19:29</Time>
+<OperType>01</OperType>
+<Amount>340.00</Amount>
+<AmountCurr>340.00</AmountCurr>
+<Beneficiar>
+<Account>BY84OLMP30120001194620000933</Account>
+<BIC>OLMPBY2X</BIC>
+<UNN>191277174</UNN>
+<NameBIC>ОАО 'БЕЛГАЗПРОМБАНК'</NameBIC>
+<Name>ООО "РЕМАККЛИНИНГ"</Name>
+<Ground>ОПЛАТА УСЛУГ ПО КОМПЛЕКСНОЙ УБОРКЕ СОГЛ СЧ 66 ОТ 24.12.2019. СУММА 340,00 БЕЗ НДС. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>950</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>26.12.2019 10:46:36</Time>
+<OperType>01</OperType>
+<Amount>1 000.00</Amount>
+<AmountCurr>1 000.00</AmountCurr>
+<Beneficiar>
+<Account>BY16PJCB30126013421000000933</Account>
+<BIC>PJCBBY2X</BIC>
+<UNN>590663999</UNN>
+<NameBIC>'ПРИОРБАНК' ОАО</NameBIC>
+<Name>ООО "АГЕНТСТВО МЕДИЦИНСКОГО МАРКЕТИНГА"</Name>
+<Ground>ПЛАТА ЗА УСЛУГИ ПО ОРГАНИЗАЦИИ МЕРОПРИЯТИЯ СОГЛ СЧ 1 ОТ 03/12/19 К ДОГ. К-3-12-19/2 ОТ 03.12.2019. СУММА 1000,00=. БЕЗ НДС </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>189</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>26.12.2019 11:18:34</Time>
+<OperType>01</OperType>
+<Amount>1 400.00</Amount>
+<AmountCurr>1 400.00</AmountCurr>
+<Beneficiar>
+<Account>BY13BPSB38198000000709330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО БПС-СБЕРБАНК</Name>
+<Ground>ЗАРАБОТНАЯ ПЛАТА ЗА ДЕКАБРЬ. ДОГОВОР N 348-2017 ОТ 07.07.2017.  СПИСОК НА ВЫПЛАТУ N 189 ОТ 26.12.2019. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>951</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>26.12.2019 10:48:56</Time>
+<OperType>01</OperType>
+<Amount>1 932.45</Amount>
+<AmountCurr>1 932.45</AmountCurr>
+<Beneficiar>
+<Account>BY66MTBK30120001093300062321</Account>
+<BIC>MTBKBY22</BIC>
+<UNN>100608743</UNN>
+<NameBIC>ЗАО 'МТБАНК'</NameBIC>
+<Name>ЗАО "СИТБЕЛ"</Name>
+<Ground>ОПЛАТА ЗА ТО АВТОМОБИЛЕЙ СОГЛ СЧ ПР 28353 ОТ 23.12.19, 28383 ОТ 24.12.19. СУММА С НДС - 1932,45=. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>952</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>26.12.2019 11:12:13</Time>
+<OperType>01</OperType>
+<Amount>4 860.00</Amount>
+<AmountCurr>4 860.00</AmountCurr>
+<Beneficiar>
+<Account>BY33BPSB30133012630119330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>691834277</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ИП ЛУКАШЕВИЧ СЕРГЕЙ ВАЛЕРЬЕВИЧ</Name>
+<Ground>ЗА ТРАНСПОРТНЫЕ УСЛУГИ. СУММА СОГЛ. АКТУ 35 ОТ 30.11.2019 </Ground>
+</Beneficiar>
+</Document>
+</DebetDocuments> 
+<CreditDocuments>
+<DocumentsNet>1</DocumentsNet>
+<Turnover>10477,00</Turnover>
+<CreditTurnoverNat>10477,00</CreditTurnoverNat>
+<Document>
+<DocumentNumber>363</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>26.12.2019 11:09:31</Time>
+<OperType>06</OperType>
+<Amount>10 477.00</Amount>
+<AmountCurr>10 477.00</AmountCurr>
+<Payer>
+<Account>BY88BPSB69118170000149330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО "БПС-СБЕРБАНК"</Name>
+<Ground>Перевод с продажей ПП 363  от 26.12.19 Представительство ООО "Sun Pharmaceutical Industries LTD." (Республика Индия) в Республике Беларусь. Курс  2.0954 за 1 ед. валюты. СВОБОДНАЯ ПРОДАЖА ИНОСТРАННОЙ ВАЛЮТЫ. </Ground>
+</Payer>
+</Document>
+</CreditDocuments>
+
+</Statement>
+</Statements>
+<?xml version = "1.0" encoding="CP866"?>
+<?xml-stylesheet type="text/xsl"?>
+<Statements>
+<Date>27.12.2019</Date>
+<Time>23:44:53</Time>
+<Type>ВЫПИСКА</Type>
+<Account>BY86BPSB30211816590139330000</Account>
+<UNN>102332897</UNN>
+<Statement>
+<Account>BY86BPSB30211816590139330000</Account>
+<Name></Name>
+<BIC>BPSBBY2X</BIC>
+<CurrCode>933</CurrCode>
+<CurrCodeISO>BYN</CurrCodeISO>
+<OpeningBalance>5717,71</OpeningBalance>
+<OpeningBalanceNat>5717,71</OpeningBalanceNat>
+<KursRazn>0.00</KursRazn>
+<DatePrevious>26.12.2019</DatePrevious>
+<ClosingBalance>3193,63</ClosingBalance>
+<ClosingBalanceNat>3193,63</ClosingBalanceNat>
+<DateClosing>27.12.2019</DateClosing>
+<DebetDocuments>
+<DocumentsNet>9</DocumentsNet>
+<Turnover>13006,08</Turnover>
+<DebetTurnoverNat>13006,08</DebetTurnoverNat>
+<Document>
+<DocumentNumber>15122</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>27.12.2019 15:02:51</Time>
+<OperType>06</OperType>
+<Amount>14.44</Amount>
+<AmountCurr>14.44</AmountCurr>
+<Beneficiar>
+<Account>BY63BPSB81010000053159330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО "БПС-СБЕРБАНК"</Name>
+<Ground>Вознагр. за зачисление денежных средств на счета физ.лиц, по п/п №190 от 27.12.2019 согл. Договору 348-2017 от 07.07.2017г. Без НДС согласно п. 1.37.2. ст.118 Особенной части Налогового Кодекса </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>960</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>27.12.2019 14:34:14</Time>
+<OperType>01</OperType>
+<Amount>75.56</Amount>
+<AmountCurr>75.56</AmountCurr>
+<Beneficiar>
+<Account>BY87TECN30127043200160000000</Account>
+<BIC>TECNBY22</BIC>
+<UNN>101346274</UNN>
+<NameBIC>ОАО 'ТЕХНОБАНК'</NameBIC>
+<Name>ОДО "КОЛЕСОПЛЮС"</Name>
+<Ground>ПЛАТА ЗА УСЛУГИ СОГЛ СЧ-Ф 00015159 ОТ 01.12.2019. СУММА С НДС 75,56=. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>961</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>27.12.2019 14:37:15</Time>
+<OperType>01</OperType>
+<Amount>209.75</Amount>
+<AmountCurr>209.75</AmountCurr>
+<Beneficiar>
+<Account>BY51MMBN30120474600109330000</Account>
+<BIC>MMBNBY22</BIC>
+<UNN>191325762</UNN>
+<NameBIC>ОАО 'БАНК ДАБРАБЫТ'</NameBIC>
+<Name>ООО "МАКС И МАРКЕТИНГ"</Name>
+<Ground>ДОПЛАТА ЗА УСЛУГИ ПО ОРГАНИЗАЦИИ МЕРОПРИЯТИЙ СОГЛ СЧ 5/2 ОТ 24.12.2019. СУММА 209,75=. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>958</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>27.12.2019 14:29:15</Time>
+<OperType>01</OperType>
+<Amount>256.80</Amount>
+<AmountCurr>256.80</AmountCurr>
+<Beneficiar>
+<Account>BY58UNBS30120386100050010933</Account>
+<BIC>UNBSBY2X</BIC>
+<UNN>191157200</UNN>
+<NameBIC>ЗАО 'БСБ БАНК'</NameBIC>
+<Name>ЧП "КОРПОРАТИВНАЯ СВЯЗЬ"</Name>
+<Ground>ЗА ПИСЬМЕННЫЙ ПЕРЕВОД ДОКУМЕНТАЦИИ И ВОЗМЕЩЕНИЕ ГОСПОШЛИНЫ СОГЛ СЧ-Ф 3144,3144/1 ОТ 24.12.19. СУММА НДС=19,00 БЕЛ.РУБ. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>957</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>27.12.2019 13:36:41</Time>
+<OperType>01</OperType>
+<Amount>516.20</Amount>
+<AmountCurr>516.20</AmountCurr>
+<Beneficiar>
+<Account>BY08BPSB30121160630169330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>300240207</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ООО ПКФ ЯССА</Name>
+<Ground>ПЛАТА ЗА ПРЕДОСТАВЛЕНИЕ ИНФ.УСЛУГ ЗА ОКТ-ДЕК 19 СОГЛ СЧ 2 ОТ 27.12.2019. СУММА 516,20, В Т Ч НДС 86,03=. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>962</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>27.12.2019 14:50:01</Time>
+<OperType>01</OperType>
+<Amount>658.50</Amount>
+<AmountCurr>658.50</AmountCurr>
+<Beneficiar>
+<Account>BY87BPSB30123046810119330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>193066113</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ООО "ТАМАРИНДА ФУД"</Name>
+<Ground>ПЛАТА ЗА ПИТАНИЕ.СУММА СОГЛ ТН 0397455 ОТ 26.12.2019. СУММА 658,50, В Т Ч НДС 87,22=. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>956</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>27.12.2019 10:52:58</Time>
+<OperType>01</OperType>
+<Amount>1 000.00</Amount>
+<AmountCurr>1 000.00</AmountCurr>
+<Beneficiar>
+<Account>BY34OLMP31190000001710000933</Account>
+<BIC>OLMPBY2X</BIC>
+<UNN>100429079</UNN>
+<NameBIC>ОАО 'БЕЛГАЗПРОМБАНК'</NameBIC>
+<Name>НПО "БЕРЛИО"</Name>
+<Ground>ОПЛАТА ПОКУПКИ ЭЛЕКТРОННЫХ ДЕНЕГ "БЕРЛИО" СОГЛ ДОГ 24052 ОТ 05/03/2008 БЕЗ НДС </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>190</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>27.12.2019 15:02:51</Time>
+<OperType>01</OperType>
+<Amount>4 812.32</Amount>
+<AmountCurr>4 812.32</AmountCurr>
+<Beneficiar>
+<Account>BY13BPSB38198000000709330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО БПС-СБЕРБАНК</Name>
+<Ground>ЗАРАБОТНАЯ ПЛАТА ЗА ДЕКАБРЬ. ДОГОВОР N 348-2017 ОТ 07.07.2017.  СПИСОК НА ВЫПЛАТУ N 190 ОТ 27.12.2019. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>959</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>27.12.2019 14:32:22</Time>
+<OperType>01</OperType>
+<Amount>5 462.51</Amount>
+<AmountCurr>5 462.51</AmountCurr>
+<Beneficiar>
+<Account>BY66MTBK30120001093300062321</Account>
+<BIC>MTBKBY22</BIC>
+<UNN>100608743</UNN>
+<NameBIC>ЗАО 'МТБАНК'</NameBIC>
+<Name>ЗАО "СИТБЕЛ"</Name>
+<Ground>ОПЛАТА ЗА ТО АВТОМОБИЛЕЙ СОГЛ СЧ ПР 28081 ОТ 05.12.19,28108 ОТ 06.12.19,28261 ОТ 17.12.19, 28397,28410,28386 ОТ 26.12.19. СУММА С НДС - 5462,51=. </Ground>
+</Beneficiar>
+</Document>
+</DebetDocuments> 
+<CreditDocuments>
+<DocumentsNet>1</DocumentsNet>
+<Turnover>10482,00</Turnover>
+<CreditTurnoverNat>10482,00</CreditTurnoverNat>
+<Document>
+<DocumentNumber>364</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>27.12.2019 14:21:50</Time>
+<OperType>06</OperType>
+<Amount>10 482.00</Amount>
+<AmountCurr>10 482.00</AmountCurr>
+<Payer>
+<Account>BY88BPSB69118170000149330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО "БПС-СБЕРБАНК"</Name>
+<Ground>Перевод с продажей ПП 364  от 27.12.19 Представительство ООО "Sun Pharmaceutical Industries LTD." (Республика Индия) в Республике Беларусь. Курс  2.0964 за 1 ед. валюты. СВОБОДНАЯ ПРОДАЖА ИНОСТРАННОЙ ВАЛЮТЫ. </Ground>
+</Payer>
+</Document>
+</CreditDocuments>
+
+</Statement>
+</Statements>
+<?xml version = "1.0" encoding="CP866"?>
+<?xml-stylesheet type="text/xsl"?>
+<Statements>
+<Date>30.12.2019</Date>
+<Time>23:30:03</Time>
+<Type>ВЫПИСКА</Type>
+<Account>BY86BPSB30211816590139330000</Account>
+<UNN>102332897</UNN>
+<Statement>
+<Account>BY86BPSB30211816590139330000</Account>
+<Name></Name>
+<BIC>BPSBBY2X</BIC>
+<CurrCode>933</CurrCode>
+<CurrCodeISO>BYN</CurrCodeISO>
+<OpeningBalance>3193,63</OpeningBalance>
+<OpeningBalanceNat>3193,63</OpeningBalanceNat>
+<KursRazn>0.00</KursRazn>
+<DatePrevious>27.12.2019</DatePrevious>
+<ClosingBalance>184,63</ClosingBalance>
+<ClosingBalanceNat>184,63</ClosingBalanceNat>
+<DateClosing>30.12.2019</DateClosing>
+<DebetDocuments>
+<DocumentsNet>2</DocumentsNet>
+<Turnover>3009,00</Turnover>
+<DebetTurnoverNat>3009,00</DebetTurnoverNat>
+<Document>
+<DocumentNumber>19107</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>30.12.2019 15:41:04</Time>
+<OperType>06</OperType>
+<Amount>9.00</Amount>
+<AmountCurr>9.00</AmountCurr>
+<Beneficiar>
+<Account>BY63BPSB81010000053159330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО "БПС-СБЕРБАНК"</Name>
+<Ground>Вознагр. за зачисление денежных средств на счета физ.лиц, по п/п №191 от 30.12.2019 согл. Договору 348-2017 от 07.07.2017г. Без НДС согласно п. 1.37.2. ст.118 Особенной части Налогового Кодекса </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>191</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>30.12.2019 15:41:04</Time>
+<OperType>01</OperType>
+<Amount>3 000.00</Amount>
+<AmountCurr>3 000.00</AmountCurr>
+<Beneficiar>
+<Account>BY13BPSB38198000000709330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО БПС-СБЕРБАНК</Name>
+<Ground>ЗАРАБОТНАЯ ПЛАТА ЗА НОЯБРЬ 2019. ДОГОВОР N 348-2017 ОТ 07.07.2017.  СПИСОК НА ВЫПЛАТУ N 191 ОТ 30.12.2019. </Ground>
+</Beneficiar>
+</Document>
+</DebetDocuments> 
+<CreditDocuments>
+<DocumentsNet>0</DocumentsNet>
+<Turnover>0,00</Turnover>
+<CreditTurnoverNat>0,00</CreditTurnoverNat>
+</CreditDocuments>
+
+</Statement>
+</Statements>
+<?xml version = "1.0" encoding="CP866"?>
+<?xml-stylesheet type="text/xsl"?>
+<Statements>
+<Date>31.12.2019</Date>
+<Time>23:30:10</Time>
+<Type>ВЫПИСКА</Type>
+<Account>BY86BPSB30211816590139330000</Account>
+<UNN>102332897</UNN>
+<Statement>
+<Account>BY86BPSB30211816590139330000</Account>
+<Name></Name>
+<BIC>BPSBBY2X</BIC>
+<CurrCode>933</CurrCode>
+<CurrCodeISO>BYN</CurrCodeISO>
+<OpeningBalance>184,63</OpeningBalance>
+<OpeningBalanceNat>184,63</OpeningBalanceNat>
+<KursRazn>0.00</KursRazn>
+<DatePrevious>30.12.2019</DatePrevious>
+<ClosingBalance>184,69</ClosingBalance>
+<ClosingBalanceNat>184,69</ClosingBalanceNat>
+<DateClosing>31.12.2019</DateClosing>
+<DebetDocuments>
+<DocumentsNet>0</DocumentsNet>
+<Turnover>0,00</Turnover>
+<DebetTurnoverNat>0,00</DebetTurnoverNat>
+</DebetDocuments> 
+<CreditDocuments>
+<DocumentsNet>1</DocumentsNet>
+<Turnover>0,06</Turnover>
+<CreditTurnoverNat>0,06</CreditTurnoverNat>
+<Document>
+<DocumentNumber>11706</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>31.12.2019 07:46:59</Time>
+<OperType>06</OperType>
+<Amount>0.06</Amount>
+<AmountCurr>0.06</AmountCurr>
+<Payer>
+<Account>BY08BPSB90318090000009330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО "БПС-СБЕРБАНК"</Name>
+<Ground>Выплата процентов по счетам клиентов за период с 29/11/2019 по 30/12/2019 по договору от 30.06.2017 № 777/181659/Т/933/01. Налог на доходы 10% в сумме 0.01 бел. руб. </Ground>
+</Payer>
+</Document>
+</CreditDocuments>
+
+</Statement>
+</Statements>

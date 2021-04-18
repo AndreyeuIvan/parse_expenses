@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Statements>
+    <Statement>
+        <Name>ПРЕДСТАВИТЕЛЬСТВО ООО "SUN PHARMACEUTICAL INDUSTRIES LTD." (РЕСПУБЛИКА ИНДИЯ) В РЕСПУБЛИКЕ БЕЛАРУСЬ</Name>
+        <AccountNumber>BY86BPSB30211816590139330000</AccountNumber>+
+        <CurrCode>933</CurrCode>
+        <CurrCodeISO>BYN</CurrCodeISO>+
+        <DebetDocuments>
+            <Document>
+                <DocumentNumber>58</DocumentNumber> 
+                <DocumentDate>2020-11-10</DocumentDate>
+                <Amount>750</Amount>+
+
+                <Beneficiar>
+                    <Name>ФИЛИАЛ БРУСП БЕЛГОССТРАХА ПО Г. МИНСКУ</Name>+
+                    <UNP>100122726</UNP>+
+                    <Account>BY30AKBB30115240001480000000</Account>+
+                    <BIC>AKBBBY2X</BIC>+
+                </Beneficiar>
+                <Ground>ОПЛАТА ОТЧ. ПО ОБЯЗАТ СТРАХ-НИЮ ОТ НЕСЧ СЛУЧАЕВ 0,6% ЗА ОКТЯБРЬ 2020 Г. СРОК ПЛАТЕЖА 10/11/2020 РЕГ. 500026206. СОГЛ. ДЕКРЕТУ ПРЕЗИДЕНТА РБ 18 ОТ 30/07/2003</Ground>+
+            </Document>
+	</DebetDocuments>
+    </Statement>
+</Statements>

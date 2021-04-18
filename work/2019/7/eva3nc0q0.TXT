@@ -1,0 +1,1692 @@
+<?xml version = "1.0" encoding="CP866"?>
+<?xml-stylesheet type="text/xsl"?>
+<Statements>
+<Date>01.07.2019</Date>
+<Time>23:26:59</Time>
+<Type>ВЫПИСКА</Type>
+<Account>BY54BPSB30241816590108400000</Account>
+<UNN>102332897</UNN>
+<Statement>
+<Account>BY54BPSB30241816590108400000</Account>
+<Name></Name>
+<BIC>BPSBBY2X</BIC>
+<CurrCode>840</CurrCode>
+<CurrCodeISO>USD</CurrCodeISO>
+<OpeningBalance>55488,62</OpeningBalance>
+<OpeningBalanceNat>113379,9</OpeningBalanceNat>
+<KursRazn>0.00</KursRazn>
+<DatePrevious>28.06.2019</DatePrevious>
+<ClosingBalance>55488,62</ClosingBalance>
+<ClosingBalanceNat>113379,90</ClosingBalanceNat>
+<DateClosing>01.07.2019</DateClosing>
+<DebetDocuments>
+<DocumentsNet>0</DocumentsNet>
+<Turnover>0,00</Turnover>
+<DebetTurnoverNat>0,00</DebetTurnoverNat>
+</DebetDocuments> 
+<CreditDocuments>
+<DocumentsNet>0</DocumentsNet>
+<Turnover>0,00</Turnover>
+<CreditTurnoverNat>0,00</CreditTurnoverNat>
+</CreditDocuments>
+
+</Statement>
+</Statements>
+<?xml version = "1.0" encoding="CP866"?>
+<?xml-stylesheet type="text/xsl"?>
+<Statements>
+<Date>02.07.2019</Date>
+<Time>23:10:02</Time>
+<Type>ВЫПИСКА</Type>
+<Account>BY54BPSB30241816590108400000</Account>
+<UNN>102332897</UNN>
+<Statement>
+<Account>BY54BPSB30241816590108400000</Account>
+<Name></Name>
+<BIC>BPSBBY2X</BIC>
+<CurrCode>840</CurrCode>
+<CurrCodeISO>USD</CurrCodeISO>
+<OpeningBalance>55488,62</OpeningBalance>
+<OpeningBalanceNat>113429,84</OpeningBalanceNat>
+<KursRazn>49.94</KursRazn>
+<DatePrevious>28.06.2019</DatePrevious>
+<ClosingBalance>52488,62</ClosingBalance>
+<ClosingBalanceNat>107297,24</ClosingBalanceNat>
+<DateClosing>02.07.2019</DateClosing>
+<DebetDocuments>
+<DocumentsNet>1</DocumentsNet>
+<Turnover>3000,00</Turnover>
+<DebetTurnoverNat>6132,60</DebetTurnoverNat>
+<Document>
+<DocumentNumber>174</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>02.07.2019 12:26:06</Time>
+<OperType>06</OperType>
+<Amount>3 000.00</Amount>
+<AmountCurr>6 132.60</AmountCurr>
+<Beneficiar>
+<Account>BY73BPSB69018600450498400000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО "БПС-СБЕРБАНК"</Name>
+<Ground>Перевод с продажей ПП 174  от 02.07.19. Курс  2.0375 за 1 ед. валюты    СВОБОДНАЯ ПРОДАЖА ИНОСТРАННОЙ ВАЛЮТЫ </Ground>
+</Beneficiar>
+</Document>
+</DebetDocuments> 
+<CreditDocuments>
+<DocumentsNet>0</DocumentsNet>
+<Turnover>0,00</Turnover>
+<CreditTurnoverNat>49,94</CreditTurnoverNat>
+</CreditDocuments>
+
+</Statement>
+</Statements>
+<?xml version = "1.0" encoding="CP866"?>
+<?xml-stylesheet type="text/xsl"?>
+<Statements>
+<Date>04.07.2019</Date>
+<Time>23:09:41</Time>
+<Type>ВЫПИСКА</Type>
+<Account>BY54BPSB30241816590108400000</Account>
+<UNN>102332897</UNN>
+<Statement>
+<Account>BY54BPSB30241816590108400000</Account>
+<Name></Name>
+<BIC>BPSBBY2X</BIC>
+<CurrCode>840</CurrCode>
+<CurrCodeISO>USD</CurrCodeISO>
+<OpeningBalance>52488,62</OpeningBalance>
+<OpeningBalanceNat>107449,45</OpeningBalanceNat>
+<KursRazn>152.21</KursRazn>
+<DatePrevious>02.07.2019</DatePrevious>
+<ClosingBalance>47488,62</ClosingBalance>
+<ClosingBalanceNat>97213,95</ClosingBalanceNat>
+<DateClosing>04.07.2019</DateClosing>
+<DebetDocuments>
+<DocumentsNet>1</DocumentsNet>
+<Turnover>5000,00</Turnover>
+<DebetTurnoverNat>10235,50</DebetTurnoverNat>
+<Document>
+<DocumentNumber>175</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>04.07.2019 10:14:08</Time>
+<OperType>06</OperType>
+<Amount>5 000.00</Amount>
+<AmountCurr>10 235.50</AmountCurr>
+<Beneficiar>
+<Account>BY73BPSB69018600450498400000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО "БПС-СБЕРБАНК"</Name>
+<Ground>Перевод с продажей ПП 175  от 04.07.19. Курс  2.0365 за 1 ед. валюты    СВОБОДНАЯ ПРОДАЖА ИНОСТРАННОЙ ВАЛЮТЫ </Ground>
+</Beneficiar>
+</Document>
+</DebetDocuments> 
+<CreditDocuments>
+<DocumentsNet>0</DocumentsNet>
+<Turnover>0,00</Turnover>
+<CreditTurnoverNat>152,21</CreditTurnoverNat>
+</CreditDocuments>
+
+</Statement>
+</Statements>
+<?xml version = "1.0" encoding="CP866"?>
+<?xml-stylesheet type="text/xsl"?>
+<Statements>
+<Date>05.07.2019</Date>
+<Time>23:08:54</Time>
+<Type>ВЫПИСКА</Type>
+<Account>BY54BPSB30241816590108400000</Account>
+<UNN>102332897</UNN>
+<Statement>
+<Account>BY54BPSB30241816590108400000</Account>
+<Name></Name>
+<BIC>BPSBBY2X</BIC>
+<CurrCode>840</CurrCode>
+<CurrCodeISO>USD</CurrCodeISO>
+<OpeningBalance>47488,62</OpeningBalance>
+<OpeningBalanceNat>97294,68</OpeningBalanceNat>
+<KursRazn>80.73</KursRazn>
+<DatePrevious>04.07.2019</DatePrevious>
+<ClosingBalance>22488,62</ClosingBalance>
+<ClosingBalanceNat>46074,68</ClosingBalanceNat>
+<DateClosing>05.07.2019</DateClosing>
+<DebetDocuments>
+<DocumentsNet>1</DocumentsNet>
+<Turnover>25000,00</Turnover>
+<DebetTurnoverNat>51220,00</DebetTurnoverNat>
+<Document>
+<DocumentNumber>176</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>05.07.2019 11:45:45</Time>
+<OperType>06</OperType>
+<Amount>25 000.00</Amount>
+<AmountCurr>51 220.00</AmountCurr>
+<Beneficiar>
+<Account>BY73BPSB69018600450498400000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО "БПС-СБЕРБАНК"</Name>
+<Ground>Перевод с продажей ПП 176  от 05.07.19. Курс  2.0425 за 1 ед. валюты    СВОБОДНАЯ ПРОДАЖА ИНОСТРАННОЙ ВАЛЮТЫ </Ground>
+</Beneficiar>
+</Document>
+</DebetDocuments> 
+<CreditDocuments>
+<DocumentsNet>0</DocumentsNet>
+<Turnover>0,00</Turnover>
+<CreditTurnoverNat>80,73</CreditTurnoverNat>
+</CreditDocuments>
+
+</Statement>
+</Statements>
+<?xml version = "1.0" encoding="CP866"?>
+<?xml-stylesheet type="text/xsl"?>
+<Statements>
+<Date>09.07.2019</Date>
+<Time>3:58:19</Time>
+<Type>ВЫПИСКА</Type>
+<Account>BY54BPSB30241816590108400000</Account>
+<UNN>102332897</UNN>
+<Statement>
+<Account>BY54BPSB30241816590108400000</Account>
+<Name></Name>
+<BIC>BPSBBY2X</BIC>
+<CurrCode>840</CurrCode>
+<CurrCodeISO>USD</CurrCodeISO>
+<OpeningBalance>22488,62</OpeningBalance>
+<OpeningBalanceNat>46074,69</OpeningBalanceNat>
+<KursRazn>0.01</KursRazn>
+<DatePrevious>05.07.2019</DatePrevious>
+<ClosingBalance>21822,12</ClosingBalance>
+<ClosingBalanceNat>44709,16</ClosingBalanceNat>
+<DateClosing>08.07.2019</DateClosing>
+<DebetDocuments>
+<DocumentsNet>1</DocumentsNet>
+<Turnover>666,50</Turnover>
+<DebetTurnoverNat>1365,53</DebetTurnoverNat>
+<Document>
+<DocumentNumber>18903</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>08.07.2019 15:28:40</Time>
+<OperType>06</OperType>
+<Amount>666.50</Amount>
+<AmountCurr>1 365.53</AmountCurr>
+<Beneficiar>
+<Account>BY73BPSB69018600450498400000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО "БПС-СБЕРБАНК"</Name>
+<Ground>Перев с конверс ПП 177 от 08.07.19, в сумме 588.00  EUR.Курс сделки 1.1335 .  ОПЛАТА СТРАХОВЫХ ВЗНОСОВ СОГЛ СЧ Ф 15/389 ОТ 02.07.2019 ПО ТАРИФАМ, УТВЕРЖДЕННЫМ УКАЗОМ ПРЕЗИДЕНТА РБ 236 ОТ 28.04.2008  'ЗАСО "ТАСК"' </Ground>
+</Beneficiar>
+</Document>
+</DebetDocuments> 
+<CreditDocuments>
+<DocumentsNet>0</DocumentsNet>
+<Turnover>0,00</Turnover>
+<CreditTurnoverNat>0,01</CreditTurnoverNat>
+</CreditDocuments>
+
+</Statement>
+</Statements>
+<?xml version = "1.0" encoding="CP866"?>
+<?xml-stylesheet type="text/xsl"?>
+<Statements>
+<Date>09.07.2019</Date>
+<Time>23:11:13</Time>
+<Type>ВЫПИСКА</Type>
+<Account>BY54BPSB30241816590108400000</Account>
+<UNN>102332897</UNN>
+<Statement>
+<Account>BY54BPSB30241816590108400000</Account>
+<Name></Name>
+<BIC>BPSBBY2X</BIC>
+<CurrCode>840</CurrCode>
+<CurrCodeISO>USD</CurrCodeISO>
+<OpeningBalance>21822,12</OpeningBalance>
+<OpeningBalanceNat>44781,17</OpeningBalanceNat>
+<KursRazn>72.01</KursRazn>
+<DatePrevious>08.07.2019</DatePrevious>
+<ClosingBalance>21622,12</ClosingBalance>
+<ClosingBalanceNat>44370,75</ClosingBalanceNat>
+<DateClosing>09.07.2019</DateClosing>
+<DebetDocuments>
+<DocumentsNet>1</DocumentsNet>
+<Turnover>200,00</Turnover>
+<DebetTurnoverNat>410,42</DebetTurnoverNat>
+<Document>
+<DocumentNumber>178</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>09.07.2019 10:50:08</Time>
+<OperType>01</OperType>
+<Amount>200.00</Amount>
+<AmountCurr>410.42</AmountCurr>
+<Beneficiar>
+<Account>BY54BPSB30131062340278400000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100573126</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ИП САМЦОВ ВАЛЕРИЙ ПАВЛОВИЧ</Name>
+<Ground>ОПЛАТА ЗА ПРОВЕДЕНИЕ ПРЕДВАРИТЕЛЬНОГО ПОИСКА НА ТОЖДЕСТВО И СХОДСТВО ОБОЗНАЧЕНИЙ В РБ СОГЛ СЧ 33 ОТ 01.07.2019. БЕЗ НДС </Ground>
+</Beneficiar>
+</Document>
+</DebetDocuments> 
+<CreditDocuments>
+<DocumentsNet>0</DocumentsNet>
+<Turnover>0,00</Turnover>
+<CreditTurnoverNat>72,01</CreditTurnoverNat>
+</CreditDocuments>
+
+</Statement>
+</Statements>
+<?xml version = "1.0" encoding="CP866"?>
+<?xml-stylesheet type="text/xsl"?>
+<Statements>
+<Date>11.07.2019</Date>
+<Time>3:23:17</Time>
+<Type>ВЫПИСКА</Type>
+<Account>BY54BPSB30241816590108400000</Account>
+<UNN>102332897</UNN>
+<Statement>
+<Account>BY54BPSB30241816590108400000</Account>
+<Name></Name>
+<BIC>BPSBBY2X</BIC>
+<CurrCode>840</CurrCode>
+<CurrCodeISO>USD</CurrCodeISO>
+<OpeningBalance>21622,12</OpeningBalance>
+<OpeningBalanceNat>44321,01</OpeningBalanceNat>
+<KursRazn>-49.74</KursRazn>
+<DatePrevious>09.07.2019</DatePrevious>
+<ClosingBalance>349491,23</ClosingBalance>
+<ClosingBalanceNat>716387,12</ClosingBalanceNat>
+<DateClosing>10.07.2019</DateClosing>
+<DebetDocuments>
+<DocumentsNet>3</DocumentsNet>
+<Turnover>54130,89</Turnover>
+<DebetTurnoverNat>111007,23</DebetTurnoverNat>
+<Document>
+<DocumentNumber>9858</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>10.07.2019 12:17:36</Time>
+<OperType>06</OperType>
+<Amount>5.49</Amount>
+<AmountCurr>11.25</AmountCurr>
+<Beneficiar>
+<Account>BY84BPSB69018000050108400000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО "БПС-СБЕРБАНК"</Name>
+<Ground>Вознаграждение Банка за исполнение банковского перевода по п/п № 179 от 10/07/2019 согласно Сборника вознаграждений (платы) за операции, осуществляемые ОАО "БПС-Сбербанк", от 20.12.2016 №01/01-07/606. Без НДС согласно п. 1.37.2. ст.118 Особенной части Налогового Кодекса". </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>179</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>10.07.2019 12:17:35</Time>
+<OperType>01</OperType>
+<Amount>4 125.40</Amount>
+<AmountCurr>8 456.24</AmountCurr>
+<Beneficiar>
+<Account>BY42AKBB30120000041305200000</Account>
+<BIC>AKBBBY2X</BIC>
+<UNN>101375883</UNN>
+<NameBIC>ОАО 'АСБ БЕЛАРУСБАНК'</NameBIC>
+<Name>РУП "ЦЕНТР ЭКСПЕРТИЗ И ИСПЫТАНИЙ В ЗДРАВООХРАНЕНИИ", РБ</Name>
+<Ground>ПЛАТА ЗА ПРОВЕДЕНИЕ СПЕЦИАЛИЗИРОВАННОЙ ЭКСПЕРТИЗЫ ДОКУМЕНТОВ ЛЕК.СР. ПО ДОГОВОРУ 2368-ЛС. СУММА СОГЛ СЧ-Ф 1542-ЛС ОТ 05.07.19. СУММА С НДС (20%) 4125,40 ДОЛЛ США </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>180</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>10.07.2019 15:07:18</Time>
+<OperType>06</OperType>
+<Amount>50 000.00</Amount>
+<AmountCurr>102 490.00</AmountCurr>
+<Beneficiar>
+<Account>BY73BPSB69018600450498400000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО "БПС-СБЕРБАНК"</Name>
+<Ground>Перевод с продажей ПП 180  от 10.07.19. Курс  2.0358 за 1 ед. валюты    СВОБОДНАЯ ПРОДАЖА ИНОСТРАННОЙ ВАЛЮТЫ </Ground>
+</Beneficiar>
+</Document>
+</DebetDocuments> 
+<CreditDocuments>
+<DocumentsNet>1</DocumentsNet>
+<Turnover>382000,00</Turnover>
+<CreditTurnoverNat>783023,60</CreditTurnoverNat>
+<Document>
+<DocumentNumber>64701</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>10.07.2019 07:51:00</Time>
+<OperType>06</OperType>
+<Amount>382 000.00</Amount>
+<AmountCurr>783 023.60</AmountCurr>
+<Payer>
+<Account>01213001315</Account>
+<BIC>NOSCINBB</BIC>
+<UNN></UNN>
+<NameBIC>BANK OF NOVA SCOTIA, THE</NameBIC>
+<Name>1/SUN PHARMACEUTICAL INDUSTRIES LTD2/SUN HOUSE, PLOT NO.201 B-1, 2/WESTERN EXPRESS HIGHWAY, 3/IN/GOREGAON</Name>
+<Ground>PAYMENT TOWARDS MAINTENANCE        OF OFFICE ABROAD /ACC/FFC TO 6 MULIAVIN BLVD        //MINSK 220005 BELARUS </Ground>
+</Payer>
+</Document>
+</CreditDocuments>
+
+</Statement>
+</Statements>
+<?xml version = "1.0" encoding="CP866"?>
+<?xml-stylesheet type="text/xsl"?>
+<Statements>
+<Date>12.07.2019</Date>
+<Time>3:20:46</Time>
+<Type>ВЫПИСКА</Type>
+<Account>BY54BPSB30241816590108400000</Account>
+<UNN>102332897</UNN>
+<Statement>
+<Account>BY54BPSB30241816590108400000</Account>
+<Name></Name>
+<BIC>BPSBBY2X</BIC>
+<CurrCode>840</CurrCode>
+<CurrCodeISO>USD</CurrCodeISO>
+<OpeningBalance>349491,23</OpeningBalance>
+<OpeningBalanceNat>715303,72</OpeningBalanceNat>
+<KursRazn>-1083.40</KursRazn>
+<DatePrevious>10.07.2019</DatePrevious>
+<ClosingBalance>348730,73</ClosingBalance>
+<ClosingBalanceNat>713747,19</ClosingBalanceNat>
+<DateClosing>11.07.2019</DateClosing>
+<DebetDocuments>
+<DocumentsNet>6</DocumentsNet>
+<Turnover>760,50</Turnover>
+<DebetTurnoverNat>2639,95</DebetTurnoverNat>
+<Document>
+<DocumentNumber>12821</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>11.07.2019 12:04:14</Time>
+<OperType>06</OperType>
+<Amount>5.50</Amount>
+<AmountCurr>11.26</AmountCurr>
+<Beneficiar>
+<Account>BY84BPSB69018000050108400000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО "БПС-СБЕРБАНК"</Name>
+<Ground>Вознаграждение Банка за исполнение банковского перевода по п/п № 183 от 11/07/2019 согласно Сборника вознаграждений (платы) за операции, осуществляемые ОАО "БПС-Сбербанк", от 20.12.2016 №01/01-07/606. Без НДС согласно п. 1.37.2. ст.118 Особенной части Налогового Кодекса". </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>12819</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>11.07.2019 12:04:13</Time>
+<OperType>06</OperType>
+<Amount>5.50</Amount>
+<AmountCurr>11.26</AmountCurr>
+<Beneficiar>
+<Account>BY84BPSB69018000050108400000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО "БПС-СБЕРБАНК"</Name>
+<Ground>Вознаграждение Банка за исполнение банковского перевода по п/п № 182 от 11/07/2019 согласно Сборника вознаграждений (платы) за операции, осуществляемые ОАО "БПС-Сбербанк", от 20.12.2016 №01/01-07/606. Без НДС согласно п. 1.37.2. ст.118 Особенной части Налогового Кодекса". </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>12817</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>11.07.2019 12:04:11</Time>
+<OperType>06</OperType>
+<Amount>5.50</Amount>
+<AmountCurr>11.26</AmountCurr>
+<Beneficiar>
+<Account>BY84BPSB69018000050108400000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО "БПС-СБЕРБАНК"</Name>
+<Ground>Вознаграждение Банка за исполнение банковского перевода по п/п № 181 от 11/07/2019 согласно Сборника вознаграждений (платы) за операции, осуществляемые ОАО "БПС-Сбербанк", от 20.12.2016 №01/01-07/606. Без НДС согласно п. 1.37.2. ст.118 Особенной части Налогового Кодекса". </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>181</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>11.07.2019 12:04:11</Time>
+<OperType>01</OperType>
+<Amount>165.00</Amount>
+<AmountCurr>337.71</AmountCurr>
+<Beneficiar>
+<Account>BY62MTBK30110001084000000245</Account>
+<BIC>MTBKBY22</BIC>
+<UNN>100782388</UNN>
+<NameBIC>ЗАО 'МТБАНК'</NameBIC>
+<Name>ЗАО "БЕЛРОССТРАХ"</Name>
+<Ground>ОПЛАТА СТРАХОВЫХ ВЗНОСОВ СОГЛАСНО СЧ-Ф 9659516 ОТ 10.07.19, В СООТВЕТСТВИИ С ТАРИФОМ, УТВЕРЖДЕННЫМ МИНИСТЕРСТВОМ ФИНАНСОВ РБ ОТ 18.03.2004. БЕЗ НДС ПО ПОДПУНКТУ 1.40 СТ.118 НАЛОГОВОГО КОДЕКСА РБ. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>182</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>11.07.2019 12:04:12</Time>
+<OperType>01</OperType>
+<Amount>208.00</Amount>
+<AmountCurr>425.71</AmountCurr>
+<Beneficiar>
+<Account>BY62MTBK30110001084000000245</Account>
+<BIC>MTBKBY22</BIC>
+<UNN>100782388</UNN>
+<NameBIC>ЗАО 'МТБАНК'</NameBIC>
+<Name>ЗАО "БЕЛРОССТРАХ"</Name>
+<Ground>ОПЛАТА СТРАХОВЫХ ВЗНОСОВ СОГЛАСНО СЧ-Ф 9647996 ОТ 02.07.19, В СООТВЕТСТВИИ С ТАРИФОМ, УТВЕРЖДЕННЫМ МИНИСТЕРСТВОМ ФИНАНСОВ РБ ОТ 18.03.2004. БЕЗ НДС ПО ПОДПУНКТУ 1.40 СТ.118 НАЛОГОВОГО КОДЕКСА РБ. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>183</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>11.07.2019 12:04:13</Time>
+<OperType>01</OperType>
+<Amount>371.00</Amount>
+<AmountCurr>759.33</AmountCurr>
+<Beneficiar>
+<Account>BY62MTBK30110001084000000245</Account>
+<BIC>MTBKBY22</BIC>
+<UNN>100782388</UNN>
+<NameBIC>ЗАО 'МТБАНК'</NameBIC>
+<Name>ЗАО "БЕЛРОССТРАХ"</Name>
+<Ground>ОПЛАТА СТРАХОВЫХ ВЗНОСОВ СОГЛАСНО СЧ-Ф 9659697 ОТ 10.07.19, В СООТВЕТСТВИИ С ТАРИФОМ, УТВЕРЖДЕННЫМ МИНИСТЕРСТВОМ ФИНАНСОВ РБ ОТ 18.03.2004. БЕЗ НДС ПО ПОДПУНКТУ 1.40 СТ.118 НАЛОГОВОГО КОДЕКСА РБ. </Ground>
+</Beneficiar>
+</Document>
+</DebetDocuments> 
+<CreditDocuments>
+<DocumentsNet>0</DocumentsNet>
+<Turnover>0,00</Turnover>
+<CreditTurnoverNat>0,02</CreditTurnoverNat>
+</CreditDocuments>
+
+</Statement>
+</Statements>
+<?xml version = "1.0" encoding="CP866"?>
+<?xml-stylesheet type="text/xsl"?>
+<Statements>
+<Date>12.07.2019</Date>
+<Time>23:10:27</Time>
+<Type>ВЫПИСКА</Type>
+<Account>BY54BPSB30241816590108400000</Account>
+<UNN>102332897</UNN>
+<Statement>
+<Account>BY54BPSB30241816590108400000</Account>
+<Name></Name>
+<BIC>BPSBBY2X</BIC>
+<CurrCode>840</CurrCode>
+<CurrCodeISO>USD</CurrCodeISO>
+<OpeningBalance>348730,73</OpeningBalance>
+<OpeningBalanceNat>709318,3</OpeningBalanceNat>
+<KursRazn>-4428.89</KursRazn>
+<DatePrevious>11.07.2019</DatePrevious>
+<ClosingBalance>348730,73</ClosingBalance>
+<ClosingBalanceNat>709318,30</ClosingBalanceNat>
+<DateClosing>12.07.2019</DateClosing>
+<DebetDocuments>
+<DocumentsNet>0</DocumentsNet>
+<Turnover>0,00</Turnover>
+<DebetTurnoverNat>4428,89</DebetTurnoverNat>
+</DebetDocuments> 
+<CreditDocuments>
+<DocumentsNet>0</DocumentsNet>
+<Turnover>0,00</Turnover>
+<CreditTurnoverNat>0,00</CreditTurnoverNat>
+</CreditDocuments>
+
+</Statement>
+</Statements>
+<?xml version = "1.0" encoding="CP866"?>
+<?xml-stylesheet type="text/xsl"?>
+<Statements>
+<Date>15.07.2019</Date>
+<Time>23:11:16</Time>
+<Type>ВЫПИСКА</Type>
+<Account>BY54BPSB30241816590108400000</Account>
+<UNN>102332897</UNN>
+<Statement>
+<Account>BY54BPSB30241816590108400000</Account>
+<Name></Name>
+<BIC>BPSBBY2X</BIC>
+<CurrCode>840</CurrCode>
+<CurrCodeISO>USD</CurrCodeISO>
+<OpeningBalance>348730,73</OpeningBalance>
+<OpeningBalanceNat>709388,05</OpeningBalanceNat>
+<KursRazn>69.75</KursRazn>
+<DatePrevious>12.07.2019</DatePrevious>
+<ClosingBalance>341551,10</ClosingBalance>
+<ClosingBalanceNat>694783,25</ClosingBalanceNat>
+<DateClosing>15.07.2019</DateClosing>
+<DebetDocuments>
+<DocumentsNet>5</DocumentsNet>
+<Turnover>7179,63</Turnover>
+<DebetTurnoverNat>14604,80</DebetTurnoverNat>
+<Document>
+<DocumentNumber>19400</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>15.07.2019 11:39:52</Time>
+<OperType>06</OperType>
+<Amount>5.53</Amount>
+<AmountCurr>11.25</AmountCurr>
+<Beneficiar>
+<Account>BY84BPSB69018000050108400000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО "БПС-СБЕРБАНК"</Name>
+<Ground>Вознаграждение Банка за исполнение банковского перевода по п/п № 185 от 15/07/2019 согласно Сборника вознаграждений (платы) за операции, осуществляемые ОАО "БПС-Сбербанк", от 20.12.2016 №01/01-07/606. Без НДС согласно п. 1.37.2. ст.118 Особенной части Налогового Кодекса". </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>19396</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>15.07.2019 11:39:51</Time>
+<OperType>06</OperType>
+<Amount>5.53</Amount>
+<AmountCurr>11.25</AmountCurr>
+<Beneficiar>
+<Account>BY84BPSB69018000050108400000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО "БПС-СБЕРБАНК"</Name>
+<Ground>Вознаграждение Банка за исполнение банковского перевода по п/п № 184 от 15/07/2019 согласно Сборника вознаграждений (платы) за операции, осуществляемые ОАО "БПС-Сбербанк", от 20.12.2016 №01/01-07/606. Без НДС согласно п. 1.37.2. ст.118 Особенной части Налогового Кодекса". </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>185</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>15.07.2019 11:39:51</Time>
+<OperType>01</OperType>
+<Amount>258.00</Amount>
+<AmountCurr>524.82</AmountCurr>
+<Beneficiar>
+<Account>BY48AKBB30120180400375500000</Account>
+<BIC>AKBBBY2X</BIC>
+<UNN>101002035</UNN>
+<NameBIC>ОАО 'АСБ БЕЛАРУСБАНК'</NameBIC>
+<Name>РУП "НАУЧНО-ПРАКТИЧЕСКИЙ ЦЕНТР ГИГИЕНЫ" РБ</Name>
+<Ground>ПЛАТА ЗА ПРОВЕДЕНИЕ ГИГИЕНИЧЕСКОЙ ОЦЕНКИ БЕЗОПАСНОСТИ ПРОДУКТОВ СОГЛ СЧ 342 ОТ 25.06.2019. СУММА С НДС-258 ДОЛЛ. США., В Т.Ч.НДС-43 ДОЛЛ.США </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>184</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>15.07.2019 11:39:49</Time>
+<OperType>01</OperType>
+<Amount>1 910.57</Amount>
+<AmountCurr>3 886.48</AmountCurr>
+<Beneficiar>
+<Account>BY42AKBB30120000041305200000</Account>
+<BIC>AKBBBY2X</BIC>
+<UNN>101375883</UNN>
+<NameBIC>ОАО 'АСБ БЕЛАРУСБАНК'</NameBIC>
+<Name>РУП "ЦЕНТР ЭКСПЕРТИЗ И ИСПЫТАНИЙ В ЗДРАВООХРАНЕНИИ", РБ</Name>
+<Ground>ПЛАТА ЗА ПРОВЕДЕНИЕ СПЕЦИАЛИЗИРОВАННОЙ ЭКСПЕРТИЗЫ ДОКУМЕНТОВ ЛЕК.СР. ГЛЮКОРЕД ФОРТЕ ПО ДОГОВОРУ 2391-ЛС. СУММА СОГЛ СЧ-Ф 1552-ЛС ОТ 09.07.19. СУММА С НДС (20%) 1910,57 ДОЛЛ США </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>186</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>15.07.2019 11:51:59</Time>
+<OperType>06</OperType>
+<Amount>5 000.00</Amount>
+<AmountCurr>10 171.00</AmountCurr>
+<Beneficiar>
+<Account>BY73BPSB69018600450498400000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО "БПС-СБЕРБАНК"</Name>
+<Ground>Перевод с продажей ПП 186  от 15.07.19. Курс  2.0186 за 1 ед. валюты    СВОБОДНАЯ ПРОДАЖА ИНОСТРАННОЙ ВАЛЮТЫ </Ground>
+</Beneficiar>
+</Document>
+</DebetDocuments> 
+<CreditDocuments>
+<DocumentsNet>0</DocumentsNet>
+<Turnover>0,00</Turnover>
+<CreditTurnoverNat>69,75</CreditTurnoverNat>
+</CreditDocuments>
+
+</Statement>
+</Statements>
+<?xml version = "1.0" encoding="CP866"?>
+<?xml-stylesheet type="text/xsl"?>
+<Statements>
+<Date>16.07.2019</Date>
+<Time>23:09:23</Time>
+<Type>ВЫПИСКА</Type>
+<Account>BY54BPSB30241816590108400000</Account>
+<UNN>102332897</UNN>
+<Statement>
+<Account>BY54BPSB30241816590108400000</Account>
+<Name></Name>
+<BIC>BPSBBY2X</BIC>
+<CurrCode>840</CurrCode>
+<CurrCodeISO>USD</CurrCodeISO>
+<OpeningBalance>341551,10</OpeningBalance>
+<OpeningBalanceNat>693690,28</OpeningBalanceNat>
+<KursRazn>-1092.97</KursRazn>
+<DatePrevious>15.07.2019</DatePrevious>
+<ClosingBalance>341551,10</ClosingBalance>
+<ClosingBalanceNat>693690,28</ClosingBalanceNat>
+<DateClosing>16.07.2019</DateClosing>
+<DebetDocuments>
+<DocumentsNet>0</DocumentsNet>
+<Turnover>0,00</Turnover>
+<DebetTurnoverNat>1092,97</DebetTurnoverNat>
+</DebetDocuments> 
+<CreditDocuments>
+<DocumentsNet>0</DocumentsNet>
+<Turnover>0,00</Turnover>
+<CreditTurnoverNat>0,00</CreditTurnoverNat>
+</CreditDocuments>
+
+</Statement>
+</Statements>
+<?xml version = "1.0" encoding="CP866"?>
+<?xml-stylesheet type="text/xsl"?>
+<Statements>
+<Date>17.07.2019</Date>
+<Time>23:10:42</Time>
+<Type>ВЫПИСКА</Type>
+<Account>BY54BPSB30241816590108400000</Account>
+<UNN>102332897</UNN>
+<Statement>
+<Account>BY54BPSB30241816590108400000</Account>
+<Name></Name>
+<BIC>BPSBBY2X</BIC>
+<CurrCode>840</CurrCode>
+<CurrCodeISO>USD</CurrCodeISO>
+<OpeningBalance>341551,10</OpeningBalance>
+<OpeningBalanceNat>693656,13</OpeningBalanceNat>
+<KursRazn>-34.15</KursRazn>
+<DatePrevious>16.07.2019</DatePrevious>
+<ClosingBalance>340157,57</ClosingBalance>
+<ClosingBalanceNat>690826,01</ClosingBalanceNat>
+<DateClosing>17.07.2019</DateClosing>
+<DebetDocuments>
+<DocumentsNet>2</DocumentsNet>
+<Turnover>1393,53</Turnover>
+<DebetTurnoverNat>2864,27</DebetTurnoverNat>
+<Document>
+<DocumentNumber>12663</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>17.07.2019 12:27:15</Time>
+<OperType>06</OperType>
+<Amount>12.00</Amount>
+<AmountCurr>24.37</AmountCurr>
+<Beneficiar>
+<Account>BY84BPSB69018000050108400000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО "БПС-СБЕРБАНК"</Name>
+<Ground>Вознаграждение Банка за исполнение банковского перевода по п/п № 12653 от 17/07/2019 согласно Сборника вознаграждений (платы) за операции, осуществляемые ОАО "БПС-Сбербанк", от 20.12.2016 №01/01-07/606. Без НДС согласно п. 1.37.2. ст.118 Особенной части Налогового Кодекса". </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>12646</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>17.07.2019 12:26:56</Time>
+<OperType>06</OperType>
+<Amount>1 381.53</Amount>
+<AmountCurr>2 805.75</AmountCurr>
+<Beneficiar>
+<Account>BY73BPSB69018600450498400000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО "БПС-СБЕРБАНК"</Name>
+<Ground>Перев с конверс ПП 10 от 17.07.19, в сумме 86000.00  RUB.Курс сделки 62.2500 .  (VO60081)ПЛАТА ЗА ШОУ И ТРАНСФЕР  СУММА СОГЛ СЧ 603 ОТ 10.07.2019  'ООО ЭС-ДЖИ ТУРС' </Ground>
+</Beneficiar>
+</Document>
+</DebetDocuments> 
+<CreditDocuments>
+<DocumentsNet>0</DocumentsNet>
+<Turnover>0,00</Turnover>
+<CreditTurnoverNat>0,00</CreditTurnoverNat>
+</CreditDocuments>
+
+</Statement>
+</Statements>
+<?xml version = "1.0" encoding="CP866"?>
+<?xml-stylesheet type="text/xsl"?>
+<Statements>
+<Date>18.07.2019</Date>
+<Time>23:08:43</Time>
+<Type>ВЫПИСКА</Type>
+<Account>BY54BPSB30241816590108400000</Account>
+<UNN>102332897</UNN>
+<Statement>
+<Account>BY54BPSB30241816590108400000</Account>
+<Name></Name>
+<BIC>BPSBBY2X</BIC>
+<CurrCode>840</CurrCode>
+<CurrCodeISO>USD</CurrCodeISO>
+<OpeningBalance>340157,57</OpeningBalance>
+<OpeningBalanceNat>691914,51</OpeningBalanceNat>
+<KursRazn>1088.50</KursRazn>
+<DatePrevious>17.07.2019</DatePrevious>
+<ClosingBalance>326152,04</ClosingBalance>
+<ClosingBalanceNat>663425,86</ClosingBalanceNat>
+<DateClosing>18.07.2019</DateClosing>
+<DebetDocuments>
+<DocumentsNet>4</DocumentsNet>
+<Turnover>14005,53</Turnover>
+<DebetTurnoverNat>28488,65</DebetTurnoverNat>
+<Document>
+<DocumentNumber>16825</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>18.07.2019 15:32:26</Time>
+<OperType>06</OperType>
+<Amount>5.53</Amount>
+<AmountCurr>11.25</AmountCurr>
+<Beneficiar>
+<Account>BY84BPSB69018000050108400000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО "БПС-СБЕРБАНК"</Name>
+<Ground>Вознаграждение Банка за исполнение банковского перевода по п/п № 188 от 18/07/2019 согласно Сборника вознаграждений (платы) за операции, осуществляемые ОАО "БПС-Сбербанк", от 20.12.2016 №01/01-07/606. Без НДС согласно п. 1.37.2. ст.118 Особенной части Налогового Кодекса". </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>188</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>18.07.2019 15:32:25</Time>
+<OperType>01</OperType>
+<Amount>1 000.00</Amount>
+<AmountCurr>2 034.10</AmountCurr>
+<Beneficiar>
+<Account>BY81PJCB30120243531020000840</Account>
+<BIC>PJCBBY2X</BIC>
+<UNN>191299063</UNN>
+<NameBIC>'ПРИОРБАНК' ОАО</NameBIC>
+<Name>ООО "ИНТЕЛЛИКС-М"</Name>
+<Ground>ПЛАТА ЗА ИНФОРМАЦИОННЫЕ УСЛУГИ ЗА ИЮНЬ 2019 СОГЛ СЧ 187 ОТ 10.07.2019 </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>189</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>18.07.2019 15:34:57</Time>
+<OperType>06</OperType>
+<Amount>3 000.00</Amount>
+<AmountCurr>6 102.30</AmountCurr>
+<Beneficiar>
+<Account>BY73BPSB69018600450498400000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО "БПС-СБЕРБАНК"</Name>
+<Ground>Перевод с продажей ПП 189  от 18.07.19. Курс  2.0173 за 1 ед. валюты    СВОБОДНАЯ ПРОДАЖА ИНОСТРАННОЙ ВАЛЮТЫ </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>187</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>18.07.2019 15:09:01</Time>
+<OperType>06</OperType>
+<Amount>10 000.00</Amount>
+<AmountCurr>20 341.00</AmountCurr>
+<Beneficiar>
+<Account>BY73BPSB69018600450498400000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО "БПС-СБЕРБАНК"</Name>
+<Ground>Перевод с продажей ПП 187  от 18.07.19. Курс  2.0223 за 1 ед. валюты    СВОБОДНАЯ ПРОДАЖА ИНОСТРАННОЙ ВАЛЮТЫ </Ground>
+</Beneficiar>
+</Document>
+</DebetDocuments> 
+<CreditDocuments>
+<DocumentsNet>0</DocumentsNet>
+<Turnover>0,00</Turnover>
+<CreditTurnoverNat>1088,50</CreditTurnoverNat>
+</CreditDocuments>
+
+</Statement>
+</Statements>
+<?xml version = "1.0" encoding="CP866"?>
+<?xml-stylesheet type="text/xsl"?>
+<Statements>
+<Date>20.07.2019</Date>
+<Time>3:21:47</Time>
+<Type>ВЫПИСКА</Type>
+<Account>BY54BPSB30241816590108400000</Account>
+<UNN>102332897</UNN>
+<Statement>
+<Account>BY54BPSB30241816590108400000</Account>
+<Name></Name>
+<BIC>BPSBBY2X</BIC>
+<CurrCode>840</CurrCode>
+<CurrCodeISO>USD</CurrCodeISO>
+<OpeningBalance>326152,04</OpeningBalance>
+<OpeningBalanceNat>662121,3</OpeningBalanceNat>
+<KursRazn>-1304.56</KursRazn>
+<DatePrevious>18.07.2019</DatePrevious>
+<ClosingBalance>323919,45</ClosingBalance>
+<ClosingBalanceNat>657588,88</ClosingBalanceNat>
+<DateClosing>19.07.2019</DateClosing>
+<DebetDocuments>
+<DocumentsNet>18</DocumentsNet>
+<Turnover>2232,59</Turnover>
+<DebetTurnoverNat>5837,02</DebetTurnoverNat>
+<Document>
+<DocumentNumber>17275</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>19.07.2019 12:37:10</Time>
+<OperType>06</OperType>
+<Amount>5.54</Amount>
+<AmountCurr>11.25</AmountCurr>
+<Beneficiar>
+<Account>BY84BPSB69018000050108400000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО "БПС-СБЕРБАНК"</Name>
+<Ground>Вознаграждение Банка за исполнение банковского перевода по п/п № 197 от 19/07/2019 согласно Сборника вознаграждений (платы) за операции, осуществляемые ОАО "БПС-Сбербанк", от 20.12.2016 №01/01-07/606. Без НДС согласно п. 1.37.2. ст.118 Особенной части Налогового Кодекса". </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>17273</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>19.07.2019 12:37:09</Time>
+<OperType>06</OperType>
+<Amount>5.54</Amount>
+<AmountCurr>11.25</AmountCurr>
+<Beneficiar>
+<Account>BY84BPSB69018000050108400000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО "БПС-СБЕРБАНК"</Name>
+<Ground>Вознаграждение Банка за исполнение банковского перевода по п/п № 196 от 19/07/2019 согласно Сборника вознаграждений (платы) за операции, осуществляемые ОАО "БПС-Сбербанк", от 20.12.2016 №01/01-07/606. Без НДС согласно п. 1.37.2. ст.118 Особенной части Налогового Кодекса". </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>17271</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>19.07.2019 12:37:07</Time>
+<OperType>06</OperType>
+<Amount>5.54</Amount>
+<AmountCurr>11.25</AmountCurr>
+<Beneficiar>
+<Account>BY84BPSB69018000050108400000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО "БПС-СБЕРБАНК"</Name>
+<Ground>Вознаграждение Банка за исполнение банковского перевода по п/п № 195 от 19/07/2019 согласно Сборника вознаграждений (платы) за операции, осуществляемые ОАО "БПС-Сбербанк", от 20.12.2016 №01/01-07/606. Без НДС согласно п. 1.37.2. ст.118 Особенной части Налогового Кодекса". </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>17214</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>19.07.2019 12:36:15</Time>
+<OperType>06</OperType>
+<Amount>5.54</Amount>
+<AmountCurr>11.25</AmountCurr>
+<Beneficiar>
+<Account>BY84BPSB69018000050108400000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО "БПС-СБЕРБАНК"</Name>
+<Ground>Вознаграждение Банка за исполнение банковского перевода по п/п № 198 от 19/07/2019 согласно Сборника вознаграждений (платы) за операции, осуществляемые ОАО "БПС-Сбербанк", от 20.12.2016 №01/01-07/606. Без НДС согласно п. 1.37.2. ст.118 Особенной части Налогового Кодекса". </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>17211</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>19.07.2019 12:36:14</Time>
+<OperType>06</OperType>
+<Amount>5.54</Amount>
+<AmountCurr>11.25</AmountCurr>
+<Beneficiar>
+<Account>BY84BPSB69018000050108400000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО "БПС-СБЕРБАНК"</Name>
+<Ground>Вознаграждение Банка за исполнение банковского перевода по п/п № 193 от 19/07/2019 согласно Сборника вознаграждений (платы) за операции, осуществляемые ОАО "БПС-Сбербанк", от 20.12.2016 №01/01-07/606. Без НДС согласно п. 1.37.2. ст.118 Особенной части Налогового Кодекса". </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>17209</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>19.07.2019 12:36:13</Time>
+<OperType>06</OperType>
+<Amount>5.54</Amount>
+<AmountCurr>11.25</AmountCurr>
+<Beneficiar>
+<Account>BY84BPSB69018000050108400000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО "БПС-СБЕРБАНК"</Name>
+<Ground>Вознаграждение Банка за исполнение банковского перевода по п/п № 194 от 19/07/2019 согласно Сборника вознаграждений (платы) за операции, осуществляемые ОАО "БПС-Сбербанк", от 20.12.2016 №01/01-07/606. Без НДС согласно п. 1.37.2. ст.118 Особенной части Налогового Кодекса". </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>17205</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>19.07.2019 12:36:12</Time>
+<OperType>06</OperType>
+<Amount>5.54</Amount>
+<AmountCurr>11.25</AmountCurr>
+<Beneficiar>
+<Account>BY84BPSB69018000050108400000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО "БПС-СБЕРБАНК"</Name>
+<Ground>Вознаграждение Банка за исполнение банковского перевода по п/п № 191 от 19/07/2019 согласно Сборника вознаграждений (платы) за операции, осуществляемые ОАО "БПС-Сбербанк", от 20.12.2016 №01/01-07/606. Без НДС согласно п. 1.37.2. ст.118 Особенной части Налогового Кодекса". </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>17202</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>19.07.2019 12:36:10</Time>
+<OperType>06</OperType>
+<Amount>5.54</Amount>
+<AmountCurr>11.25</AmountCurr>
+<Beneficiar>
+<Account>BY84BPSB69018000050108400000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО "БПС-СБЕРБАНК"</Name>
+<Ground>Вознаграждение Банка за исполнение банковского перевода по п/п № 192 от 19/07/2019 согласно Сборника вознаграждений (платы) за операции, осуществляемые ОАО "БПС-Сбербанк", от 20.12.2016 №01/01-07/606. Без НДС согласно п. 1.37.2. ст.118 Особенной части Налогового Кодекса". </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>17200</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>19.07.2019 12:36:09</Time>
+<OperType>06</OperType>
+<Amount>5.54</Amount>
+<AmountCurr>11.25</AmountCurr>
+<Beneficiar>
+<Account>BY84BPSB69018000050108400000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО "БПС-СБЕРБАНК"</Name>
+<Ground>Вознаграждение Банка за исполнение банковского перевода по п/п № 190 от 19/07/2019 согласно Сборника вознаграждений (платы) за операции, осуществляемые ОАО "БПС-Сбербанк", от 20.12.2016 №01/01-07/606. Без НДС согласно п. 1.37.2. ст.118 Особенной части Налогового Кодекса". </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>192</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>19.07.2019 12:36:10</Time>
+<OperType>01</OperType>
+<Amount>91.20</Amount>
+<AmountCurr>185.15</AmountCurr>
+<Beneficiar>
+<Account>BY90BAPB30122002050160000000</Account>
+<BIC>BAPBBY2X</BIC>
+<UNN>700014653</UNN>
+<NameBIC>ОАО 'БЕЛАГРОПРОМБАНК'</NameBIC>
+<Name>МОГИЛЕВСКОЕ РУП "ФАРМАЦИЯ"</Name>
+<Ground>ЗА ИНФОРМАЦИОННЫЕ УСЛУГИ ЗА ИЮНЬ 2019 СОГЛ СЧ-Ф 1008 ОТ 30.06.19. СУММА 91,2 ДОЛЛ.США В ТЧ НДС (20%) 15,20 ДОЛЛ.США </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>195</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>19.07.2019 12:37:07</Time>
+<OperType>01</OperType>
+<Amount>144.00</Amount>
+<AmountCurr>292.33</AmountCurr>
+<Beneficiar>
+<Account>BY76PJCB30122006091000000933</Account>
+<BIC>PJCBBY2X</BIC>
+<UNN>390151700</UNN>
+<NameBIC>'ПРИОРБАНК' ОАО</NameBIC>
+<Name>ООО "ВИТФАРММАРКЕТ"</Name>
+<Ground>ПЛАТА ЗА ПРЕДОСТАВЛЕНИЕ ИНФОРМАЦИИ О ДВИЖЕНИИ ТОВАРА ЗА ИЮЛЬ 2019 СОГЛ СЧ ОТ 01.07.19 К ДОГ 01/03/19 ОТ 01 МАРТА 2019. СУММА 144 ДОЛЛ.США В ТЧ НДС (20%) 24 ДОЛЛ.США </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>196</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>19.07.2019 12:37:08</Time>
+<OperType>01</OperType>
+<Amount>167.40</Amount>
+<AmountCurr>339.84</AmountCurr>
+<Beneficiar>
+<Account>BY29BLBB30120100364237001003</Account>
+<BIC>BLBBBY2X</BIC>
+<UNN>100364237</UNN>
+<NameBIC>ОАО 'БЕЛИНВЕСТБАНК'</NameBIC>
+<Name>РУП "БЕЛФАРМАЦИЯ"</Name>
+<Ground>ПЛАТА ЗА МАРКЕТИНГОВЫЕ УСЛУГИ ЗА ИЮНЬ СОГЛ СЧ-Ф 242/И ОТ 02.07.19. СУММА 167,40 ДОЛЛ.США В ТЧ НДС (20%) 27,90 ДОЛЛ.США </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>197</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>19.07.2019 12:37:09</Time>
+<OperType>01</OperType>
+<Amount>178.20</Amount>
+<AmountCurr>361.76</AmountCurr>
+<Beneficiar>
+<Account>BY21BLBB30120600013211001005</Account>
+<BIC>BLBBBY2X</BIC>
+<UNN>600013211</UNN>
+<NameBIC>ОАО 'БЕЛИНВЕСТБАНК'</NameBIC>
+<Name>РУП "МИНСКАЯ ФАРМАЦИЯ"</Name>
+<Ground>ПРЕДОПЛАТА ЗА МАРКЕТИНГОВЫЕ УСЛУГИ ЗА ИЮЛЬ 2019 СОГЛ СЧ 4708 ОТ 01.07.19. СУММА 178,20 ДОЛЛ.США В ТЧ НДС (20%) 29,70 ДОЛЛ.США </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>194</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>19.07.2019 12:36:12</Time>
+<OperType>01</OperType>
+<Amount>212.95</Amount>
+<AmountCurr>432.31</AmountCurr>
+<Beneficiar>
+<Account>BY23BLBB30120300149691001004</Account>
+<BIC>BLBBBY2X</BIC>
+<UNN>300149691</UNN>
+<NameBIC>ОАО 'БЕЛИНВЕСТБАНК'</NameBIC>
+<Name>ВИТЕБСКОЕ УП "ФАРМАЦИЯ"</Name>
+<Ground>ПЛАТА ЗА МАРКЕТИНГОВЫЕ УСЛУГИ ЗА ИЮНЬ 2019 СОГЛ СЧ 342 ОТ 30.06.19. СУММА 212,95 ДОЛЛ.США В ТЧ НДС (20%) 35,49 ДОЛЛ.США </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>193</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>19.07.2019 12:36:13</Time>
+<OperType>01</OperType>
+<Amount>225.00</Amount>
+<AmountCurr>456.77</AmountCurr>
+<Beneficiar>
+<Account>BY27BLBB30120500059690001003</Account>
+<BIC>BLBBBY2X</BIC>
+<UNN>500059690</UNN>
+<NameBIC>ОАО 'БЕЛИНВЕСТБАНК'</NameBIC>
+<Name>ГРОДНЕНСКОЕ ТПРУП "ФАРМАЦИЯ"</Name>
+<Ground>ПРЕДОПЛАТА МАРКЕТИНГОВЫХ УСЛУГ ЗА АВГУСТ 2019 СОГЛ СЧ-Ф 489 ОТ 02.07.19. СУММА 225 ДОЛЛ.США В ТЧ НДС (20%) 37,5 ДОЛЛ.США </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>198</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>19.07.2019 12:36:14</Time>
+<OperType>01</OperType>
+<Amount>303.18</Amount>
+<AmountCurr>615.49</AmountCurr>
+<Beneficiar>
+<Account>BY11BLBB30120400022972001002</Account>
+<BIC>BLBBBY2X</BIC>
+<UNN>400022972</UNN>
+<NameBIC>ОАО 'БЕЛИНВЕСТБАНК'</NameBIC>
+<Name>ГОМЕЛЬСКОЕ УП "ФАРМАЦИЯ"</Name>
+<Ground>ПЛАТА ЗА МАРКЕТИНГОВЫЕ УСЛУГИ ЗА ИЮНЬ-ИЮЛЬ СОГЛ СЧ-Ф 795 ОТ 24.06.19, 740 ОТ 02.07.19, В ТЧ НДС (20%) 50,53 ДОЛЛ.США </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>191</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>19.07.2019 12:36:11</Time>
+<OperType>01</OperType>
+<Amount>310.80</Amount>
+<AmountCurr>630.96</AmountCurr>
+<Beneficiar>
+<Account>BY65BLBB30120200276523001004</Account>
+<BIC>BLBBBY2X</BIC>
+<UNN>200276523</UNN>
+<NameBIC>ОАО 'БЕЛИНВЕСТБАНК'</NameBIC>
+<Name>БРЕСТСКОЕ РУП "ФАРМАЦИЯ"</Name>
+<Ground>ПЛАТА ЗА МАРКЕТИНГОВЫЕ УСЛУГИ, ОКАЗАННЫЕ 5 ИЮЛЯ. СУММА СОГЛ СЧ-Ф 465 ОТ 05.07.19. В Т.Ч. НДС (20%) 51,80 ДОЛЛ.США </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>190</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>19.07.2019 12:36:08</Time>
+<OperType>01</OperType>
+<Amount>550.00</Amount>
+<AmountCurr>1 116.56</AmountCurr>
+<Beneficiar>
+<Account>BY83PJCB30120520361000000840</Account>
+<BIC>PJCBBY2X</BIC>
+<UNN>192748856</UNN>
+<NameBIC>'ПРИОРБАНК' ОАО</NameBIC>
+<Name>ООО "ТАБЛЕТКА БАЙ"</Name>
+<Ground>ОПЛАТА ЗА АУДИТ НАЛИЧИЯ ТОВАРОВ ЗА ИЮНЬ-ИЮЛЬ 2019 И ДОСТУП К МОБИЛЬНОМУ ПРИЛОЖЕНИЮ СОГЛ СЧ 198 ОТ 08.07.2019. БЕЗ НДС </Ground>
+</Beneficiar>
+</Document>
+</DebetDocuments> 
+<CreditDocuments>
+<DocumentsNet>0</DocumentsNet>
+<Turnover>0,00</Turnover>
+<CreditTurnoverNat>0,04</CreditTurnoverNat>
+</CreditDocuments>
+
+</Statement>
+</Statements>
+<?xml version = "1.0" encoding="CP866"?>
+<?xml-stylesheet type="text/xsl"?>
+<Statements>
+<Date>22.07.2019</Date>
+<Time>23:10:49</Time>
+<Type>ВЫПИСКА</Type>
+<Account>BY54BPSB30241816590108400000</Account>
+<UNN>102332897</UNN>
+<Statement>
+<Account>BY54BPSB30241816590108400000</Account>
+<Name></Name>
+<BIC>BPSBBY2X</BIC>
+<CurrCode>840</CurrCode>
+<CurrCodeISO>USD</CurrCodeISO>
+<OpeningBalance>323919,45</OpeningBalance>
+<OpeningBalanceNat>656098,85</OpeningBalanceNat>
+<KursRazn>-1490.03</KursRazn>
+<DatePrevious>19.07.2019</DatePrevious>
+<ClosingBalance>323919,45</ClosingBalance>
+<ClosingBalanceNat>656098,85</ClosingBalanceNat>
+<DateClosing>22.07.2019</DateClosing>
+<DebetDocuments>
+<DocumentsNet>0</DocumentsNet>
+<Turnover>0,00</Turnover>
+<DebetTurnoverNat>1490,03</DebetTurnoverNat>
+</DebetDocuments> 
+<CreditDocuments>
+<DocumentsNet>0</DocumentsNet>
+<Turnover>0,00</Turnover>
+<CreditTurnoverNat>0,00</CreditTurnoverNat>
+</CreditDocuments>
+
+</Statement>
+</Statements>
+<?xml version = "1.0" encoding="CP866"?>
+<?xml-stylesheet type="text/xsl"?>
+<Statements>
+<Date>23.07.2019</Date>
+<Time>23:10:50</Time>
+<Type>ВЫПИСКА</Type>
+<Account>BY54BPSB30241816590108400000</Account>
+<UNN>102332897</UNN>
+<Statement>
+<Account>BY54BPSB30241816590108400000</Account>
+<Name></Name>
+<BIC>BPSBBY2X</BIC>
+<CurrCode>840</CurrCode>
+<CurrCodeISO>USD</CurrCodeISO>
+<OpeningBalance>323919,45</OpeningBalance>
+<OpeningBalanceNat>655742,53</OpeningBalanceNat>
+<KursRazn>-356.32</KursRazn>
+<DatePrevious>22.07.2019</DatePrevious>
+<ClosingBalance>323919,45</ClosingBalance>
+<ClosingBalanceNat>655742,53</ClosingBalanceNat>
+<DateClosing>23.07.2019</DateClosing>
+<DebetDocuments>
+<DocumentsNet>0</DocumentsNet>
+<Turnover>0,00</Turnover>
+<DebetTurnoverNat>356,32</DebetTurnoverNat>
+</DebetDocuments> 
+<CreditDocuments>
+<DocumentsNet>0</DocumentsNet>
+<Turnover>0,00</Turnover>
+<CreditTurnoverNat>0,00</CreditTurnoverNat>
+</CreditDocuments>
+
+</Statement>
+</Statements>
+<?xml version = "1.0" encoding="CP866"?>
+<?xml-stylesheet type="text/xsl"?>
+<Statements>
+<Date>24.07.2019</Date>
+<Time>23:11:30</Time>
+<Type>ВЫПИСКА</Type>
+<Account>BY54BPSB30241816590108400000</Account>
+<UNN>102332897</UNN>
+<Statement>
+<Account>BY54BPSB30241816590108400000</Account>
+<Name></Name>
+<BIC>BPSBBY2X</BIC>
+<CurrCode>840</CurrCode>
+<CurrCodeISO>USD</CurrCodeISO>
+<OpeningBalance>323919,45</OpeningBalance>
+<OpeningBalanceNat>655127,09</OpeningBalanceNat>
+<KursRazn>-615.44</KursRazn>
+<DatePrevious>23.07.2019</DatePrevious>
+<ClosingBalance>308919,45</ClosingBalance>
+<ClosingBalanceNat>624789,59</ClosingBalanceNat>
+<DateClosing>24.07.2019</DateClosing>
+<DebetDocuments>
+<DocumentsNet>1</DocumentsNet>
+<Turnover>15000,00</Turnover>
+<DebetTurnoverNat>30952,94</DebetTurnoverNat>
+<Document>
+<DocumentNumber>199</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>24.07.2019 13:18:21</Time>
+<OperType>06</OperType>
+<Amount>15 000.00</Amount>
+<AmountCurr>30 337.50</AmountCurr>
+<Beneficiar>
+<Account>BY73BPSB69018600450498400000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО "БПС-СБЕРБАНК"</Name>
+<Ground>Перевод с продажей ПП 199  от 24.07.19. Курс  2.0189 за 1 ед. валюты    СВОБОДНАЯ ПРОДАЖА ИНОСТРАННОЙ ВАЛЮТЫ </Ground>
+</Beneficiar>
+</Document>
+</DebetDocuments> 
+<CreditDocuments>
+<DocumentsNet>0</DocumentsNet>
+<Turnover>0,00</Turnover>
+<CreditTurnoverNat>0,00</CreditTurnoverNat>
+</CreditDocuments>
+
+</Statement>
+</Statements>
+<?xml version = "1.0" encoding="CP866"?>
+<?xml-stylesheet type="text/xsl"?>
+<Statements>
+<Date>25.07.2019</Date>
+<Time>23:11:03</Time>
+<Type>ВЫПИСКА</Type>
+<Account>BY54BPSB30241816590108400000</Account>
+<UNN>102332897</UNN>
+<Statement>
+<Account>BY54BPSB30241816590108400000</Account>
+<Name></Name>
+<BIC>BPSBBY2X</BIC>
+<CurrCode>840</CurrCode>
+<CurrCodeISO>USD</CurrCodeISO>
+<OpeningBalance>308919,45</OpeningBalance>
+<OpeningBalanceNat>626550,43</OpeningBalanceNat>
+<KursRazn>1760.84</KursRazn>
+<DatePrevious>24.07.2019</DatePrevious>
+<ClosingBalance>300919,45</ClosingBalance>
+<ClosingBalanceNat>610324,83</ClosingBalanceNat>
+<DateClosing>25.07.2019</DateClosing>
+<DebetDocuments>
+<DocumentsNet>2</DocumentsNet>
+<Turnover>8000,00</Turnover>
+<DebetTurnoverNat>16225,60</DebetTurnoverNat>
+<Document>
+<DocumentNumber>201</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>25.07.2019 12:42:31</Time>
+<OperType>06</OperType>
+<Amount>3 000.00</Amount>
+<AmountCurr>6 084.60</AmountCurr>
+<Beneficiar>
+<Account>BY73BPSB69018600450498400000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО "БПС-СБЕРБАНК"</Name>
+<Ground>Перевод с продажей ПП 201  от 25.07.19. Курс  2.0160 за 1 ед. валюты    СВОБОДНАЯ ПРОДАЖА ИНОСТРАННОЙ ВАЛЮТЫ </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>200</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>25.07.2019 12:12:10</Time>
+<OperType>06</OperType>
+<Amount>5 000.00</Amount>
+<AmountCurr>10 141.00</AmountCurr>
+<Beneficiar>
+<Account>BY73BPSB69018600450498400000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО "БПС-СБЕРБАНК"</Name>
+<Ground>Перевод с продажей ПП 200  от 25.07.19. Курс  2.0160 за 1 ед. валюты    СВОБОДНАЯ ПРОДАЖА ИНОСТРАННОЙ ВАЛЮТЫ </Ground>
+</Beneficiar>
+</Document>
+</DebetDocuments> 
+<CreditDocuments>
+<DocumentsNet>0</DocumentsNet>
+<Turnover>0,00</Turnover>
+<CreditTurnoverNat>1760,84</CreditTurnoverNat>
+</CreditDocuments>
+
+</Statement>
+</Statements>
+<?xml version = "1.0" encoding="CP866"?>
+<?xml-stylesheet type="text/xsl"?>
+<Statements>
+<Date>26.07.2019</Date>
+<Time>23:10:35</Time>
+<Type>ВЫПИСКА</Type>
+<Account>BY54BPSB30241816590108400000</Account>
+<UNN>102332897</UNN>
+<Statement>
+<Account>BY54BPSB30241816590108400000</Account>
+<Name></Name>
+<BIC>BPSBBY2X</BIC>
+<CurrCode>840</CurrCode>
+<CurrCodeISO>USD</CurrCodeISO>
+<OpeningBalance>300919,45</OpeningBalance>
+<OpeningBalanceNat>610655,84</OpeningBalanceNat>
+<KursRazn>331.01</KursRazn>
+<DatePrevious>25.07.2019</DatePrevious>
+<ClosingBalance>250635,82</ClosingBalance>
+<ClosingBalanceNat>508615,27</ClosingBalanceNat>
+<DateClosing>26.07.2019</DateClosing>
+<DebetDocuments>
+<DocumentsNet>2</DocumentsNet>
+<Turnover>50283,63</Turnover>
+<DebetTurnoverNat>102040,57</DebetTurnoverNat>
+<Document>
+<DocumentNumber>8867</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>26.07.2019 12:53:41</Time>
+<OperType>06</OperType>
+<Amount>283.63</Amount>
+<AmountCurr>575.57</AmountCurr>
+<Beneficiar>
+<Account>BY73BPSB69018600450498400000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО "БПС-СБЕРБАНК"</Name>
+<Ground>Перев с конверс ПП 203 от 26.07.19, в сумме 252.00  EUR.Курс сделки 1.1255 .  ОПЛАТА СТРАХОВЫХ ВЗНОСОВ СОГЛ СЧ Ф 15/389 ОТ 24.07.2019 ПО ТАРИФАМ, УТВЕРЖДЕННЫМ УКАЗОМ ПРЕЗИДЕНТА РБ 236 ОТ 28.04.2008  'ЗАСО "ТАСК"' </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>202</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>26.07.2019 12:20:18</Time>
+<OperType>06</OperType>
+<Amount>50 000.00</Amount>
+<AmountCurr>101 465.00</AmountCurr>
+<Beneficiar>
+<Account>BY73BPSB69018600450498400000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО "БПС-СБЕРБАНК"</Name>
+<Ground>Перевод с продажей ПП 202  от 26.07.19. Курс  2.0222 за 1 ед. валюты    СВОБОДНАЯ ПРОДАЖА ИНОСТРАННОЙ ВАЛЮТЫ </Ground>
+</Beneficiar>
+</Document>
+</DebetDocuments> 
+<CreditDocuments>
+<DocumentsNet>0</DocumentsNet>
+<Turnover>0,00</Turnover>
+<CreditTurnoverNat>331,01</CreditTurnoverNat>
+</CreditDocuments>
+
+</Statement>
+</Statements>
+<?xml version = "1.0" encoding="CP866"?>
+<?xml-stylesheet type="text/xsl"?>
+<Statements>
+<Date>29.07.2019</Date>
+<Time>23:11:21</Time>
+<Type>ВЫПИСКА</Type>
+<Account>BY54BPSB30241816590108400000</Account>
+<UNN>102332897</UNN>
+<Statement>
+<Account>BY54BPSB30241816590108400000</Account>
+<Name></Name>
+<BIC>BPSBBY2X</BIC>
+<CurrCode>840</CurrCode>
+<CurrCodeISO>USD</CurrCodeISO>
+<OpeningBalance>250635,82</OpeningBalance>
+<OpeningBalanceNat>508063,87</OpeningBalanceNat>
+<KursRazn>-551.40</KursRazn>
+<DatePrevious>26.07.2019</DatePrevious>
+<ClosingBalance>175635,82</ClosingBalance>
+<ClosingBalanceNat>356031,37</ClosingBalanceNat>
+<DateClosing>29.07.2019</DateClosing>
+<DebetDocuments>
+<DocumentsNet>2</DocumentsNet>
+<Turnover>75000,00</Turnover>
+<DebetTurnoverNat>152583,90</DebetTurnoverNat>
+<Document>
+<DocumentNumber>204</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>29.07.2019 13:09:31</Time>
+<OperType>06</OperType>
+<Amount>5 000.00</Amount>
+<AmountCurr>10 135.50</AmountCurr>
+<Beneficiar>
+<Account>BY73BPSB69018600450498400000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО "БПС-СБЕРБАНК"</Name>
+<Ground>Перевод с продажей ПП 204  от 29.07.19. Курс  2.0240 за 1 ед. валюты    СВОБОДНАЯ ПРОДАЖА ИНОСТРАННОЙ ВАЛЮТЫ </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>205</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>29.07.2019 13:14:03</Time>
+<OperType>06</OperType>
+<Amount>70 000.00</Amount>
+<AmountCurr>141 897.00</AmountCurr>
+<Beneficiar>
+<Account>BY73BPSB69018600450498400000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО "БПС-СБЕРБАНК"</Name>
+<Ground>Перевод с продажей ПП 205  от 29.07.19. Курс  2.0300 за 1 ед. валюты    СВОБОДНАЯ ПРОДАЖА ИНОСТРАННОЙ ВАЛЮТЫ </Ground>
+</Beneficiar>
+</Document>
+</DebetDocuments> 
+<CreditDocuments>
+<DocumentsNet>0</DocumentsNet>
+<Turnover>0,00</Turnover>
+<CreditTurnoverNat>0,00</CreditTurnoverNat>
+</CreditDocuments>
+
+</Statement>
+</Statements>
+<?xml version = "1.0" encoding="CP866"?>
+<?xml-stylesheet type="text/xsl"?>
+<Statements>
+<Date>30.07.2019</Date>
+<Time>23:10:47</Time>
+<Type>ВЫПИСКА</Type>
+<Account>BY54BPSB30241816590108400000</Account>
+<UNN>102332897</UNN>
+<Statement>
+<Account>BY54BPSB30241816590108400000</Account>
+<Name></Name>
+<BIC>BPSBBY2X</BIC>
+<CurrCode>840</CurrCode>
+<CurrCodeISO>USD</CurrCodeISO>
+<OpeningBalance>175635,82</OpeningBalance>
+<OpeningBalanceNat>357295,95</OpeningBalanceNat>
+<KursRazn>1264.58</KursRazn>
+<DatePrevious>29.07.2019</DatePrevious>
+<ClosingBalance>120960,84</ClosingBalance>
+<ClosingBalanceNat>246070,64</ClosingBalanceNat>
+<DateClosing>30.07.2019</DateClosing>
+<DebetDocuments>
+<DocumentsNet>5</DocumentsNet>
+<Turnover>54674,98</Turnover>
+<DebetTurnoverNat>111225,31</DebetTurnoverNat>
+<Document>
+<DocumentNumber>11264</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>30.07.2019 14:59:55</Time>
+<OperType>06</OperType>
+<Amount>12.28</Amount>
+<AmountCurr>24.98</AmountCurr>
+<Beneficiar>
+<Account>BY84BPSB69018000050108400000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО "БПС-СБЕРБАНК"</Name>
+<Ground>Вознаграждение Банка за исполнение банковского перевода по п/п № 11 от 30/07/2019 согласно Сборника вознаграждений (платы) за операции, осуществляемые ОАО "БПС-Сбербанк", от 20.12.2016 №01/01-07/606. Без НДС согласно п. 1.37.2. ст.118 Особенной части Налогового Кодекса". </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>12296</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>30.07.2019 15:34:49</Time>
+<OperType>06</OperType>
+<Amount>3 373.50</Amount>
+<AmountCurr>6 862.71</AmountCurr>
+<Beneficiar>
+<Account>BY73BPSB69018600450498400000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО "БПС-СБЕРБАНК"</Name>
+<Ground>Перев с конверс ПП 208 от 30.07.19, в сумме 3000.00  EUR.Курс сделки 1.1245 .  ЗА РАЗМЕЩЕНИЕ ИНФОРМАЦИИ В СПРАВОЧНИКЕ СОГЛ ДОГ В-NEU19/02 ОТ 19.07.19. СУММА СОГЛ СЧ/Ф 19/В012 ОТ 23.07.2019-3000 ЕВРО, В Т.Ч.НДС (20 )  'ИПУП "ВИДАЛЬ БЕЛ"' </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>11248</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>30.07.2019 14:59:39</Time>
+<OperType>06</OperType>
+<Amount>8 289.20</Amount>
+<AmountCurr>16 862.72</AmountCurr>
+<Beneficiar>
+<Account>BY73BPSB69018600450498400000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО "БПС-СБЕРБАНК"</Name>
+<Ground>Перев с конверс ПП 11 от 30.07.19, в сумме 519733.00  RUB.Курс сделки 62.7000 .  (VO60081)ЗА УСЛУГИ ПО ОРГАНИЗАЦИИ МЕРОПРИЯТИЯ СОГЛ ДОГ. 405 ОТ 25.07.19. СУММА СОГЛ СЧ 17 ОТ 29.07.19-519733 РУБ  'ИНДИВИДУАЛЬНЫЙ ПРЕДПРИНИМАТЕЛЬ КОНЮХОВ ЕВГЕНИЙ СЕРГЕЕВИЧ' </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>207</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>30.07.2019 15:07:00</Time>
+<OperType>01</OperType>
+<Amount>10 000.00</Amount>
+<AmountCurr>20 343.00</AmountCurr>
+<Beneficiar>
+<Account>BY48BPSB30121662990618400000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>192219012</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ООО "ГРУППА КОМПАНИЙ СТЕЦКЕВИЧ"</Name>
+<Ground>ПЛАТА ЗА ТОВАР СОГЛ СЧ Б/Н ОТ 29.07.19. СУММА-10000 ДОЛЛАРОВ США </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>206</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>30.07.2019 13:30:45</Time>
+<OperType>06</OperType>
+<Amount>33 000.00</Amount>
+<AmountCurr>67 131.90</AmountCurr>
+<Beneficiar>
+<Account>BY73BPSB69018600450498400000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО "БПС-СБЕРБАНК"</Name>
+<Ground>Перевод с продажей ПП 206  от 30.07.19. Курс  2.0276 за 1 ед. валюты    СВОБОДНАЯ ПРОДАЖА ИНОСТРАННОЙ ВАЛЮТЫ </Ground>
+</Beneficiar>
+</Document>
+</DebetDocuments> 
+<CreditDocuments>
+<DocumentsNet>0</DocumentsNet>
+<Turnover>0,00</Turnover>
+<CreditTurnoverNat>1264,58</CreditTurnoverNat>
+</CreditDocuments>
+
+</Statement>
+</Statements>
+<?xml version = "1.0" encoding="CP866"?>
+<?xml-stylesheet type="text/xsl"?>
+<Statements>
+<Date>31.07.2019</Date>
+<Time>23:22:20</Time>
+<Type>ВЫПИСКА</Type>
+<Account>BY54BPSB30241816590108400000</Account>
+<UNN>102332897</UNN>
+<Statement>
+<Account>BY54BPSB30241816590108400000</Account>
+<Name></Name>
+<BIC>BPSBBY2X</BIC>
+<CurrCode>840</CurrCode>
+<CurrCodeISO>USD</CurrCodeISO>
+<OpeningBalance>120960,84</OpeningBalance>
+<OpeningBalanceNat>246131,12</OpeningBalanceNat>
+<KursRazn>60.48</KursRazn>
+<DatePrevious>30.07.2019</DatePrevious>
+<ClosingBalance>107962,53</ClosingBalance>
+<ClosingBalanceNat>219682,16</ClosingBalanceNat>
+<DateClosing>31.07.2019</DateClosing>
+<DebetDocuments>
+<DocumentsNet>2</DocumentsNet>
+<Turnover>13000,00</Turnover>
+<DebetTurnoverNat>26452,40</DebetTurnoverNat>
+<Document>
+<DocumentNumber>210</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>31.07.2019 16:29:06</Time>
+<OperType>06</OperType>
+<Amount>3 000.00</Amount>
+<AmountCurr>6 104.40</AmountCurr>
+<Beneficiar>
+<Account>BY73BPSB69018600450498400000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО "БПС-СБЕРБАНК"</Name>
+<Ground>Перевод с продажей ПП 210  от 31.07.19. Курс  2.0217 за 1 ед. валюты    СВОБОДНАЯ ПРОДАЖА ИНОСТРАННОЙ ВАЛЮТЫ </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>209</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>31.07.2019 12:50:41</Time>
+<OperType>06</OperType>
+<Amount>10 000.00</Amount>
+<AmountCurr>20 348.00</AmountCurr>
+<Beneficiar>
+<Account>BY73BPSB69018600450498400000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО "БПС-СБЕРБАНК"</Name>
+<Ground>Перевод с продажей ПП 209  от 31.07.19. Курс  2.0271 за 1 ед. валюты    СВОБОДНАЯ ПРОДАЖА ИНОСТРАННОЙ ВАЛЮТЫ </Ground>
+</Beneficiar>
+</Document>
+</DebetDocuments> 
+<CreditDocuments>
+<DocumentsNet>1</DocumentsNet>
+<Turnover>1,69</Turnover>
+<CreditTurnoverNat>63,92</CreditTurnoverNat>
+<Document>
+<DocumentNumber>15145</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>31.07.2019 13:42:30</Time>
+<OperType>06</OperType>
+<Amount>1.69</Amount>
+<AmountCurr>3.44</AmountCurr>
+<Payer>
+<Account>BY84BPSB69018000050108400000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>ОАО "БПС-СБЕРБАНК", г Минск</NameBIC>
+<Name>ОАО "БПС-СБЕРБАНК"</Name>
+<Ground>Выплата процентов по счетам клиентов за период с 28/06/2019 по 30/07/2019 по договору от 30.06.2017 № 777/181659/Т/840/02. Налог на доходы 10% в сумме 0.38 бел. руб. </Ground>
+</Payer>
+</Document>
+</CreditDocuments>
+
+</Statement>
+</Statements>

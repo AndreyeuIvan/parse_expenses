@@ -1,0 +1,2660 @@
+<?xml version = "1.0" encoding="CP866"?>
+<?xml-stylesheet type="text/xsl"?>
+<Statements>
+<Date>01.02.2019</Date>
+<Time>23:10:36</Time>
+<Type>�������</Type>
+<Account>BY86BPSB30211816590139330000</Account>
+<UNN>102332897</UNN>
+<Statement>
+<Account>BY86BPSB30211816590139330000</Account>
+<Name></Name>
+<BIC>BPSBBY2X</BIC>
+<CurrCode>933</CurrCode>
+<CurrCodeISO>BYN</CurrCodeISO>
+<OpeningBalance>28390,61</OpeningBalance>
+<OpeningBalanceNat>28390,61</OpeningBalanceNat>
+<KursRazn>0.00</KursRazn>
+<DatePrevious>31.01.2019</DatePrevious>
+<ClosingBalance>28192,61</ClosingBalance>
+<ClosingBalanceNat>28192,61</ClosingBalanceNat>
+<DateClosing>01.02.2019</DateClosing>
+<DebetDocuments>
+<DocumentsNet>1</DocumentsNet>
+<Turnover>198,00</Turnover>
+<DebetTurnoverNat>198,00</DebetTurnoverNat>
+<Document>
+<DocumentNumber>57170</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>01.02.2019 10:59:10</Time>
+<OperType>06</OperType>
+<Amount>198.00</Amount>
+<AmountCurr>198.00</AmountCurr>
+<Beneficiar>
+<Account>BY19BPSB64331816590159330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>��� "���-��������", � ����</NameBIC>
+<Name>��� "���-��������"</Name>
+<Ground>����� ��� �� ��䭮�� ����� "���" �� ��ਮ� � 01/03/2019 �� 31/03/2019 � ��� BY86BPSB30211816590139330000, ᮣ��᭮ �������� 777/181659/�/933/01 �� 30.06.2017. ��� ��� ᮣ��᭮ �. 1.37.2. ��.94 �ᮡ����� ��� ���������� ������". </Ground>
+</Beneficiar>
+</Document>
+</DebetDocuments> 
+<CreditDocuments>
+<DocumentsNet>0</DocumentsNet>
+<Turnover>0,00</Turnover>
+<CreditTurnoverNat>0,00</CreditTurnoverNat>
+</CreditDocuments>
+</Statement>
+</Statements>
+<Statements>
+<Date>04.02.2019</Date>
+<Time>23:07:12</Time>
+<Type>�������</Type>
+<Account>BY86BPSB30211816590139330000</Account>
+<UNN>102332897</UNN>
+<Statement>
+<Account>BY86BPSB30211816590139330000</Account>
+<Name></Name>
+<BIC>BPSBBY2X</BIC>
+<CurrCode>933</CurrCode>
+<CurrCodeISO>BYN</CurrCodeISO>
+<OpeningBalance>28192,61</OpeningBalance>
+<OpeningBalanceNat>28192,61</OpeningBalanceNat>
+<KursRazn>0.00</KursRazn>
+<DatePrevious>01.02.2019</DatePrevious>
+<ClosingBalance>16255,27</ClosingBalance>
+<ClosingBalanceNat>16255,27</ClosingBalanceNat>
+<DateClosing>04.02.2019</DateClosing>
+<DebetDocuments>
+<DocumentsNet>7</DocumentsNet>
+<Turnover>11937,34</Turnover>
+<DebetTurnoverNat>11937,34</DebetTurnoverNat>
+<Document>
+<DocumentNumber>11036</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>04.02.2019 12:26:15</Time>
+<OperType>06</OperType>
+<Amount>6.48</Amount>
+<AmountCurr>6.48</AmountCurr>
+<Beneficiar>
+<Account>BY63BPSB81010000053159330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>��� "���-��������", � ����</NameBIC>
+<Name>��� "���-��������"</Name>
+<Ground>�������. �� ���᫥��� �������� �।�� �� ��� 䨧.���, �� �/� �15 �� 04.02.2019 ᮣ�. �������� 348-2017 �� 07.07.2017�. ��� ��� ᮣ��᭮ �. 1.37.2. ��.94 �ᮡ����� ��� ���������� ������ </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>76</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>04.02.2019 11:47:04</Time>
+<OperType>01</OperType>
+<Amount>162.00</Amount>
+<AmountCurr>162.00</AmountCurr>
+<Beneficiar>
+<Account>BY33MMBN30120031000109330000</Account>
+<BIC>MMBNBY22</BIC>
+<UNN>191230820</UNN>
+<NameBIC>��� '���� ��������',</NameBIC>
+<Name>��� "���� ������"</Name>
+<Ground>����� �� ������������ ���������� ������������ �� ������ ���� ���� �/� �� 31.01.2019. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>78</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>04.02.2019 11:47:05</Time>
+<OperType>01</OperType>
+<Amount>170.36</Amount>
+<AmountCurr>170.36</AmountCurr>
+<Beneficiar>
+<Account>BY87TECN30127043200160000000</Account>
+<BIC>TECNBY22</BIC>
+<UNN>101346274</UNN>
+<NameBIC>��� '���������',</NameBIC>
+<Name>��� "����������"</Name>
+<Ground>����� �� ���������� ���� ���� ������ �������� 7 �� 31.01.2019. ����� � ��� 170,36=. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>77</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>04.02.2019 11:47:04</Time>
+<OperType>01</OperType>
+<Amount>214.22</Amount>
+<AmountCurr>214.22</AmountCurr>
+<Beneficiar>
+<Account>BY55BELB30120064290050226000</Account>
+<BIC>BELBBY2X</BIC>
+<UNN>100386830</UNN>
+<NameBIC>��� '���� ������',</NameBIC>
+<Name>��� "������"</Name>
+<Ground>������ �� ������ �� ��������������. ����� ����. �/� 108 �� 31.01.2019. ����� ��� (20%) 35,70=. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>79</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>04.02.2019 11:52:19</Time>
+<OperType>01</OperType>
+<Amount>700.00</Amount>
+<AmountCurr>700.00</AmountCurr>
+<Beneficiar>
+<Account>BY93MTBK30120001093300087540</Account>
+<BIC>MTBKBY22</BIC>
+<UNN>291378662</UNN>
+<NameBIC>��� '������',</NameBIC>
+<Name>��� "���������������"</Name>
+<Ground>���������� �� ������������ ������ ���� ��� 1 �� 23.01.2019. ����� - 700 ������, ��� ��� </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>15</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>04.02.2019 12:26:15</Time>
+<OperType>01</OperType>
+<Amount>2 160.00</Amount>
+<AmountCurr>2 160.00</AmountCurr>
+<Beneficiar>
+<Account>BY13BPSB38198000000709330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>��� "���-��������", � ����</NameBIC>
+<Name>��� ���-��������</Name>
+<Ground>���������� ����� �� ������. ������� N 348-2017 �� 07.07.2017.  ������ �� ������� N 15 �� 04.02.2019. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>75</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>04.02.2019 09:32:24</Time>
+<OperType>01</OperType>
+<Amount>8 524.28</Amount>
+<AmountCurr>8 524.28</AmountCurr>
+<Beneficiar>
+<Account>BY30PJCB30122016831000000933</Account>
+<BIC>PJCBBY2X</BIC>
+<UNN>191751593</UNN>
+<NameBIC>'���������' ���,</NameBIC>
+<Name>��� "����������� �������� �������� "������ �����"</Name>
+<Ground>����� �� �������������� ����� �� ���������� ������� ���� ���� 6 �� 31.12.18, ����� ���-1420,71=. </Ground>
+</Beneficiar>
+</Document>
+</DebetDocuments> 
+<CreditDocuments>
+<DocumentsNet>0</DocumentsNet>
+<Turnover>0,00</Turnover>
+<CreditTurnoverNat>0,00</CreditTurnoverNat>
+</CreditDocuments>
+
+</Statement>
+</Statements>
+<?xml version = "1.0" encoding="CP866"?>
+<?xml-stylesheet type="text/xsl"?>
+<Statements>
+<Date>05.02.2019</Date>
+<Time>23:07:42</Time>
+<Type>�������</Type>
+<Account>BY86BPSB30211816590139330000</Account>
+<UNN>102332897</UNN>
+<Statement>
+<Account>BY86BPSB30211816590139330000</Account>
+<Name></Name>
+<BIC>BPSBBY2X</BIC>
+<CurrCode>933</CurrCode>
+<CurrCodeISO>BYN</CurrCodeISO>
+<OpeningBalance>16255,27</OpeningBalance>
+<OpeningBalanceNat>16255,27</OpeningBalanceNat>
+<KursRazn>0.00</KursRazn>
+<DatePrevious>04.02.2019</DatePrevious>
+<ClosingBalance>9430,82</ClosingBalance>
+<ClosingBalanceNat>9430,82</ClosingBalanceNat>
+<DateClosing>05.02.2019</DateClosing>
+<DebetDocuments>
+<DocumentsNet>5</DocumentsNet>
+<Turnover>6824,45</Turnover>
+<DebetTurnoverNat>6824,45</DebetTurnoverNat>
+<Document>
+<DocumentNumber>6654</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>05.02.2019 11:19:26</Time>
+<OperType>06</OperType>
+<Amount>3.65</Amount>
+<AmountCurr>3.65</AmountCurr>
+<Beneficiar>
+<Account>BY63BPSB81010000053159330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>��� "���-��������", � ����</NameBIC>
+<Name>��� "���-��������"</Name>
+<Ground>�������. �� ���᫥��� �������� �।�� �� ��� 䨧.���, �� �/� �16 �� 05.02.2019 ᮣ�. �������� 348-2017 �� 07.07.2017�. ��� ��� ᮣ��᭮ �. 1.37.2. ��.94 �ᮡ����� ��� ���������� ������ </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>82</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>05.02.2019 10:05:40</Time>
+<OperType>01</OperType>
+<Amount>123.52</Amount>
+<AmountCurr>123.52</AmountCurr>
+<Beneficiar>
+<Account>BY87BPSB30133011650189330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100375618</UNN>
+<NameBIC>��� "���-��������", � ����</NameBIC>
+<Name>�� ��������� ������ �����������</Name>
+<Ground>����� �� ������ ��������� �� ������� ���� ��� �� �� 28.12.2015. ����� 123,52 ��� ��� </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>16</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>05.02.2019 11:19:26</Time>
+<OperType>01</OperType>
+<Amount>1 217.63</Amount>
+<AmountCurr>1 217.63</AmountCurr>
+<Beneficiar>
+<Account>BY13BPSB38198000000709330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>��� "���-��������", � ����</NameBIC>
+<Name>��� ���-��������</Name>
+<Ground>���������� ����� �� ������. ������� N 348-2017 �� 07.07.2017.  ������ �� ������� N 16 �� 05.02.2019. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>80</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>05.02.2019 09:55:22</Time>
+<OperType>01</OperType>
+<Amount>1 500.00</Amount>
+<AmountCurr>1 500.00</AmountCurr>
+<Beneficiar>
+<Account>BY34OLMP31190000001710000933</Account>
+<BIC>OLMPBY2X</BIC>
+<UNN>100429079</UNN>
+<NameBIC>��� '��������������',</NameBIC>
+<Name>��� "������"</Name>
+<Ground>������ ������� ����������� ����� "������" ���� ��� 24052 �� 05/03/2008 ��� ��� </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>81</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>05.02.2019 10:05:48</Time>
+<OperType>01</OperType>
+<Amount>3 979.65</Amount>
+<AmountCurr>3 979.65</AmountCurr>
+<Beneficiar>
+<Account>BY89BLBB30120100138514001001</Account>
+<BIC>BLBBBY2X</BIC>
+<UNN>100138514</UNN>
+<NameBIC>��� '�������������',</NameBIC>
+<Name>�� "����������"</Name>
+<Ground>������ ������ ����� �� ������� 2019 �. ����� ���� ��� 15-��/16 �� 31.12.2015 </Ground>
+</Beneficiar>
+</Document>
+</DebetDocuments> 
+<CreditDocuments>
+<DocumentsNet>0</DocumentsNet>
+<Turnover>0,00</Turnover>
+<CreditTurnoverNat>0,00</CreditTurnoverNat>
+</CreditDocuments>
+
+</Statement>
+</Statements>
+<?xml version = "1.0" encoding="CP866"?>
+<?xml-stylesheet type="text/xsl"?>
+<Statements>
+<Date>06.02.2019</Date>
+<Time>23:07:52</Time>
+<Type>�������</Type>
+<Account>BY86BPSB30211816590139330000</Account>
+<UNN>102332897</UNN>
+<Statement>
+<Account>BY86BPSB30211816590139330000</Account>
+<Name></Name>
+<BIC>BPSBBY2X</BIC>
+<CurrCode>933</CurrCode>
+<CurrCodeISO>BYN</CurrCodeISO>
+<OpeningBalance>9430,82</OpeningBalance>
+<OpeningBalanceNat>9430,82</OpeningBalanceNat>
+<KursRazn>0.00</KursRazn>
+<DatePrevious>05.02.2019</DatePrevious>
+<ClosingBalance>2699,52</ClosingBalance>
+<ClosingBalanceNat>2699,52</ClosingBalanceNat>
+<DateClosing>06.02.2019</DateClosing>
+<DebetDocuments>
+<DocumentsNet>14</DocumentsNet>
+<Turnover>6731,30</Turnover>
+<DebetTurnoverNat>6731,30</DebetTurnoverNat>
+<Document>
+<DocumentNumber>84</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>06.02.2019 13:07:25</Time>
+<OperType>01</OperType>
+<Amount>17.00</Amount>
+<AmountCurr>17.00</AmountCurr>
+<Beneficiar>
+<Account>BY41OLMP30127000069340000933</Account>
+<BIC>OLMPBY2X</BIC>
+<UNN>790642657</UNN>
+<NameBIC>��� '��������������',</NameBIC>
+<Name>��� ��-������</Name>
+<Ground>����� �� ����� ���������� ���� ���� 27 �� 31.01.19. ��� ��� </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>83</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>06.02.2019 13:07:25</Time>
+<OperType>01</OperType>
+<Amount>26.40</Amount>
+<AmountCurr>26.40</AmountCurr>
+<Beneficiar>
+<Account>BY38PJCB30120151551000000933</Account>
+<BIC>PJCBBY2X</BIC>
+<UNN>690027140</UNN>
+<NameBIC>'���������' ���,</NameBIC>
+<Name>��� "��� ����"</Name>
+<Ground>������ �� ���� �������� ���� ��-�� �-055011 �� 04.02.19. �����  ��� 4,40 </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>85</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>06.02.2019 13:07:25</Time>
+<OperType>01</OperType>
+<Amount>45.74</Amount>
+<AmountCurr>45.74</AmountCurr>
+<Beneficiar>
+<Account>BY79PJCB30120002411080000933</Account>
+<BIC>PJCBBY2X</BIC>
+<UNN>101528843</UNN>
+<NameBIC>'���������' ���,</NameBIC>
+<Name>�� "������"</Name>
+<Ground>������ �� ������ ������� � ���� �������� ���� ��-���� 311926 �� 31.01.2019 � ��� 235/06-11 �� 03.06.2011. ����� ��� 9,15=. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>92</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>06.02.2019 13:25:12</Time>
+<OperType>01</OperType>
+<Amount>54.00</Amount>
+<AmountCurr>54.00</AmountCurr>
+<Beneficiar>
+<Account>BY02ALFA30122126930040270000</Account>
+<BIC>ALFABY2X</BIC>
+<UNN>191302560</UNN>
+<NameBIC>��� '�����-����',</NameBIC>
+<Name>��� "�������� �������� �������"</Name>
+<Ground>������ �� �������� ���������� ���� ���� ��-110332 �� 31.01.19, ����� ��� 9,00 </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>91</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>06.02.2019 13:07:23</Time>
+<OperType>01</OperType>
+<Amount>100.00</Amount>
+<AmountCurr>100.00</AmountCurr>
+<Beneficiar>
+<Account>BY02BLNB30120000014294000933</Account>
+<BIC>BLNBBY2X</BIC>
+<UNN>190340795</UNN>
+<NameBIC>��� '���-����',</NameBIC>
+<Name>����� "������"</Name>
+<Ground>���������� �� ����� ����������� �� ��� 30/05-2017 �� 30.05.2017. ����� -100,00=. ��� ��� </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>93</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>06.02.2019 15:02:52</Time>
+<OperType>01</OperType>
+<Amount>168.00</Amount>
+<AmountCurr>168.00</AmountCurr>
+<Beneficiar>
+<Account>BY58UNBS30120386100050010933</Account>
+<BIC>UNBSBY2X</BIC>
+<UNN>191157200</UNN>
+<NameBIC>��� '��� ����',</NameBIC>
+<Name>�� "������������� �����"</Name>
+<Ground>������ �� ����������� ������������� ���������� ����� ��������� � ���������� ���������� ���� ��-� 2888,2888/1 �� 04.02.19.  ����� ��� 11=. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>90</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>06.02.2019 15:02:51</Time>
+<OperType>01</OperType>
+<Amount>500.00</Amount>
+<AmountCurr>500.00</AmountCurr>
+<Beneficiar>
+<Account>BY98BLBB30130590936149001001</Account>
+<BIC>BLBBBY2X</BIC>
+<UNN>590936149</UNN>
+<NameBIC>��� '�������������',</NameBIC>
+<Name>�� ����������� �.�.</Name>
+<Ground>����� �� �������� ����� ���� ��� 05/02 �� 05.02.2019. ����� 500,00 ��� ��� ��� </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>89</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>06.02.2019 13:07:23</Time>
+<OperType>01</OperType>
+<Amount>500.00</Amount>
+<AmountCurr>500.00</AmountCurr>
+<Beneficiar>
+<Account>BY52BLBB30120500046582001001</Account>
+<BIC>BLBBBY2X</BIC>
+<UNN>500046582</UNN>
+<NameBIC>��� '�������������',</NameBIC>
+<Name>�� "������"</Name>
+<Ground>������ �� �������� ������� ���� ��-� 00000010 �� 06.02.2019. ����� � ��� 500,00=. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>88</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>06.02.2019 13:07:14</Time>
+<OperType>01</OperType>
+<Amount>510.00</Amount>
+<AmountCurr>510.00</AmountCurr>
+<Beneficiar>
+<Account>BY11BAPB30132813400100000000</Account>
+<BIC>BAPBBY2X</BIC>
+<UNN>691575552</UNN>
+<NameBIC>��� '���������������',</NameBIC>
+<Name>�� ��������� ����� ����������</Name>
+<Ground>����� �� ����������� ��������� ���������� ���� �� 4 �� 06.02.2019. ����� 510,00=. ��� ��� </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>95</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>06.02.2019 15:02:50</Time>
+<OperType>01</OperType>
+<Amount>520.00</Amount>
+<AmountCurr>520.00</AmountCurr>
+<Beneficiar>
+<Account>BY82OLMP30123000768560000933</Account>
+<BIC>OLMPBY2X</BIC>
+<UNN>291104372</UNN>
+<NameBIC>��� '��������������',</NameBIC>
+<Name>��� "���������"</Name>
+<Ground>������ �� �� ���������� ���� ���� 30 �� 31.01.2019. ��� ��� </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>86</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>06.02.2019 13:07:25</Time>
+<OperType>01</OperType>
+<Amount>570.00</Amount>
+<AmountCurr>570.00</AmountCurr>
+<Beneficiar>
+<Account>BY83SOMA30120243190101000933</Account>
+<BIC>SOMABY22</BIC>
+<UNN>391416196</UNN>
+<NameBIC>��� '���� ����',</NameBIC>
+<Name>��� "���� ����"</Name>
+<Ground>����� �� ����������� ��������� ���������� ���� ��� 4 �� 04.02.2019. ����� 570,00=. ��� ��� </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>87</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>06.02.2019 13:07:26</Time>
+<OperType>01</OperType>
+<Amount>860.00</Amount>
+<AmountCurr>860.00</AmountCurr>
+<Beneficiar>
+<Account>BY93AKBB30120384512673100000</Account>
+<BIC>AKBBBY21302</BIC>
+<UNN>490595385</UNN>
+<NameBIC>������ N302 ��� '��� �����������',</NameBIC>
+<Name>��� "��� �������"</Name>
+<Ground>����� �� ������������ ������ ���� ��-� �� �� 04.02.2019. ����� 860,00=. ��� ��� </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>94</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>06.02.2019 13:25:11</Time>
+<OperType>01</OperType>
+<Amount>1 153.95</Amount>
+<AmountCurr>1 153.95</AmountCurr>
+<Beneficiar>
+<Account>BY58UNBS30120386100050010933</Account>
+<BIC>UNBSBY2X</BIC>
+<UNN>191157200</UNN>
+<NameBIC>��� '��� ����',</NameBIC>
+<Name>�� "������������� �����"</Name>
+<Ground>������ �� ���������� ������� � ���������� ���������� ���� ��-� 2883,2883/1 �� 31.01.19.  ����� ��� 95,00=. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>96</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>06.02.2019 15:02:51</Time>
+<OperType>01</OperType>
+<Amount>1 706.21</Amount>
+<AmountCurr>1 706.21</AmountCurr>
+<Beneficiar>
+<Account>BY66MTBK30120001093300062321</Account>
+<BIC>MTBKBY22</BIC>
+<UNN>100608743</UNN>
+<NameBIC>��� '������',</NameBIC>
+<Name>��� "������"</Name>
+<Ground>������ �� �� ����������� ���� ��-�� 22986 �� 04.02.19, 23006 �� 05.02.19, � �. �. ��� (20%) 284,37=. </Ground>
+</Beneficiar>
+</Document>
+</DebetDocuments> 
+<CreditDocuments>
+<DocumentsNet>0</DocumentsNet>
+<Turnover>0,00</Turnover>
+<CreditTurnoverNat>0,00</CreditTurnoverNat>
+</CreditDocuments>
+
+</Statement>
+</Statements>
+<?xml version = "1.0" encoding="CP866"?>
+<?xml-stylesheet type="text/xsl"?>
+<Statements>
+<Date>07.02.2019</Date>
+<Time>23:07:18</Time>
+<Type>�������</Type>
+<Account>BY86BPSB30211816590139330000</Account>
+<UNN>102332897</UNN>
+<Statement>
+<Account>BY86BPSB30211816590139330000</Account>
+<Name></Name>
+<BIC>BPSBBY2X</BIC>
+<CurrCode>933</CurrCode>
+<CurrCodeISO>BYN</CurrCodeISO>
+<OpeningBalance>2699,52</OpeningBalance>
+<OpeningBalanceNat>2699,52</OpeningBalanceNat>
+<KursRazn>0.00</KursRazn>
+<DatePrevious>06.02.2019</DatePrevious>
+<ClosingBalance>18581,84</ClosingBalance>
+<ClosingBalanceNat>18581,84</ClosingBalanceNat>
+<DateClosing>07.02.2019</DateClosing>
+<DebetDocuments>
+<DocumentsNet>5</DocumentsNet>
+<Turnover>5673,68</Turnover>
+<DebetTurnoverNat>5673,68</DebetTurnoverNat>
+<Document>
+<DocumentNumber>7627</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>07.02.2019 12:01:30</Time>
+<OperType>06</OperType>
+<Amount>1.50</Amount>
+<AmountCurr>1.50</AmountCurr>
+<Beneficiar>
+<Account>BY63BPSB81010000053159330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>��� "���-��������", � ����</NameBIC>
+<Name>��� "���-��������"</Name>
+<Ground>�������. �� ���᫥��� �������� �।�� �� ��� 䨧.���, �� �/� �18 �� 07.02.2019 ᮣ�. �������� 348-2017 �� 07.07.2017�. ��� ��� ᮣ��᭮ �. 1.37.2. ��.94 �ᮡ����� ��� ���������� ������ </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>5805</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>07.02.2019 10:24:54</Time>
+<OperType>06</OperType>
+<Amount>12.18</Amount>
+<AmountCurr>12.18</AmountCurr>
+<Beneficiar>
+<Account>BY63BPSB81010000053159330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>��� "���-��������", � ����</NameBIC>
+<Name>��� "���-��������"</Name>
+<Ground>�������. �� ���᫥��� �������� �।�� �� ��� 䨧.���, �� �/� �17 �� 07.02.2019 ᮣ�. �������� 348-2017 �� 07.07.2017�. ��� ��� ᮣ��᭮ �. 1.37.2. ��.94 �ᮡ����� ��� ���������� ������ </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>18</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>07.02.2019 12:01:30</Time>
+<OperType>01</OperType>
+<Amount>500.00</Amount>
+<AmountCurr>500.00</AmountCurr>
+<Beneficiar>
+<Account>BY13BPSB38198000000709330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>��� "���-��������", � ����</NameBIC>
+<Name>��� ���-��������</Name>
+<Ground>���������� ����� �� ������. ������� N 348-2017 �� 07.07.2017.  ������ �� ������� N 18 �� 07.02.2019. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>97</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>07.02.2019 10:22:31</Time>
+<OperType>01</OperType>
+<Amount>1 100.00</Amount>
+<AmountCurr>1 100.00</AmountCurr>
+<Beneficiar>
+<Account>BY43AKBB36021010005210000000</Account>
+<BIC>AKBBBY2X</BIC>
+<UNN>101530339</UNN>
+<NameBIC>��� '��� �����������',</NameBIC>
+<Name>������� ���������� ������������ �������� �� �� �.������</Name>
+<Ground>������ ����������� ������ �� �/� �� ������ 2019 �. ����� ������� �� �/� � ���������� � ������. ���� ������� 07/02/2019. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>17</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>07.02.2019 10:24:54</Time>
+<OperType>01</OperType>
+<Amount>4 060.00</Amount>
+<AmountCurr>4 060.00</AmountCurr>
+<Beneficiar>
+<Account>BY13BPSB38198000000709330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>��� "���-��������", � ����</NameBIC>
+<Name>��� ���-��������</Name>
+<Ground>���������� ����� �� ������. ������� N 348-2017 �� 07.07.2017.  ������ �� ������� N 17 �� 07.02.2019. </Ground>
+</Beneficiar>
+</Document>
+</DebetDocuments> 
+<CreditDocuments>
+<DocumentsNet>1</DocumentsNet>
+<Turnover>21556,00</Turnover>
+<CreditTurnoverNat>21556,00</CreditTurnoverNat>
+<Document>
+<DocumentNumber>31</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>07.02.2019 10:19:17</Time>
+<OperType>06</OperType>
+<Amount>21 556.00</Amount>
+<AmountCurr>21 556.00</AmountCurr>
+<Payer>
+<Account>BY88BPSB69118170000149330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>��� "���-��������", � ����</NameBIC>
+<Name>��� "���-��������"</Name>
+<Ground>��ॢ�� � �த���� �� 31  �� 07.02.19 �।�⠢�⥫��⢮ ��� "Sun Pharmaceutical Industries LTD." (���㡫��� �����) � ���㡫��� ��������. ����  2.1556 �� 1 ��. ������. ��������� ������� ����������� ������. </Ground>
+</Payer>
+</Document>
+</CreditDocuments>
+</Statement>
+</Statements>
+<?xml version = "1.0" encoding="CP866"?>
+<?xml-stylesheet type="text/xsl"?>
+<Statements>
+<Date>08.02.2019</Date>
+<Time>23:09:18</Time>
+<Type>�������</Type>
+<Account>BY86BPSB30211816590139330000</Account>
+<UNN>102332897</UNN>
+<Statement>
+<Account>BY86BPSB30211816590139330000</Account>
+<Name></Name>
+<BIC>BPSBBY2X</BIC>
+<CurrCode>933</CurrCode>
+<CurrCodeISO>BYN</CurrCodeISO>
+<OpeningBalance>18581,84</OpeningBalance>
+<OpeningBalanceNat>18581,84</OpeningBalanceNat>
+<KursRazn>0.00</KursRazn>
+<DatePrevious>07.02.2019</DatePrevious>
+<ClosingBalance>9289,61</ClosingBalance>
+<ClosingBalanceNat>9289,61</ClosingBalanceNat>
+<DateClosing>08.02.2019</DateClosing>
+<DebetDocuments>
+<DocumentsNet>13</DocumentsNet>
+<Turnover>171299,73</Turnover>
+<DebetTurnoverNat>171299,73</DebetTurnoverNat>
+<Document>
+<DocumentNumber>11538</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>08.02.2019 13:21:31</Time>
+<OperType>06</OperType>
+<Amount>7.20</Amount>
+<AmountCurr>7.20</AmountCurr>
+<Beneficiar>
+<Account>BY63BPSB81010000053159330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>��� "���-��������", � ����</NameBIC>
+<Name>��� "���-��������"</Name>
+<Ground>�������. �� ���᫥��� �������� �।�� �� ��� 䨧.���, �� �/� �20 �� 08.02.2019 ᮣ�. �������� 348-2017 �� 07.07.2017�. ��� ��� ᮣ��᭮ �. 1.37.2. ��.94 �ᮡ����� ��� ���������� ������ </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>99</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>08.02.2019 10:32:29</Time>
+<OperType>01</OperType>
+<Amount>19.33</Amount>
+<AmountCurr>19.33</AmountCurr>
+<Beneficiar>
+<Account>BY74MTBK30120001093300082741</Account>
+<BIC>MTBKBY22</BIC>
+<UNN>192926503</UNN>
+<NameBIC>��� '������',</NameBIC>
+<Name>��� "���������� ������"</Name>
+<Ground>������ �� ��������. ����� ���� �� ��00000023642 �� 06.02.2019  ��� ���. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>106</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>08.02.2019 12:57:02</Time>
+<OperType>01</OperType>
+<Amount>112.07</Amount>
+<AmountCurr>112.07</AmountCurr>
+<Beneficiar>
+<Account>BY38MTBK30120001093300061855</Account>
+<BIC>MTBKBY22</BIC>
+<UNN>190635842</UNN>
+<NameBIC>��� '������',</NameBIC>
+<Name>��� "�������"</Name>
+<Ground>����� �� ������������������� ������ ���� �� ����00-171149-� �� 07.02.19.  ����� � ���-112,07=. ����� ���-18,68=. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>11685</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>08.02.2019 13:26:56</Time>
+<OperType>06</OperType>
+<Amount>211.83</Amount>
+<AmountCurr>211.83</AmountCurr>
+<Beneficiar>
+<Account>BY63BPSB81010000053159330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>��� "���-��������", � ����</NameBIC>
+<Name>��� "���-��������"</Name>
+<Ground>�������. �� ���᫥��� �������� �।�� �� ��� 䨧.���, �� �/� �19 �� 08.02.2019 ᮣ�. �������� 348-2017 �� 07.07.2017�. ��� ��� ᮣ��᭮ �. 1.37.2. ��.94 �ᮡ����� ��� ���������� ������ </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>104</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>08.02.2019 12:47:28</Time>
+<OperType>01</OperType>
+<Amount>300.00</Amount>
+<AmountCurr>300.00</AmountCurr>
+<Beneficiar>
+<Account>BY30AKBB30115240001480000000</Account>
+<BIC>AKBBBY2X</BIC>
+<UNN>100122726</UNN>
+<NameBIC>��� '��� �����������',</NameBIC>
+<Name>������ ����� ������������ �� �. ������</Name>
+<Ground>������ ���. �� ������ �����-��� �� ���� ������� 0,6% ��  ������ 2019 �. ���� ������� 08/02/2019 ���. 500026206. ����. ������� ���������� �� 18 �� 30/07/2003 </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>98</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>08.02.2019 10:17:26</Time>
+<OperType>01</OperType>
+<Amount>520.00</Amount>
+<AmountCurr>520.00</AmountCurr>
+<Beneficiar>
+<Account>BY20OLMP30127000148700000933</Account>
+<BIC>OLMPBY2X</BIC>
+<UNN>790862174</UNN>
+<NameBIC>��� '��������������',</NameBIC>
+<Name>���� "����-����"</Name>
+<Ground>����� �� ����������� ��������� ���������� ���� ��� �� �� 06.02.2019. ����� 520,00=. ��� ��� </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>20</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>08.02.2019 13:21:31</Time>
+<OperType>01</OperType>
+<Amount>2 400.00</Amount>
+<AmountCurr>2 400.00</AmountCurr>
+<Beneficiar>
+<Account>BY13BPSB38198000000709330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>��� "���-��������", � ����</NameBIC>
+<Name>��� ���-��������</Name>
+<Ground>���������� ����� �� ������. ������� N 348-2017 �� 07.07.2017.  ������ �� ������� N 20 �� 08.02.2019. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>100</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>08.02.2019 10:38:22</Time>
+<OperType>01</OperType>
+<Amount>7 379.70</Amount>
+<AmountCurr>7 379.70</AmountCurr>
+<Beneficiar>
+<Account>BY54ALFA30122150110160270000</Account>
+<BIC>ALFABY2X</BIC>
+<UNN>190567633</UNN>
+<NameBIC>��� '�����-����',</NameBIC>
+<Name>���� "����������" (��)</Name>
+<Ground>������ �� �������������� �������������� ����� ���� �� 1 �� 07.02.19, � �. �. ��� (20%) 1229,95=. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>103</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>08.02.2019 12:47:28</Time>
+<OperType>01</OperType>
+<Amount>11 000.00</Amount>
+<AmountCurr>11 000.00</AmountCurr>
+<Beneficiar>
+<Account>BY43AKBB36021010005210000000</Account>
+<BIC>AKBBBY2X</BIC>
+<UNN>101530339</UNN>
+<NameBIC>��� '��� �����������',</NameBIC>
+<Name>������� ���������� ������������ �������� �� �� �.������</Name>
+<Ground>������ ����������� ������ �� �/� �� ������ 2019 �. ����� ������� �� �/� � ���������� � ������. ���� ������� 08/02/2019. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>102</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>08.02.2019 10:42:20</Time>
+<OperType>01</OperType>
+<Amount>17 038.00</Amount>
+<AmountCurr>17 038.00</AmountCurr>
+<Beneficiar>
+<Account>BY72MTBK30120001093300085590</Account>
+<BIC>MTBKBY22</BIC>
+<UNN>192637903</UNN>
+<NameBIC>��� '������',</NameBIC>
+<Name>��� "���-���� �����"</Name>
+<Ground>������ �� ������ �� ����������� ����������� ���� ��� �/� �� 21.01.2019. ����� � ��� (20%) 17038=. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>101</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>08.02.2019 10:40:44</Time>
+<OperType>01</OperType>
+<Amount>28 703.17</Amount>
+<AmountCurr>28 703.17</AmountCurr>
+<Beneficiar>
+<Account>BY75BAPB30123257200100000000</Account>
+<BIC>BAPBBY2X</BIC>
+<UNN>600024832</UNN>
+<NameBIC>��� '���������������',</NameBIC>
+<Name>��� "��������� ����� "�����"</Name>
+<Ground>����� �� ������ ������� � ���������� ���� ��-� 09-0701 �� 07.02.19. ����� � ��� 28703,17=. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>105</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>08.02.2019 12:47:29</Time>
+<OperType>01</OperType>
+<Amount>33 000.00</Amount>
+<AmountCurr>33 000.00</AmountCurr>
+<Beneficiar>
+<Account>BY30AKBB36029450100090000000</Account>
+<BIC>AKBBBY2X</BIC>
+<UNN>104521003</UNN>
+<NameBIC>��� '��� �����������',</NameBIC>
+<Name>�� �� �� �� �.������</Name>
+<Ground>������ ���������� � ���� �� ������ 2019 �. ���� ������� - 08/02/2019 ���.521051245 </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>19</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>08.02.2019 13:26:56</Time>
+<OperType>01</OperType>
+<Amount>70 608.43</Amount>
+<AmountCurr>70 608.43</AmountCurr>
+<Beneficiar>
+<Account>BY13BPSB38198000000709330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>��� "���-��������", � ����</NameBIC>
+<Name>��� ���-��������</Name>
+<Ground>���������� ����� �� ������. ������� N 348-2017 �� 07.07.2017.  ������ �� ������� N 19 �� 08.02.2019. </Ground>
+</Beneficiar>
+</Document>
+</DebetDocuments> 
+<CreditDocuments>
+<DocumentsNet>1</DocumentsNet>
+<Turnover>162007,50</Turnover>
+<CreditTurnoverNat>162007,50</CreditTurnoverNat>
+<Document>
+<DocumentNumber>35</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>08.02.2019 10:13:43</Time>
+<OperType>06</OperType>
+<Amount>162 007.50</Amount>
+<AmountCurr>162 007.50</AmountCurr>
+<Payer>
+<Account>BY88BPSB69118170000149330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>��� "���-��������", � ����</NameBIC>
+<Name>��� "���-��������"</Name>
+<Ground>��ॢ�� � �த���� �� 35  �� 08.02.19 �।�⠢�⥫��⢮ ��� "Sun Pharmaceutical Industries LTD." (���㡫��� �����) � ���㡫��� ��������. ����  2.1601 �� 1 ��. ������. ��������� ������� ����������� ������. </Ground>
+</Payer>
+</Document>
+</CreditDocuments>
+
+</Statement>
+</Statements>
+<?xml version = "1.0" encoding="CP866"?>
+<?xml-stylesheet type="text/xsl"?>
+<Statements>
+<Date>11.02.2019</Date>
+<Time>23:08:27</Time>
+<Type>�������</Type>
+<Account>BY86BPSB30211816590139330000</Account>
+<UNN>102332897</UNN>
+<Statement>
+<Account>BY86BPSB30211816590139330000</Account>
+<Name></Name>
+<BIC>BPSBBY2X</BIC>
+<CurrCode>933</CurrCode>
+<CurrCodeISO>BYN</CurrCodeISO>
+<OpeningBalance>9289,61</OpeningBalance>
+<OpeningBalanceNat>9289,61</OpeningBalanceNat>
+<KursRazn>0.00</KursRazn>
+<DatePrevious>08.02.2019</DatePrevious>
+<ClosingBalance>7044,01</ClosingBalance>
+<ClosingBalanceNat>7044,01</ClosingBalanceNat>
+<DateClosing>11.02.2019</DateClosing>
+<DebetDocuments>
+<DocumentsNet>2</DocumentsNet>
+<Turnover>2245,60</Turnover>
+<DebetTurnoverNat>2245,60</DebetTurnoverNat>
+<Document>
+<DocumentNumber>108</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>11.02.2019 10:13:37</Time>
+<OperType>01</OperType>
+<Amount>245.60</Amount>
+<AmountCurr>245.60</AmountCurr>
+<Beneficiar>
+<Account>BY66MMBN30120161710109330000</Account>
+<BIC>MMBNBY22</BIC>
+<UNN>691536217</UNN>
+<NameBIC>��� '���� ��������',</NameBIC>
+<Name>��� "��������-������� �������"</Name>
+<Ground>������ ����������������� ������� ���� �� 21265871 �� 11.02.2019. ����� � ���-245,6=. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>107</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>11.02.2019 10:06:12</Time>
+<OperType>01</OperType>
+<Amount>2 000.00</Amount>
+<AmountCurr>2 000.00</AmountCurr>
+<Beneficiar>
+<Account>BY34OLMP31190000001710000933</Account>
+<BIC>OLMPBY2X</BIC>
+<UNN>100429079</UNN>
+<NameBIC>��� '��������������',</NameBIC>
+<Name>��� "������"</Name>
+<Ground>������ ������� ����������� ����� "������" ���� ��� 24052 �� 05/03/2008 ��� ��� </Ground>
+</Beneficiar>
+</Document>
+</DebetDocuments> 
+<CreditDocuments>
+<DocumentsNet>0</DocumentsNet>
+<Turnover>0,00</Turnover>
+<CreditTurnoverNat>0,00</CreditTurnoverNat>
+</CreditDocuments>
+
+</Statement>
+</Statements>
+<?xml version = "1.0" encoding="CP866"?>
+<?xml-stylesheet type="text/xsl"?>
+<Statements>
+<Date>12.02.2019</Date>
+<Time>23:06:50</Time>
+<Type>�������</Type>
+<Account>BY86BPSB30211816590139330000</Account>
+<UNN>102332897</UNN>
+<Statement>
+<Account>BY86BPSB30211816590139330000</Account>
+<Name></Name>
+<BIC>BPSBBY2X</BIC>
+<CurrCode>933</CurrCode>
+<CurrCodeISO>BYN</CurrCodeISO>
+<OpeningBalance>7044,01</OpeningBalance>
+<OpeningBalanceNat>7044,01</OpeningBalanceNat>
+<KursRazn>0.00</KursRazn>
+<DatePrevious>11.02.2019</DatePrevious>
+<ClosingBalance>7044,01</ClosingBalance>
+<ClosingBalanceNat>7044,01</ClosingBalanceNat>
+<DateClosing>12.02.2019</DateClosing>
+<DebetDocuments>
+<DocumentsNet>0</DocumentsNet>
+<Turnover>0,00</Turnover>
+<DebetTurnoverNat>0,00</DebetTurnoverNat>
+</DebetDocuments> 
+<CreditDocuments>
+<DocumentsNet>0</DocumentsNet>
+<Turnover>0,00</Turnover>
+<CreditTurnoverNat>0,00</CreditTurnoverNat>
+</CreditDocuments>
+
+</Statement>
+</Statements>
+<?xml version = "1.0" encoding="CP866"?>
+<?xml-stylesheet type="text/xsl"?>
+<Statements>
+<Date>13.02.2019</Date>
+<Time>23:07:56</Time>
+<Type>�������</Type>
+<Account>BY86BPSB30211816590139330000</Account>
+<UNN>102332897</UNN>
+<Statement>
+<Account>BY86BPSB30211816590139330000</Account>
+<Name></Name>
+<BIC>BPSBBY2X</BIC>
+<CurrCode>933</CurrCode>
+<CurrCodeISO>BYN</CurrCodeISO>
+<OpeningBalance>7044,01</OpeningBalance>
+<OpeningBalanceNat>7044,01</OpeningBalanceNat>
+<KursRazn>0.00</KursRazn>
+<DatePrevious>11.02.2019</DatePrevious>
+<ClosingBalance>7044,01</ClosingBalance>
+<ClosingBalanceNat>7044,01</ClosingBalanceNat>
+<DateClosing>13.02.2019</DateClosing>
+<DebetDocuments>
+<DocumentsNet>0</DocumentsNet>
+<Turnover>0,00</Turnover>
+<DebetTurnoverNat>0,00</DebetTurnoverNat>
+</DebetDocuments> 
+<CreditDocuments>
+<DocumentsNet>0</DocumentsNet>
+<Turnover>0,00</Turnover>
+<CreditTurnoverNat>0,00</CreditTurnoverNat>
+</CreditDocuments>
+
+</Statement>
+</Statements>
+<?xml version = "1.0" encoding="CP866"?>
+<?xml-stylesheet type="text/xsl"?>
+<Statements>
+<Date>14.02.2019</Date>
+<Time>23:08:21</Time>
+<Type>�������</Type>
+<Account>BY86BPSB30211816590139330000</Account>
+<UNN>102332897</UNN>
+<Statement>
+<Account>BY86BPSB30211816590139330000</Account>
+<Name></Name>
+<BIC>BPSBBY2X</BIC>
+<CurrCode>933</CurrCode>
+<CurrCodeISO>BYN</CurrCodeISO>
+<OpeningBalance>7044,01</OpeningBalance>
+<OpeningBalanceNat>7044,01</OpeningBalanceNat>
+<KursRazn>0.00</KursRazn>
+<DatePrevious>11.02.2019</DatePrevious>
+<ClosingBalance>5044,01</ClosingBalance>
+<ClosingBalanceNat>5044,01</ClosingBalanceNat>
+<DateClosing>14.02.2019</DateClosing>
+<DebetDocuments>
+<DocumentsNet>1</DocumentsNet>
+<Turnover>2000,00</Turnover>
+<DebetTurnoverNat>2000,00</DebetTurnoverNat>
+<Document>
+<DocumentNumber>109</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>14.02.2019 11:10:23</Time>
+<OperType>01</OperType>
+<Amount>2 000.00</Amount>
+<AmountCurr>2 000.00</AmountCurr>
+<Beneficiar>
+<Account>BY34OLMP31190000001710000933</Account>
+<BIC>OLMPBY2X</BIC>
+<UNN>100429079</UNN>
+<NameBIC>��� '��������������',</NameBIC>
+<Name>��� "������"</Name>
+<Ground>������ ������� ����������� ����� "������" ���� ��� 24052 �� 05/03/2008 ��� ��� </Ground>
+</Beneficiar>
+</Document>
+</DebetDocuments> 
+<CreditDocuments>
+<DocumentsNet>0</DocumentsNet>
+<Turnover>0,00</Turnover>
+<CreditTurnoverNat>0,00</CreditTurnoverNat>
+</CreditDocuments>
+
+</Statement>
+</Statements>
+<?xml version = "1.0" encoding="CP866"?>
+<?xml-stylesheet type="text/xsl"?>
+<Statements>
+<Date>15.02.2019</Date>
+<Time>23:08:46</Time>
+<Type>�������</Type>
+<Account>BY86BPSB30211816590139330000</Account>
+<UNN>102332897</UNN>
+<Statement>
+<Account>BY86BPSB30211816590139330000</Account>
+<Name></Name>
+<BIC>BPSBBY2X</BIC>
+<CurrCode>933</CurrCode>
+<CurrCodeISO>BYN</CurrCodeISO>
+<OpeningBalance>5044,01</OpeningBalance>
+<OpeningBalanceNat>5044,01</OpeningBalanceNat>
+<KursRazn>0.00</KursRazn>
+<DatePrevious>14.02.2019</DatePrevious>
+<ClosingBalance>10793,68</ClosingBalance>
+<ClosingBalanceNat>10793,68</ClosingBalanceNat>
+<DateClosing>15.02.2019</DateClosing>
+<DebetDocuments>
+<DocumentsNet>15</DocumentsNet>
+<Turnover>26599,33</Turnover>
+<DebetTurnoverNat>26599,33</DebetTurnoverNat>
+<Document>
+<DocumentNumber>12799</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>15.02.2019 12:30:00</Time>
+<OperType>06</OperType>
+<Amount>6.90</Amount>
+<AmountCurr>6.90</AmountCurr>
+<Beneficiar>
+<Account>BY63BPSB81010000053159330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>��� "���-��������", � ����</NameBIC>
+<Name>��� "���-��������"</Name>
+<Ground>�������. �� ���᫥��� �������� �।�� �� ��� 䨧.���, �� �/� �21 �� 15.02.2019 ᮣ�. �������� 348-2017 �� 07.07.2017�. ��� ��� ᮣ��᭮ �. 1.37.2. ��.94 �ᮡ����� ��� ���������� ������ </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>115</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>15.02.2019 12:41:52</Time>
+<OperType>01</OperType>
+<Amount>20.50</Amount>
+<AmountCurr>20.50</AmountCurr>
+<Beneficiar>
+<Account>BY33OLMP30128000038530000933</Account>
+<BIC>OLMPBY2X</BIC>
+<UNN>490559899</UNN>
+<NameBIC>��� '��������������',</NameBIC>
+<Name>��� "����������"</Name>
+<Ground>����� �� ����� ����������� ���� ���� 0000015 �� 31.01.19 ��� ��� </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>113</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>15.02.2019 12:42:07</Time>
+<OperType>01</OperType>
+<Amount>48.00</Amount>
+<AmountCurr>48.00</AmountCurr>
+<Beneficiar>
+<Account>BY62TECN30124111000110000000</Account>
+<BIC>TECNBY22</BIC>
+<UNN>590683183</UNN>
+<NameBIC>��� '���������',</NameBIC>
+<Name>��� "�������"</Name>
+<Ground>����� �� ����� ����������� ���� ���� 283 �� 31.01.2019. ����� 48,00=. ��� ��� </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>114</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>15.02.2019 12:41:51</Time>
+<OperType>01</OperType>
+<Amount>48.00</Amount>
+<AmountCurr>48.00</AmountCurr>
+<Beneficiar>
+<Account>BY24OLMP30123000623810000933</Account>
+<BIC>OLMPBY2X</BIC>
+<UNN>290711738</UNN>
+<NameBIC>��� '��������������',</NameBIC>
+<Name>��� "��������� ����"</Name>
+<Ground>����� �� ����� ����������� ���� ���� 48 �� 31.12.2019. ����� 48,00 ��� ��� </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>111</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>15.02.2019 12:42:06</Time>
+<OperType>01</OperType>
+<Amount>92.00</Amount>
+<AmountCurr>92.00</AmountCurr>
+<Beneficiar>
+<Account>BY13BLBB30120490863036001001</Account>
+<BIC>BLBBBY2X</BIC>
+<UNN>490863036</UNN>
+<NameBIC>��� '�������������',</NameBIC>
+<Name>��� "����������"</Name>
+<Ground>������ �� �� � ������ ���������� ���� �� � 4418 �� 11.02.19. ��� ��� </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>119</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>15.02.2019 13:14:34</Time>
+<OperType>01</OperType>
+<Amount>203.94</Amount>
+<AmountCurr>203.94</AmountCurr>
+<Beneficiar>
+<Account>BY63AKBB30130000050496000000</Account>
+<BIC>AKBBBY21500</BIC>
+<UNN>190523602</UNN>
+<NameBIC>������ N500 - ������� ���������� ��� '��� �����������',</NameBIC>
+<Name>�� �������� ����� ����������</Name>
+<Ground>������ �� �������������� ������ ���� ��� 18/01 �� 18.01.2019. ����� � ��� (20%) 203,94=. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>117</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>15.02.2019 12:50:15</Time>
+<OperType>01</OperType>
+<Amount>212.24</Amount>
+<AmountCurr>212.24</AmountCurr>
+<Beneficiar>
+<Account>BY51PJCB30120336991000000933</Account>
+<BIC>PJCBBY2X</BIC>
+<UNN>101528828</UNN>
+<NameBIC>'���������' ���,</NameBIC>
+<Name>��� "��������"</Name>
+<Ground>����� �� ������ ������ � �������������� ��� ILEX "������� ��������� ����" � ������� 2019 ���� �� 1509 �� 10.01.2019. ����� ��� (20%) -35,37. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>116</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>15.02.2019 12:43:09</Time>
+<OperType>01</OperType>
+<Amount>347.33</Amount>
+<AmountCurr>347.33</AmountCurr>
+<Beneficiar>
+<Account>BY77PJCB30120039541000000933</Account>
+<BIC>PJCBBY2X</BIC>
+<UNN>190098681</UNN>
+<NameBIC>'���������' ���,</NameBIC>
+<Name>��� "��������"</Name>
+<Ground>������ ������ ��������� �� ������ 2019 ���� ���� ��� 19/7 �� 31.01.19. ����� ��� 57,89=. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>110</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>15.02.2019 12:28:30</Time>
+<OperType>01</OperType>
+<Amount>700.00</Amount>
+<AmountCurr>700.00</AmountCurr>
+<Beneficiar>
+<Account>BY30AKBB36029450100090000000</Account>
+<BIC>AKBBBY2X</BIC>
+<UNN>104521003</UNN>
+<NameBIC>��� '��� �����������',</NameBIC>
+<Name>�� �� �� �� �.������</Name>
+<Ground>������ ���������� � ���� �� ������ 2019 �. ���� ������� - 15/02/2019 ���.521051245 </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>112</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>15.02.2019 12:42:06</Time>
+<OperType>01</OperType>
+<Amount>914.38</Amount>
+<AmountCurr>914.38</AmountCurr>
+<Beneficiar>
+<Account>BY66MTBK30120001093300062321</Account>
+<BIC>MTBKBY22</BIC>
+<UNN>100608743</UNN>
+<NameBIC>��� '������',</NameBIC>
+<Name>��� "������"</Name>
+<Ground>������ �� �� ����������� ���� ��-�� 23172 �� 14.02.19, � �. �. ��� (20%) 152,40=. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>118</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>15.02.2019 13:14:34</Time>
+<OperType>01</OperType>
+<Amount>1 038.53</Amount>
+<AmountCurr>1 038.53</AmountCurr>
+<Beneficiar>
+<Account>BY89BLBB30120100138514001001</Account>
+<BIC>BLBBBY2X</BIC>
+<UNN>100138514</UNN>
+<NameBIC>��� '�������������',</NameBIC>
+<Name>�� "����������"</Name>
+<Ground>������ ���� ����� �� ������ 2019 �. ����� ���� ���-�� 0211,0212 �� 14.02.2019. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>21</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>15.02.2019 12:30:00</Time>
+<OperType>01</OperType>
+<Amount>2 300.00</Amount>
+<AmountCurr>2 300.00</AmountCurr>
+<Beneficiar>
+<Account>BY13BPSB38198000000709330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>��� "���-��������", � ����</NameBIC>
+<Name>��� ���-��������</Name>
+<Ground>���������� ����� �� ������. ������� N 348-2017 �� 07.07.2017.  ������ �� ������� N 21 �� 15.02.2019. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>121</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>15.02.2019 13:58:47</Time>
+<OperType>01</OperType>
+<Amount>2 643.84</Amount>
+<AmountCurr>2 643.84</AmountCurr>
+<Beneficiar>
+<Account>BY15BPSB30121060530109330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>191443889</UNN>
+<NameBIC>��� "���-��������", � ����</NameBIC>
+<Name>���� "������������"</Name>
+<Ground>����� �� �������� ��������� ���� �� 24 �� 12.02.2019. ����� ��� (20%) 440,64=. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>122</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>15.02.2019 14:03:49</Time>
+<OperType>01</OperType>
+<Amount>3 728.79</Amount>
+<AmountCurr>3 728.79</AmountCurr>
+<Beneficiar>
+<Account>BY30PJCB30122016831000000933</Account>
+<BIC>PJCBBY2X</BIC>
+<UNN>191751593</UNN>
+<NameBIC>'���������' ���,</NameBIC>
+<Name>��� "����������� �������� �������� "������ �����"</Name>
+<Ground>����� �� �������������� ����� �� ���������� ������� ���� ����� 1-2019, 2-2019 �� 31.01.19, ����� ���-621,47=. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>120</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>15.02.2019 13:58:46</Time>
+<OperType>01</OperType>
+<Amount>14 294.88</Amount>
+<AmountCurr>14 294.88</AmountCurr>
+<Beneficiar>
+<Account>BY15BPSB30121060530109330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>191443889</UNN>
+<NameBIC>��� "���-��������", � ����</NameBIC>
+<Name>���� "������������"</Name>
+<Ground>����� �� ��������� ��������� ���� �� 23, 24 �� 12.02.2019. ����� ��� (20%) 2382,48=. </Ground>
+</Beneficiar>
+</Document>
+</DebetDocuments> 
+<CreditDocuments>
+<DocumentsNet>1</DocumentsNet>
+<Turnover>32349,00</Turnover>
+<CreditTurnoverNat>32349,00</CreditTurnoverNat>
+<Document>
+<DocumentNumber>45</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>15.02.2019 13:11:48</Time>
+<OperType>06</OperType>
+<Amount>32 349.00</Amount>
+<AmountCurr>32 349.00</AmountCurr>
+<Payer>
+<Account>BY88BPSB69118170000149330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>��� "���-��������", � ����</NameBIC>
+<Name>��� "���-��������"</Name>
+<Ground>��ॢ�� � �த���� �� 45  �� 15.02.19 �।�⠢�⥫��⢮ ��� "Sun Pharmaceutical Industries LTD." (���㡫��� �����) � ���㡫��� ��������. ����  2.1566 �� 1 ��. ������. ��������� ������� ����������� ������. </Ground>
+</Payer>
+</Document>
+</CreditDocuments>
+
+</Statement>
+</Statements>
+<?xml version = "1.0" encoding="CP866"?>
+<?xml-stylesheet type="text/xsl"?>
+<Statements>
+<Date>18.02.2019</Date>
+<Time>23:06:50</Time>
+<Type>�������</Type>
+<Account>BY86BPSB30211816590139330000</Account>
+<UNN>102332897</UNN>
+<Statement>
+<Account>BY86BPSB30211816590139330000</Account>
+<Name></Name>
+<BIC>BPSBBY2X</BIC>
+<CurrCode>933</CurrCode>
+<CurrCodeISO>BYN</CurrCodeISO>
+<OpeningBalance>10793,68</OpeningBalance>
+<OpeningBalanceNat>10793,68</OpeningBalanceNat>
+<KursRazn>0.00</KursRazn>
+<DatePrevious>15.02.2019</DatePrevious>
+<ClosingBalance>6907,35</ClosingBalance>
+<ClosingBalanceNat>6907,35</ClosingBalanceNat>
+<DateClosing>18.02.2019</DateClosing>
+<DebetDocuments>
+<DocumentsNet>6</DocumentsNet>
+<Turnover>3886,33</Turnover>
+<DebetTurnoverNat>3886,33</DebetTurnoverNat>
+<Document>
+<DocumentNumber>20810</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>18.02.2019 12:57:59</Time>
+<OperType>06</OperType>
+<Amount>1.35</Amount>
+<AmountCurr>1.35</AmountCurr>
+<Beneficiar>
+<Account>BY63BPSB81010000053159330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>��� "���-��������", � ����</NameBIC>
+<Name>��� "���-��������"</Name>
+<Ground>�������. �� ���᫥��� �������� �।�� �� ��� 䨧.���, �� �/� �22 �� 18.02.2019 ᮣ�. �������� 348-2017 �� 07.07.2017�. ��� ��� ᮣ��᭮ �. 1.37.2. ��.94 �ᮡ����� ��� ���������� ������ </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>24436</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>18.02.2019 15:23:56</Time>
+<OperType>06</OperType>
+<Amount>3.67</Amount>
+<AmountCurr>3.67</AmountCurr>
+<Beneficiar>
+<Account>BY63BPSB81010000053159330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>��� "���-��������", � ����</NameBIC>
+<Name>��� "���-��������"</Name>
+<Ground>�������. �� ���᫥��� �������� �।�� �� ��� 䨧.���, �� �/� �24 �� 18.02.2019 ᮣ�. �������� 348-2017 �� 07.07.2017�. ��� ��� ᮣ��᭮ �. 1.37.2. ��.94 �ᮡ����� ��� ���������� ������ </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>22303</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>18.02.2019 14:09:36</Time>
+<OperType>06</OperType>
+<Amount>6.61</Amount>
+<AmountCurr>6.61</AmountCurr>
+<Beneficiar>
+<Account>BY63BPSB81010000053159330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>��� "���-��������", � ����</NameBIC>
+<Name>��� "���-��������"</Name>
+<Ground>�������. �� ���᫥��� �������� �।�� �� ��� 䨧.���, �� �/� �23 �� 18.02.2019 ᮣ�. �������� 348-2017 �� 07.07.2017�. ��� ��� ᮣ��᭮ �. 1.37.2. ��.94 �ᮡ����� ��� ���������� ������ </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>22</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>18.02.2019 12:57:59</Time>
+<OperType>01</OperType>
+<Amount>450.00</Amount>
+<AmountCurr>450.00</AmountCurr>
+<Beneficiar>
+<Account>BY13BPSB38198000000709330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>��� "���-��������", � ����</NameBIC>
+<Name>��� ���-��������</Name>
+<Ground>���������� ����� �� ������. ������� N 348-2017 �� 07.07.2017.  ������ �� ������� N 22 �� 18.02.2019. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>24</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>18.02.2019 15:23:56</Time>
+<OperType>01</OperType>
+<Amount>1 222.31</Amount>
+<AmountCurr>1 222.31</AmountCurr>
+<Beneficiar>
+<Account>BY13BPSB38198000000709330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>��� "���-��������", � ����</NameBIC>
+<Name>��� ���-��������</Name>
+<Ground>���������� ����� �� �������. ������� N 348-2017 �� 07.07.2017.  ������ �� ������� N 24 �� 18.02.2019. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>23</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>18.02.2019 14:09:36</Time>
+<OperType>01</OperType>
+<Amount>2 202.39</Amount>
+<AmountCurr>2 202.39</AmountCurr>
+<Beneficiar>
+<Account>BY13BPSB38198000000709330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>��� "���-��������", � ����</NameBIC>
+<Name>��� ���-��������</Name>
+<Ground>���������� ����� �� �������. ������� N 348-2017 �� 07.07.2017.  ������ �� ������� N 23 �� 18.02.2019. </Ground>
+</Beneficiar>
+</Document>
+</DebetDocuments> 
+<CreditDocuments>
+<DocumentsNet>0</DocumentsNet>
+<Turnover>0,00</Turnover>
+<CreditTurnoverNat>0,00</CreditTurnoverNat>
+</CreditDocuments>
+
+</Statement>
+</Statements>
+<?xml version = "1.0" encoding="CP866"?>
+<?xml-stylesheet type="text/xsl"?>
+<Statements>
+<Date>19.02.2019</Date>
+<Time>23:06:56</Time>
+<Type>�������</Type>
+<Account>BY86BPSB30211816590139330000</Account>
+<UNN>102332897</UNN>
+<Statement>
+<Account>BY86BPSB30211816590139330000</Account>
+<Name></Name>
+<BIC>BPSBBY2X</BIC>
+<CurrCode>933</CurrCode>
+<CurrCodeISO>BYN</CurrCodeISO>
+<OpeningBalance>6907,35</OpeningBalance>
+<OpeningBalanceNat>6907,35</OpeningBalanceNat>
+<KursRazn>0.00</KursRazn>
+<DatePrevious>18.02.2019</DatePrevious>
+<ClosingBalance>19634,42</ClosingBalance>
+<ClosingBalanceNat>19634,42</ClosingBalanceNat>
+<DateClosing>19.02.2019</DateClosing>
+<DebetDocuments>
+<DocumentsNet>7</DocumentsNet>
+<Turnover>8758,93</Turnover>
+<DebetTurnoverNat>8758,93</DebetTurnoverNat>
+<Document>
+<DocumentNumber>17138</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>19.02.2019 13:11:37</Time>
+<OperType>06</OperType>
+<Amount>15.66</Amount>
+<AmountCurr>15.66</AmountCurr>
+<Beneficiar>
+<Account>BY63BPSB81010000053159330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>��� "���-��������", � ����</NameBIC>
+<Name>��� "���-��������"</Name>
+<Ground>�������. �� ���᫥��� �������� �।�� �� ��� 䨧.���, �� �/� �25 �� 19.02.2019 ᮣ�. �������� 348-2017 �� 07.07.2017�. ��� ��� ᮣ��᭮ �. 1.37.2. ��.94 �ᮡ����� ��� ���������� ������ </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>125</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>19.02.2019 13:01:28</Time>
+<OperType>01</OperType>
+<Amount>37.00</Amount>
+<AmountCurr>37.00</AmountCurr>
+<Beneficiar>
+<Account>BY10MMBN30120607700109330000</Account>
+<BIC>MMBNBY22</BIC>
+<UNN>192008118</UNN>
+<NameBIC>��� '���� ��������',</NameBIC>
+<Name>��� "�����-������"</Name>
+<Ground>������ �� ����� ���� �� 133 �� 18.02.2019. ����� 37,00=. ��� ��� </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>123</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>19.02.2019 10:19:14</Time>
+<OperType>01</OperType>
+<Amount>200.00</Amount>
+<AmountCurr>200.00</AmountCurr>
+<Beneficiar>
+<Account>BY72AKBB30121002800115500000</Account>
+<BIC>AKBBBY21529</BIC>
+<UNN>101015738</UNN>
+<NameBIC>������ N529 '��������' ��� '��� �����������',</NameBIC>
+<Name>��� "��������"</Name>
+<Ground>���������� ��������� ������ ��� ������ ����� ��� "��������" </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>127</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>19.02.2019 13:01:26</Time>
+<OperType>01</OperType>
+<Amount>286.27</Amount>
+<AmountCurr>286.27</AmountCurr>
+<Beneficiar>
+<Account>BY95BLBB30120192153389001001</Account>
+<BIC>BLBBBY2X</BIC>
+<UNN>192153389</UNN>
+<NameBIC>��� '�������������',</NameBIC>
+<Name>�� �� �������� ����� "�����������-������"</Name>
+<Ground>����� �� ���������� � ��������� ���� �� �-003247 �� 19.02.2019. ����� ��� - 38,21=. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>126</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>19.02.2019 13:01:26</Time>
+<OperType>01</OperType>
+<Amount>1 500.00</Amount>
+<AmountCurr>1 500.00</AmountCurr>
+<Beneficiar>
+<Account>BY43AKBB36021010005210000000</Account>
+<BIC>AKBBBY2X</BIC>
+<UNN>101530339</UNN>
+<NameBIC>��� '��� �����������',</NameBIC>
+<Name>������� ���������� ������������ �������� �� �� �.������</Name>
+<Ground>������ ����������� ������ �� �/� �� ������� 2019 �. ����� ������� �� �/� � ���������� � ������. ���� ������� 19/02/2019. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>124</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>19.02.2019 12:48:40</Time>
+<OperType>01</OperType>
+<Amount>1 500.00</Amount>
+<AmountCurr>1 500.00</AmountCurr>
+<Beneficiar>
+<Account>BY34OLMP31190000001710000933</Account>
+<BIC>OLMPBY2X</BIC>
+<UNN>100429079</UNN>
+<NameBIC>��� '��������������',</NameBIC>
+<Name>��� "������"</Name>
+<Ground>������ ������� ����������� ����� "������" ���� ��� 24052 �� 05/03/2008 ��� ��� </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>25</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>19.02.2019 13:11:36</Time>
+<OperType>01</OperType>
+<Amount>5 220.00</Amount>
+<AmountCurr>5 220.00</AmountCurr>
+<Beneficiar>
+<Account>BY13BPSB38198000000709330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>��� "���-��������", � ����</NameBIC>
+<Name>��� ���-��������</Name>
+<Ground>���������� ����� �� �������. ������� N 348-2017 �� 07.07.2017.  ������ �� ������� N 25 �� 19.02.2019. </Ground>
+</Beneficiar>
+</Document>
+</DebetDocuments> 
+<CreditDocuments>
+<DocumentsNet>1</DocumentsNet>
+<Turnover>21486,00</Turnover>
+<CreditTurnoverNat>21486,00</CreditTurnoverNat>
+<Document>
+<DocumentNumber>48</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>19.02.2019 13:04:15</Time>
+<OperType>06</OperType>
+<Amount>21 486.00</Amount>
+<AmountCurr>21 486.00</AmountCurr>
+<Payer>
+<Account>BY88BPSB69118170000149330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>��� "���-��������", � ����</NameBIC>
+<Name>��� "���-��������"</Name>
+<Ground>��ॢ�� � �த���� �� 48  �� 19.02.19 �।�⠢�⥫��⢮ ��� "Sun Pharmaceutical Industries LTD." (���㡫��� �����) � ���㡫��� ��������. ����  2.1486 �� 1 ��. ������. ��������� ������� ����������� ������. </Ground>
+</Payer>
+</Document>
+</CreditDocuments>
+
+</Statement>
+</Statements>
+<?xml version = "1.0" encoding="CP866"?>
+<?xml-stylesheet type="text/xsl"?>
+<Statements>
+<Date>20.02.2019</Date>
+<Time>23:06:55</Time>
+<Type>�������</Type>
+<Account>BY86BPSB30211816590139330000</Account>
+<UNN>102332897</UNN>
+<Statement>
+<Account>BY86BPSB30211816590139330000</Account>
+<Name></Name>
+<BIC>BPSBBY2X</BIC>
+<CurrCode>933</CurrCode>
+<CurrCodeISO>BYN</CurrCodeISO>
+<OpeningBalance>19634,42</OpeningBalance>
+<OpeningBalanceNat>19634,42</OpeningBalanceNat>
+<KursRazn>0.00</KursRazn>
+<DatePrevious>19.02.2019</DatePrevious>
+<ClosingBalance>10216,27</ClosingBalance>
+<ClosingBalanceNat>10216,27</ClosingBalanceNat>
+<DateClosing>20.02.2019</DateClosing>
+<DebetDocuments>
+<DocumentsNet>4</DocumentsNet>
+<Turnover>9418,15</Turnover>
+<DebetTurnoverNat>9418,15</DebetTurnoverNat>
+<Document>
+<DocumentNumber>20263</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>20.02.2019 13:40:22</Time>
+<OperType>06</OperType>
+<Amount>8.19</Amount>
+<AmountCurr>8.19</AmountCurr>
+<Beneficiar>
+<Account>BY63BPSB81010000053159330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>��� "���-��������", � ����</NameBIC>
+<Name>��� "���-��������"</Name>
+<Ground>�������. �� ���᫥��� �������� �।�� �� ��� 䨧.���, �� �/� �26 �� 20.02.2019 ᮣ�. �������� 348-2017 �� 07.07.2017�. ��� ��� ᮣ��᭮ �. 1.37.2. ��.94 �ᮡ����� ��� ���������� ������ </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>129</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>20.02.2019 15:12:17</Time>
+<OperType>01</OperType>
+<Amount>809.96</Amount>
+<AmountCurr>809.96</AmountCurr>
+<Beneficiar>
+<Account>BY66MTBK30120001093300062321</Account>
+<BIC>MTBKBY22</BIC>
+<UNN>100608743</UNN>
+<NameBIC>��� '������',</NameBIC>
+<Name>��� "������"</Name>
+<Ground>������ �� �� ����������� ���� ��-�� 23268 �� 20.02.19, � �. �. ��� (20%) 134,99. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>26</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>20.02.2019 13:40:21</Time>
+<OperType>01</OperType>
+<Amount>2 730.00</Amount>
+<AmountCurr>2 730.00</AmountCurr>
+<Beneficiar>
+<Account>BY13BPSB38198000000709330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>��� "���-��������", � ����</NameBIC>
+<Name>��� ���-��������</Name>
+<Ground>���������� �����, ���������� ����� �� ������ 2019. ������� N 348-2017 �� 07.07.2017.  ������ �� ������� N 26 �� 20.02.2019. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>128</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>20.02.2019 15:11:49</Time>
+<OperType>01</OperType>
+<Amount>5 870.00</Amount>
+<AmountCurr>5 870.00</AmountCurr>
+<Beneficiar>
+<Account>BY33BPSB30133012630119330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>691834277</UNN>
+<NameBIC>��� "���-��������", � ����</NameBIC>
+<Name>�� ��������� ������ ����������</Name>
+<Ground>������ �� ������������ ������ ����. ���� 25 �� 30.01.2019. </Ground>
+</Beneficiar>
+</Document>
+</DebetDocuments> 
+<CreditDocuments>
+<DocumentsNet>0</DocumentsNet>
+<Turnover>0,00</Turnover>
+<CreditTurnoverNat>0,00</CreditTurnoverNat>
+</CreditDocuments>
+
+</Statement>
+</Statements>
+<?xml version = "1.0" encoding="CP866"?>
+<?xml-stylesheet type="text/xsl"?>
+<Statements>
+<Date>21.02.2019</Date>
+<Time>23:08:49</Time>
+<Type>�������</Type>
+<Account>BY86BPSB30211816590139330000</Account>
+<UNN>102332897</UNN>
+<Statement>
+<Account>BY86BPSB30211816590139330000</Account>
+<Name></Name>
+<BIC>BPSBBY2X</BIC>
+<CurrCode>933</CurrCode>
+<CurrCodeISO>BYN</CurrCodeISO>
+<OpeningBalance>10216,27</OpeningBalance>
+<OpeningBalanceNat>10216,27</OpeningBalanceNat>
+<KursRazn>0.00</KursRazn>
+<DatePrevious>20.02.2019</DatePrevious>
+<ClosingBalance>9764,92</ClosingBalance>
+<ClosingBalanceNat>9764,92</ClosingBalanceNat>
+<DateClosing>21.02.2019</DateClosing>
+<DebetDocuments>
+<DocumentsNet>2</DocumentsNet>
+<Turnover>451,35</Turnover>
+<DebetTurnoverNat>451,35</DebetTurnoverNat>
+<Document>
+<DocumentNumber>30195</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>21.02.2019 14:56:50</Time>
+<OperType>06</OperType>
+<Amount>1.35</Amount>
+<AmountCurr>1.35</AmountCurr>
+<Beneficiar>
+<Account>BY63BPSB81010000053159330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>��� "���-��������", � ����</NameBIC>
+<Name>��� "���-��������"</Name>
+<Ground>�������. �� ���᫥��� �������� �।�� �� ��� 䨧.���, �� �/� �27 �� 21.02.2019 ᮣ�. �������� 348-2017 �� 07.07.2017�. ��� ��� ᮣ��᭮ �. 1.37.2. ��.94 �ᮡ����� ��� ���������� ������ </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>27</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>21.02.2019 14:56:49</Time>
+<OperType>01</OperType>
+<Amount>450.00</Amount>
+<AmountCurr>450.00</AmountCurr>
+<Beneficiar>
+<Account>BY13BPSB38198000000709330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>��� "���-��������", � ����</NameBIC>
+<Name>��� ���-��������</Name>
+<Ground>���������� ����� �� ������ 2019. ������� N 348-2017 �� 07.07.2017.  ������ �� ������� N 27 �� 21.02.2019. </Ground>
+</Beneficiar>
+</Document>
+</DebetDocuments> 
+<CreditDocuments>
+<DocumentsNet>0</DocumentsNet>
+<Turnover>0,00</Turnover>
+<CreditTurnoverNat>0,00</CreditTurnoverNat>
+</CreditDocuments>
+
+</Statement>
+</Statements>
+<?xml version = "1.0" encoding="CP866"?>
+<?xml-stylesheet type="text/xsl"?>
+<Statements>
+<Date>22.02.2019</Date>
+<Time>23:07:05</Time>
+<Type>�������</Type>
+<Account>BY86BPSB30211816590139330000</Account>
+<UNN>102332897</UNN>
+<Statement>
+<Account>BY86BPSB30211816590139330000</Account>
+<Name></Name>
+<BIC>BPSBBY2X</BIC>
+<CurrCode>933</CurrCode>
+<CurrCodeISO>BYN</CurrCodeISO>
+<OpeningBalance>9764,92</OpeningBalance>
+<OpeningBalanceNat>9764,92</OpeningBalanceNat>
+<KursRazn>0.00</KursRazn>
+<DatePrevious>21.02.2019</DatePrevious>
+<ClosingBalance>8159,76</ClosingBalance>
+<ClosingBalanceNat>8159,76</ClosingBalanceNat>
+<DateClosing>22.02.2019</DateClosing>
+<DebetDocuments>
+<DocumentsNet>8</DocumentsNet>
+<Turnover>65598,16</Turnover>
+<DebetTurnoverNat>65598,16</DebetTurnoverNat>
+<Document>
+<DocumentNumber>14130</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>22.02.2019 15:02:50</Time>
+<OperType>06</OperType>
+<Amount>1.35</Amount>
+<AmountCurr>1.35</AmountCurr>
+<Beneficiar>
+<Account>BY63BPSB81010000053159330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>��� "���-��������", � ����</NameBIC>
+<Name>��� "���-��������"</Name>
+<Ground>�������. �� ���᫥��� �������� �।�� �� ��� 䨧.���, �� �/� �29 �� 22.02.2019 ᮣ�. �������� 348-2017 �� 07.07.2017�. ��� ��� ᮣ��᭮ �. 1.37.2. ��.94 �ᮡ����� ��� ���������� ������ </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>13995</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>22.02.2019 14:57:34</Time>
+<OperType>06</OperType>
+<Amount>4.20</Amount>
+<AmountCurr>4.20</AmountCurr>
+<Beneficiar>
+<Account>BY63BPSB81010000053159330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>��� "���-��������", � ����</NameBIC>
+<Name>��� "���-��������"</Name>
+<Ground>�������. �� ���᫥��� �������� �।�� �� ��� 䨧.���, �� �/� �28 �� 22.02.2019 ᮣ�. �������� 348-2017 �� 07.07.2017�. ��� ��� ᮣ��᭮ �. 1.37.2. ��.94 �ᮡ����� ��� ���������� ������ </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>29</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>22.02.2019 15:02:50</Time>
+<OperType>01</OperType>
+<Amount>450.00</Amount>
+<AmountCurr>450.00</AmountCurr>
+<Beneficiar>
+<Account>BY13BPSB38198000000709330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>��� "���-��������", � ����</NameBIC>
+<Name>��� ���-��������</Name>
+<Ground>���������� ����� �� ������ 2019. ������� N 348-2017 �� 07.07.2017.  ������ �� ������� N 29 �� 22.02.2019. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>133</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>22.02.2019 14:47:00</Time>
+<OperType>01</OperType>
+<Amount>500.00</Amount>
+<AmountCurr>500.00</AmountCurr>
+<Beneficiar>
+<Account>BY94AKBB30120916600145500000</Account>
+<BIC>AKBBBY21529</BIC>
+<UNN>102377059</UNN>
+<NameBIC>������ N529 '��������' ��� '��� �����������',</NameBIC>
+<Name>��� "�����-������" �� ������ ������</Name>
+<Ground>������ �� ����������������� ������. ����� ����. �������� 2018/038 �� 21.02.2018. ����� � ��� - 500,00 </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>132</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>22.02.2019 13:53:18</Time>
+<OperType>01</OperType>
+<Amount>617.61</Amount>
+<AmountCurr>617.61</AmountCurr>
+<Beneficiar>
+<Account>BY51PJCB30120336991000000933</Account>
+<BIC>PJCBBY2X</BIC>
+<UNN>101528828</UNN>
+<NameBIC>'���������' ���,</NameBIC>
+<Name>��� "��������"</Name>
+<Ground>����� �� ������ ������ � �������������� ��� ILEX "������� ��������� ����" � �����-��� 2019 ���� �� 12167 �� 05.02.2019. ����� ��� (20%) -102,93. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>28</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>22.02.2019 14:57:34</Time>
+<OperType>01</OperType>
+<Amount>1 400.00</Amount>
+<AmountCurr>1 400.00</AmountCurr>
+<Beneficiar>
+<Account>BY13BPSB38198000000709330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>��� "���-��������", � ����</NameBIC>
+<Name>��� ���-��������</Name>
+<Ground>���������� ����� �� ������ 2019. ������� N 348-2017 �� 07.07.2017.  ������ �� ������� N 28 �� 22.02.2019. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>131</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>22.02.2019 13:53:17</Time>
+<OperType>01</OperType>
+<Amount>3 294.00</Amount>
+<AmountCurr>3 294.00</AmountCurr>
+<Beneficiar>
+<Account>BY77BLBB30120190196523001001</Account>
+<BIC>BLBBBY2X</BIC>
+<UNN>190196523</UNN>
+<NameBIC>��� '�������������',</NameBIC>
+<Name>�� "��������������� �������"</Name>
+<Ground>������ �� ������ �� ���������� ������� ���� �� 34 �� 04.02.19, 35 �� 05.02.19 . ��� ���. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>130</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>22.02.2019 13:35:29</Time>
+<OperType>01</OperType>
+<Amount>59 331.00</Amount>
+<AmountCurr>59 331.00</AmountCurr>
+<Beneficiar>
+<Account>BY20BLNB30130000020829000933</Account>
+<BIC>BLNBBY2X</BIC>
+<UNN>690234251</UNN>
+<NameBIC>��� '���-����',</NameBIC>
+<Name>�� ������������ ��������� ��������</Name>
+<Ground>������ �� ���������� ������ ����  �� � 1902 �� 19.02.2019. ��� ���. </Ground>
+</Beneficiar>
+</Document>
+</DebetDocuments> 
+<CreditDocuments>
+<DocumentsNet>1</DocumentsNet>
+<Turnover>63993,00</Turnover>
+<CreditTurnoverNat>63993,00</CreditTurnoverNat>
+<Document>
+<DocumentNumber>51</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>22.02.2019 13:23:29</Time>
+<OperType>06</OperType>
+<Amount>63 993.00</Amount>
+<AmountCurr>63 993.00</AmountCurr>
+<Payer>
+<Account>BY88BPSB69118170000149330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>��� "���-��������", � ����</NameBIC>
+<Name>��� "���-��������"</Name>
+<Ground>��ॢ�� � �த���� �� 51  �� 22.02.19 �।�⠢�⥫��⢮ ��� "Sun Pharmaceutical Industries LTD." (���㡫��� �����) � ���㡫��� ��������. ����  2.1331 �� 1 ��. ������. ��������� ������� ����������� ������. </Ground>
+</Payer>
+</Document>
+</CreditDocuments>
+
+</Statement>
+</Statements>
+<?xml version = "1.0" encoding="CP866"?>
+<?xml-stylesheet type="text/xsl"?>
+<Statements>
+<Date>25.02.2019</Date>
+<Time>23:06:55</Time>
+<Type>�������</Type>
+<Account>BY86BPSB30211816590139330000</Account>
+<UNN>102332897</UNN>
+<Statement>
+<Account>BY86BPSB30211816590139330000</Account>
+<Name></Name>
+<BIC>BPSBBY2X</BIC>
+<CurrCode>933</CurrCode>
+<CurrCodeISO>BYN</CurrCodeISO>
+<OpeningBalance>8159,76</OpeningBalance>
+<OpeningBalanceNat>8159,76</OpeningBalanceNat>
+<KursRazn>0.00</KursRazn>
+<DatePrevious>22.02.2019</DatePrevious>
+<ClosingBalance>6659,76</ClosingBalance>
+<ClosingBalanceNat>6659,76</ClosingBalanceNat>
+<DateClosing>25.02.2019</DateClosing>
+<DebetDocuments>
+<DocumentsNet>1</DocumentsNet>
+<Turnover>1500,00</Turnover>
+<DebetTurnoverNat>1500,00</DebetTurnoverNat>
+<Document>
+<DocumentNumber>134</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>25.02.2019 11:54:59</Time>
+<OperType>01</OperType>
+<Amount>1 500.00</Amount>
+<AmountCurr>1 500.00</AmountCurr>
+<Beneficiar>
+<Account>BY34OLMP31190000001710000933</Account>
+<BIC>OLMPBY2X</BIC>
+<UNN>100429079</UNN>
+<NameBIC>��� '��������������',</NameBIC>
+<Name>��� "������"</Name>
+<Ground>������ ������� ����������� ����� "������" ���� ��� 24052 �� 05/03/2008 ��� ��� </Ground>
+</Beneficiar>
+</Document>
+</DebetDocuments> 
+<CreditDocuments>
+<DocumentsNet>0</DocumentsNet>
+<Turnover>0,00</Turnover>
+<CreditTurnoverNat>0,00</CreditTurnoverNat>
+</CreditDocuments>
+
+</Statement>
+</Statements>
+<?xml version = "1.0" encoding="CP866"?>
+<?xml-stylesheet type="text/xsl"?>
+<Statements>
+<Date>26.02.2019</Date>
+<Time>23:14:50</Time>
+<Type>�������</Type>
+<Account>BY86BPSB30211816590139330000</Account>
+<UNN>102332897</UNN>
+<Statement>
+<Account>BY86BPSB30211816590139330000</Account>
+<Name></Name>
+<BIC>BPSBBY2X</BIC>
+<CurrCode>933</CurrCode>
+<CurrCodeISO>BYN</CurrCodeISO>
+<OpeningBalance>6659,76</OpeningBalance>
+<OpeningBalanceNat>6659,76</OpeningBalanceNat>
+<KursRazn>0.00</KursRazn>
+<DatePrevious>25.02.2019</DatePrevious>
+<ClosingBalance>8741,34</ClosingBalance>
+<ClosingBalanceNat>8741,34</ClosingBalanceNat>
+<DateClosing>26.02.2019</DateClosing>
+<DebetDocuments>
+<DocumentsNet>12</DocumentsNet>
+<Turnover>19219,42</Turnover>
+<DebetTurnoverNat>19219,42</DebetTurnoverNat>
+<Document>
+<DocumentNumber>10795</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>26.02.2019 13:48:33</Time>
+<OperType>06</OperType>
+<Amount>1.20</Amount>
+<AmountCurr>1.20</AmountCurr>
+<Beneficiar>
+<Account>BY63BPSB81010000053159330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>��� "���-��������", � ����</NameBIC>
+<Name>��� "���-��������"</Name>
+<Ground>�������. �� ���᫥��� �������� �।�� �� ��� 䨧.���, �� �/� �30 �� 26.02.2019 ᮣ�. �������� 348-2017 �� 07.07.2017�. ��� ��� ᮣ��᭮ �. 1.37.2. ��.94 �ᮡ����� ��� ���������� ������ </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>18417</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>26.02.2019 23:13:30</Time>
+<OperType>06</OperType>
+<Amount>15.00</Amount>
+<AmountCurr>15.00</AmountCurr>
+<Beneficiar>
+<Account>BY34BPSB81018040001839330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>��� "���-��������", � ����</NameBIC>
+<Name>��� "���-��������"</Name>
+<Ground>������ࠦ����� �� �ਥ� � �ᯮ������ ����.������権 ������ ��᫥ �६���, ��⠭��������� ������஬: ���� �� ���� ����� �� � BYN � ��⥬� BISS (�ਭ���� ��᫥ 15-30) � ���-�� 2 ���. (�� 7.50 ���.��. �� ���.) �� 26.02.2019 � ��� BY86BPSB30211816590139330000, ᮣ��᭮ �������� � 777/181659/�/933/01 �� 30.06.2017�. ��� ��� ᮣ��᭮ �. 1.37.2. ��.94 �ᮡ����� ��� ���������� ������". </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>12793</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>26.02.2019 15:23:32</Time>
+<OperType>06</OperType>
+<Amount>36.99</Amount>
+<AmountCurr>36.99</AmountCurr>
+<Beneficiar>
+<Account>BY63BPSB81010000053159330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>��� "���-��������", � ����</NameBIC>
+<Name>��� "���-��������"</Name>
+<Ground>�������. �� ���᫥��� �������� �।�� �� ��� 䨧.���, �� �/� �31 �� 26.02.2019 ᮣ�. �������� 348-2017 �� 07.07.2017�. ��� ��� ᮣ��᭮ �. 1.37.2. ��.94 �ᮡ����� ��� ���������� ������ </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>140</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>26.02.2019 15:32:05</Time>
+<OperType>01</OperType>
+<Amount>95.50</Amount>
+<AmountCurr>95.50</AmountCurr>
+<Beneficiar>
+<Account>BY17ALFA30122201910060270000</Account>
+<BIC>ALFABY2X</BIC>
+<UNN>190884065</UNN>
+<NameBIC>��� '�����-����',</NameBIC>
+<Name>�� "������ ��"</Name>
+<Ground>����� �� �������� ��������� ���� ��.��������� 44 �� 20.02.2019 � ��� 23/16 �� 21.01.16. ����� 95,50=. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>138</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>26.02.2019 15:30:53</Time>
+<OperType>01</OperType>
+<Amount>279.86</Amount>
+<AmountCurr>279.86</AmountCurr>
+<Beneficiar>
+<Account>BY05AKBB30121227400152000000</Account>
+<BIC>AKBBBY21200</BIC>
+<UNN>391362258</UNN>
+<NameBIC>������ N200 ��������� ���. ���������� ��� '��� �����������', � ��⥡�</NameBIC>
+<Name>��� "���������������"</Name>
+<Ground>������ �� �������� ����  �� ��-9934 �� 18.02.19. ����� ��� 46,64=. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>137</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>26.02.2019 15:30:52</Time>
+<OperType>01</OperType>
+<Amount>314.35</Amount>
+<AmountCurr>314.35</AmountCurr>
+<Beneficiar>
+<Account>BY55BELB30120064290050226000</Account>
+<BIC>BELBBY2X</BIC>
+<UNN>100386830</UNN>
+<NameBIC>��� '���� ������',</NameBIC>
+<Name>��� "������"</Name>
+<Ground>������ �� ������ �� ��������������. ����� ����. �/� 197 �� 14.02.2019. ����� ��� (20%) 52,39=. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>30</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>26.02.2019 13:48:33</Time>
+<OperType>01</OperType>
+<Amount>400.00</Amount>
+<AmountCurr>400.00</AmountCurr>
+<Beneficiar>
+<Account>BY13BPSB38198000000709330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>��� "���-��������", � ����</NameBIC>
+<Name>��� ���-��������</Name>
+<Ground>���������� ����� �� ������ 2019. ������� N 348-2017 �� 07.07.2017.  ������ �� ������� N 30 �� 26.02.2019. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>139</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>26.02.2019 15:30:53</Time>
+<OperType>01</OperType>
+<Amount>418.07</Amount>
+<AmountCurr>418.07</AmountCurr>
+<Beneficiar>
+<Account>BY95BLBB30120192153389001001</Account>
+<BIC>BLBBBY2X</BIC>
+<UNN>192153389</UNN>
+<NameBIC>��� '�������������',</NameBIC>
+<Name>�� �� �������� ����� "�����������-������"</Name>
+<Ground>����� �� ���������� � ��������� ���� �� �-003276 �� 26.02.2019. ����� ��� - 76,00=. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>141</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>26.02.2019 15:38:03</Time>
+<OperType>01</OperType>
+<Amount>500.00</Amount>
+<AmountCurr>500.00</AmountCurr>
+<Beneficiar>
+<Account>BY38ALFA30132385980010270000</Account>
+<BIC>ALFABY2X</BIC>
+<UNN>591913128</UNN>
+<NameBIC>��� '�����-����',</NameBIC>
+<Name>�� �������� �������� ��������</Name>
+<Ground>����� �� ����������� ��������� ���������� ���� �� 4 �� 06.02.2019. ����� 510,00=. ��� ��� </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>135</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>26.02.2019 12:32:04</Time>
+<OperType>01</OperType>
+<Amount>500.00</Amount>
+<AmountCurr>500.00</AmountCurr>
+<Beneficiar>
+<Account>BY94AKBB30120916600145500000</Account>
+<BIC>AKBBBY21529</BIC>
+<UNN>102377059</UNN>
+<NameBIC>������ N529 '��������' ��� '��� �����������',</NameBIC>
+<Name>��� "�����-������" �� ������ ������</Name>
+<Ground>������ �� ����������������� ������. ����� ����. �������� 2018/038 �� 21.02.2018. ����� � ��� - 500,00 </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>136</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>26.02.2019 12:37:02</Time>
+<OperType>01</OperType>
+<Amount>4 330.00</Amount>
+<AmountCurr>4 330.00</AmountCurr>
+<Beneficiar>
+<Account>BY33BPSB30133012630119330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>691834277</UNN>
+<NameBIC>��� "���-��������", � ����</NameBIC>
+<Name>�� ��������� ������ ����������</Name>
+<Ground>������ �� ������������ ������ ����. ���� 25 �� 31.01.2019 </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>31</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>26.02.2019 15:23:32</Time>
+<OperType>01</OperType>
+<Amount>12 328.45</Amount>
+<AmountCurr>12 328.45</AmountCurr>
+<Beneficiar>
+<Account>BY13BPSB38198000000709330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>��� "���-��������", � ����</NameBIC>
+<Name>��� ���-��������</Name>
+<Ground>���������� ����� �� �������. ������� N 348-2017 �� 07.07.2017.  ������ �� ������� N 31 �� 26.02.2019. </Ground>
+</Beneficiar>
+</Document>
+</DebetDocuments> 
+<CreditDocuments>
+<DocumentsNet>1</DocumentsNet>
+<Turnover>21301,00</Turnover>
+<CreditTurnoverNat>21301,00</CreditTurnoverNat>
+<Document>
+<DocumentNumber>53</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>26.02.2019 15:02:59</Time>
+<OperType>06</OperType>
+<Amount>21 301.00</Amount>
+<AmountCurr>21 301.00</AmountCurr>
+<Payer>
+<Account>BY88BPSB69118170000149330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>��� "���-��������", � ����</NameBIC>
+<Name>��� "���-��������"</Name>
+<Ground>��ॢ�� � �த���� �� 53  �� 26.02.19 �।�⠢�⥫��⢮ ��� "Sun Pharmaceutical Industries LTD." (���㡫��� �����) � ���㡫��� ��������. ����  2.1301 �� 1 ��. ������. ��������� ������� ����������� ������. </Ground>
+</Payer>
+</Document>
+</CreditDocuments>
+
+</Statement>
+</Statements>
+<?xml version = "1.0" encoding="CP866"?>
+<?xml-stylesheet type="text/xsl"?>
+<Statements>
+<Date>27.02.2019</Date>
+<Time>23:10:44</Time>
+<Type>�������</Type>
+<Account>BY86BPSB30211816590139330000</Account>
+<UNN>102332897</UNN>
+<Statement>
+<Account>BY86BPSB30211816590139330000</Account>
+<Name></Name>
+<BIC>BPSBBY2X</BIC>
+<CurrCode>933</CurrCode>
+<CurrCodeISO>BYN</CurrCodeISO>
+<OpeningBalance>8741,34</OpeningBalance>
+<OpeningBalanceNat>8741,34</OpeningBalanceNat>
+<KursRazn>0.00</KursRazn>
+<DatePrevious>26.02.2019</DatePrevious>
+<ClosingBalance>3500,16</ClosingBalance>
+<ClosingBalanceNat>3500,16</ClosingBalanceNat>
+<DateClosing>27.02.2019</DateClosing>
+<DebetDocuments>
+<DocumentsNet>12</DocumentsNet>
+<Turnover>5241,18</Turnover>
+<DebetTurnoverNat>5241,18</DebetTurnoverNat>
+<Document>
+<DocumentNumber>4300</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>27.02.2019 10:37:07</Time>
+<OperType>06</OperType>
+<Amount>2.70</Amount>
+<AmountCurr>2.70</AmountCurr>
+<Beneficiar>
+<Account>BY63BPSB81010000053159330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>��� "���-��������", � ����</NameBIC>
+<Name>��� "���-��������"</Name>
+<Ground>�������. �� ���᫥��� �������� �।�� �� ��� 䨧.���, �� �/� �32 �� 27.02.2019 ᮣ�. �������� 348-2017 �� 07.07.2017�. ��� ��� ᮣ��᭮ �. 1.37.2. ��.94 �ᮡ����� ��� ���������� ������ </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>11944</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>27.02.2019 15:59:55</Time>
+<OperType>06</OperType>
+<Amount>3.00</Amount>
+<AmountCurr>3.00</AmountCurr>
+<Beneficiar>
+<Account>BY63BPSB81010000053159330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>��� "���-��������", � ����</NameBIC>
+<Name>��� "���-��������"</Name>
+<Ground>�������. �� ���᫥��� �������� �।�� �� ��� 䨧.���, �� �/� �33 �� 27.02.2019 ᮣ�. �������� 348-2017 �� 07.07.2017�. ��� ��� ᮣ��᭮ �. 1.37.2. ��.94 �ᮡ����� ��� ���������� ������ </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>148</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>27.02.2019 16:05:21</Time>
+<OperType>01</OperType>
+<Amount>26.00</Amount>
+<AmountCurr>26.00</AmountCurr>
+<Beneficiar>
+<Account>BY09MTBK30130001093300032245</Account>
+<BIC>MTBKBY22</BIC>
+<UNN>191784649</UNN>
+<NameBIC>��� '������',</NameBIC>
+<Name>�� ���������� �.�.</Name>
+<Ground>����� �� �������� ��������� ���� �� 103 �� 22.02.19, ��� ��� </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>17587</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>27.02.2019 22:17:01</Time>
+<OperType>06</OperType>
+<Amount>30.00</Amount>
+<AmountCurr>30.00</AmountCurr>
+<Beneficiar>
+<Account>BY34BPSB81018040001839330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>��� "���-��������", � ����</NameBIC>
+<Name>��� "���-��������"</Name>
+<Ground>������ࠦ����� �� �ਥ� � �ᯮ������ ����.������権 ������ ��᫥ �६���, ��⠭��������� ������஬: ���� �� ���� ����� �� � BYN � ��⥬� BISS (�ਭ���� ��᫥ 15-30) � ���-�� 4 ���. (�� 7.50 ���.��. �� ���.) �� 27.02.2019 � ��� BY86BPSB30211816590139330000, ᮣ��᭮ �������� � 777/181659/�/933/01 �� 30.06.2017�. ��� ��� ᮣ��᭮ �. 1.37.2. ��.94 �ᮡ����� ��� ���������� ������". </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>147</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>27.02.2019 16:05:21</Time>
+<OperType>01</OperType>
+<Amount>33.00</Amount>
+<AmountCurr>33.00</AmountCurr>
+<Beneficiar>
+<Account>BY38PJCB30120151551000000933</Account>
+<BIC>PJCBBY2X</BIC>
+<UNN>690027140</UNN>
+<NameBIC>'���������' ���,</NameBIC>
+<Name>��� "��� ����"</Name>
+<Ground>������ �� ���� �������� ���� ��-�� �-058374 �� 25.02.19. �����  ��� 5,50 </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>145</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>27.02.2019 15:55:58</Time>
+<OperType>01</OperType>
+<Amount>100.00</Amount>
+<AmountCurr>100.00</AmountCurr>
+<Beneficiar>
+<Account>BY72AKBB30121002800115500000</Account>
+<BIC>AKBBBY21529</BIC>
+<UNN>101015738</UNN>
+<NameBIC>������ N529 '��������' ��� '��� �����������',</NameBIC>
+<Name>��� "��������"</Name>
+<Ground>���������� ��������� ������ ��� ������ ����� ��� "��������" </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>144</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>27.02.2019 12:16:59</Time>
+<OperType>01</OperType>
+<Amount>145.66</Amount>
+<AmountCurr>145.66</AmountCurr>
+<Beneficiar>
+<Account>BY06BELB30121405850070226000</Account>
+<BIC>BELBBY2X</BIC>
+<UNN>591006708</UNN>
+<NameBIC>��� '���� ������',</NameBIC>
+<Name>��� "����� "�����"</Name>
+<Ground>������� �� ���������� ���� ���� 2 �� 18.10.18. ����� 145,66 </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>146</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>27.02.2019 16:05:21</Time>
+<OperType>01</OperType>
+<Amount>200.00</Amount>
+<AmountCurr>200.00</AmountCurr>
+<Beneficiar>
+<Account>BY91PJCB30124007621000000933</Account>
+<BIC>PJCBBY2X</BIC>
+<UNN>400022441</UNN>
+<NameBIC>'���������' ���,</NameBIC>
+<Name>���� "�����-������"</Name>
+<Ground>����� �� ������� ���� ��-� 0000089 �� 27.02.19. �����  ��� (20%) 23,83=. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>142</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>27.02.2019 10:37:00</Time>
+<OperType>01</OperType>
+<Amount>800.00</Amount>
+<AmountCurr>800.00</AmountCurr>
+<Beneficiar>
+<Account>BY34AKBB30120000270295200000</Account>
+<BIC>AKBBBY21511</BIC>
+<UNN>192475340</UNN>
+<NameBIC>������ N511 ��� '��� �����������',</NameBIC>
+<Name>��� "����� �����"</Name>
+<Ground>���������� �� ������� ���� ��� �/� �� 5.09.2016. ����� � ��� 800,00= </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>32</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>27.02.2019 10:37:07</Time>
+<OperType>01</OperType>
+<Amount>900.82</Amount>
+<AmountCurr>900.82</AmountCurr>
+<Beneficiar>
+<Account>BY13BPSB38198000000709330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>��� "���-��������", � ����</NameBIC>
+<Name>��� ���-��������</Name>
+<Ground>���������� ����� �� �������. ������� N 348-2017 �� 07.07.2017.  ������ �� ������� N 32 �� 27.02.2019. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>33</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>27.02.2019 15:59:55</Time>
+<OperType>01</OperType>
+<Amount>1 000.00</Amount>
+<AmountCurr>1 000.00</AmountCurr>
+<Beneficiar>
+<Account>BY13BPSB38198000000709330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>��� "���-��������", � ����</NameBIC>
+<Name>��� ���-��������</Name>
+<Ground>���������� ����� �� �������. ������� N 348-2017 �� 07.07.2017.  ������ �� ������� N 33 �� 27.02.2019. </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>143</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>27.02.2019 12:14:19</Time>
+<OperType>01</OperType>
+<Amount>2 000.00</Amount>
+<AmountCurr>2 000.00</AmountCurr>
+<Beneficiar>
+<Account>BY34OLMP31190000001710000933</Account>
+<BIC>OLMPBY2X</BIC>
+<UNN>100429079</UNN>
+<NameBIC>��� '��������������',</NameBIC>
+<Name>��� "������"</Name>
+<Ground>������ ������� ����������� ����� "������" ���� ��� 24052 �� 05/03/2008 ��� ��� </Ground>
+</Beneficiar>
+</Document>
+</DebetDocuments> 
+<CreditDocuments>
+<DocumentsNet>0</DocumentsNet>
+<Turnover>0,00</Turnover>
+<CreditTurnoverNat>0,00</CreditTurnoverNat>
+</CreditDocuments>
+
+</Statement>
+</Statements>
+<?xml version = "1.0" encoding="CP866"?>
+<?xml-stylesheet type="text/xsl"?>
+<Statements>
+<Date>28.02.2019</Date>
+<Time>23:09:26</Time>
+<Type>�������</Type>
+<Account>BY86BPSB30211816590139330000</Account>
+<UNN>102332897</UNN>
+<Statement>
+<Account>BY86BPSB30211816590139330000</Account>
+<Name></Name>
+<BIC>BPSBBY2X</BIC>
+<CurrCode>933</CurrCode>
+<CurrCodeISO>BYN</CurrCodeISO>
+<OpeningBalance>3500,16</OpeningBalance>
+<OpeningBalanceNat>3500,16</OpeningBalanceNat>
+<KursRazn>0.00</KursRazn>
+<DatePrevious>27.02.2019</DatePrevious>
+<ClosingBalance>2887,72</ClosingBalance>
+<ClosingBalanceNat>2887,72</ClosingBalanceNat>
+<DateClosing>28.02.2019</DateClosing>
+<DebetDocuments>
+<DocumentsNet>2</DocumentsNet>
+<Turnover>612,52</Turnover>
+<DebetTurnoverNat>612,52</DebetTurnoverNat>
+<Document>
+<DocumentNumber>150</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>28.02.2019 12:08:07</Time>
+<OperType>01</OperType>
+<Amount>119.30</Amount>
+<AmountCurr>119.30</AmountCurr>
+<Beneficiar>
+<Account>BY93AKBB30121002701355500000</Account>
+<BIC>AKBBBY21529</BIC>
+<UNN>100608743</UNN>
+<NameBIC>������ N529 '��������' ��� '��� �����������',</NameBIC>
+<Name>��� "����������", ��</Name>
+<Ground>������ ����� ����� �� ������ � ��������� � ����������� � ��� 136471 �� 31.05.2007 </Ground>
+</Beneficiar>
+</Document>
+<Document>
+<DocumentNumber>149</DocumentNumber>
+<DocumentType>1</DocumentType>
+<Time>28.02.2019 08:07:22</Time>
+<OperType>01</OperType>
+<Amount>493.22</Amount>
+<AmountCurr>493.22</AmountCurr>
+<Beneficiar>
+<Account>BY66MTBK30120001093300062321</Account>
+<BIC>MTBKBY22</BIC>
+<UNN>100608743</UNN>
+<NameBIC>��� '������',</NameBIC>
+<Name>��� "������"</Name>
+<Ground>������ �� �� ���������� ���� ��-�� 23378 �� 26.02.19, � �. �. ��� (20%) 82,20. </Ground>
+</Beneficiar>
+</Document>
+</DebetDocuments> 
+<CreditDocuments>
+<DocumentsNet>1</DocumentsNet>
+<Turnover>0,08</Turnover>
+<CreditTurnoverNat>0,08</CreditTurnoverNat>
+<Document>
+<DocumentNumber>9843</DocumentNumber>
+<DocumentType>6</DocumentType>
+<Time>28.02.2019 08:55:51</Time>
+<OperType>06</OperType>
+<Amount>0.08</Amount>
+<AmountCurr>0.08</AmountCurr>
+<Payer>
+<Account>BY08BPSB90318090000009330000</Account>
+<BIC>BPSBBY2X</BIC>
+<UNN>100219673</UNN>
+<NameBIC>��� "���-��������", � ����</NameBIC>
+<Name>��� "���-��������"</Name>
+<Ground>�믫�� ��業⮢ �� ��⠬ �����⮢ �� ��ਮ� � 31/01/2019 �� 27/02/2019 �� �������� �� 30.06.2017 � 777/181659/�/933/01. ����� �� ��室� 10% � �㬬� 0.01 ���. ��. </Ground>
+</Payer>
+</Document>
+</CreditDocuments>
+
+</Statement>
+</Statements>
